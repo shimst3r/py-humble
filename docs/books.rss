@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Py Humble Books</title>
+    <link>https://shimst3r.xyz/py-humble/books</link>
+    <description>Awesome RSS Feeds about HumbleBundle Books bundles!</description>
+    <atom:link href="https://shimst3r.xyz/py-humble/books" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Aug 2023 00:44:58 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Aug 2023 02:44:58 +0200</pubDate>
+    <item>
+      <title>Traveller by Mongoose Publishing</title>
+      <link>https://humblebundle.com/books/traveller-mongoose-publishing-books</link>
+      <description>The universe awaits</description>
+      <content:encoded>Set out on a journey into the unknown in &lt;em&gt;Traveller&lt;/em&gt;, the science fiction role-playing game of the far future! This starfarers’ bundle features over a dozen digital rulebooks, sourcebooks, and character &amp; campaign resources for the latest edition of the iconic tabletop RPG. Plunder the galaxy in the &lt;em&gt;Pirates of Drinax&lt;/em&gt; campaign and &lt;em&gt;Drinaxian Companion&lt;/em&gt;, expanding the setting with new possibilities for adventure. Gear up with weapons and equipment using the &lt;em&gt;Central Supply Catalogue&lt;/em&gt; and &lt;em&gt;Field Catalogue&lt;/em&gt;. Get everything you need to craft and play your own sci-fi saga, and help support Cancer Research UK with your purchase!</content:encoded>
+      <pubDate>Wed, 02 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CompTIA and Cisco Cert Prep by Packt</title>
+      <link>https://humblebundle.com/books/comptia-and-cisco-cert-prep-packt-books</link>
+      <description>Certification training for IT pros</description>
+      <content:encoded>Learn the knowledge you need to get certified in CompTIA and Cisco with this bundle of ebooks from Packt. Featuring exam guides and practice tests for cert in CyberOps, implementing and administering Cisco solutions, CompTIA Security+, and much more, this bundle will help IT professionals take the next step in their career. Study up, and help support charity: water with your purchase!</content:encoded>
+      <pubDate>Mon, 31 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tad Williams: Osten Ard, Otherland, and Beyond</title>
+      <link>https://humblebundle.com/books/tad-williams-osten-ard-otherland-and-beyond-books</link>
+      <description>Experience the vast world of Tad Williams</description>
+      <content:encoded>Get lost in the boundless imagination of best-selling science fiction and fantasy author Tad Williams with this vast collection of novels. Techno-thriller &lt;em&gt;City of Golden Shadow&lt;/em&gt; is your intro to the harrowing &lt;em&gt;Otherland&lt;/em&gt; series, where vast conspiracies harness wondrous VR worlds for wicked ends. Journey into Williams’ beloved fantasy world of Osten Ard—praised by the likes of George R. R. Martin and Patrick Rothfuss—with the &lt;em&gt;The Witchwood Crown&lt;/em&gt;. Dive into these and other series from Williams (including &lt;em&gt;Shadowmarch&lt;em&gt; and &lt;em&gt;Bobby Dollar&lt;em&gt;), and support National Coalition Against Censorship with your purchase! &lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</content:encoded>
+      <pubDate>Sat, 29 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bethesda 3D Printables and TTRPGs Feat. Elder Scrolls</title>
+      <link>https://humblebundle.com/bethesda-3d-printables-and-ttrpgs-feat-elder-scrolls-books</link>
+      <description>The Elder Scrolls, Dishonored, and Fallout tabletop adventures</description>
+      <content:encoded>Explore the realms of Tamriel, the Empire of the Isles, and the wastelands of America with this bundle of tabletop role-playing &amp; war-gaming ebooks and 3D printables! This bundle featuring Bethesda’s popular fantasy and sci-fi universes features rulebooks and more resources for &lt;em&gt;Fallout: The Roleplaying Game&lt;/em&gt; &amp; &lt;em&gt;Wasteland Warfare&lt;/em&gt;, &lt;em&gt;The Elder Scrolls: Call to Arms&lt;/em&gt;, and &lt;em&gt;Dishonored&lt;/em&gt;, plus a cache of 3D print-at-home files to bring your wastelands and tombs to life. Experience your favorite universes in a whole new dimension, and help support International Rescue Committee with your purchase!</content:encoded>
+      <pubDate>Thu, 27 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevOps 2023 by O'Reilly</title>
+      <link>https://humblebundle.com/books/devops-2023-oreilly-books</link>
+      <description>Your software development &amp; operations reference library</description>
+      <content:encoded>Expand your DevOps skills and solve a range of engineering &amp; IT issues with this bundle of books from O’Reilly. Learn how to harness service mesh technology in &lt;em&gt;Consul: Up and Running&lt;/em&gt;. Discover best practices for managing reliable and sustainable systems in &lt;em&gt;Modern System Administration&lt;/em&gt;. Tap into the collected wisdom of &lt;em&gt;97 Things Every IT Professional Should Know&lt;/em&gt; and more, and help support Code for America.</content:encoded>
+      <pubDate>Mon, 24 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pamper Your Pets</title>
+      <link>https://humblebundle.com/books/pamper-your-pets-books</link>
+      <description>Learn more about your beloved pet friends!</description>
+      <content:encoded>There are few things people love more than their pets—and this bundle of animal-care books is a great collection of references and guides for current pet keepers or anyone looking to brighten up their world with a new companion. From training to diet to care to history and evolution, this bundle was made to tell you everything you’d ever want to know about cats and dogs. Get &lt;em&gt;Home Cooking for Your Dog&lt;/em&gt;, &lt;em&gt;The Original Dog Bible&lt;/em&gt;, &lt;em&gt;The Total Cat Manual&lt;/em&gt;, &lt;em&gt;When Cats Reigned Like Kings&lt;/em&gt;, are dozens more, and help support the World Wildlife Fund!</content:encoded>
+      <pubDate>Sat, 22 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thanks for Coming to My TED Talk by TED Books</title>
+      <link>https://humblebundle.com/books/thanks-for-coming-to-my-ted-talk-ted-books-books</link>
+      <description>Treat yourself to new ideas and inspiration</description>
+      <content:encoded>Revitalize your perspectives on tranquility, emotional healing, motivation, and more with this curated bundle from TED Books and Simon &amp; Schuster. Learn how to cherish serenity and seek inner peace with &lt;em&gt;Art of Stillness&lt;/em&gt;. Get guidance on overcoming heartache and loss in &lt;em&gt;How to Fix a Broken Heart&lt;/em&gt;. Delve into the intricacies of human motivation in &lt;em&gt;Payoff&lt;/em&gt;. Uncover a wealth of wisdom and wonder in this 24-ebook bundle, valued at over $200, and support the mission of Worldreader with your purchase!</content:encoded>
+      <pubDate>Thu, 20 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Ops and Development by BPB</title>
+      <link>https://humblebundle.com/books/cloud-ops-and-development-bpb-books</link>
+      <description>Supercharge your cloud development skills</description>
+      <content:encoded>Elevate your cloud expertise with this comprehensive ebook bundle from BPB Publications! Uncover the secrets of container management and boost your employability with &lt;em&gt;Kubernetes for Jobseekers&lt;/em&gt;. Refine your admin skills with the &lt;em&gt;Linux Server Cookbook&lt;/em&gt;. Get a full-spectrum rundown on a critical suite of tools with &lt;em&gt;Google Cloud Platform All-In-One Guide&lt;/em&gt;. Pay what you want for all these and over 30 more titles, and help support Covenant House with your purchase!</content:encoded>
+      <pubDate>Mon, 17 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Game Design and Puzzlecraft 2023 by Lone Shark Games</title>
+      <link>https://humblebundle.com/books/game-design-and-puzzlecraft-2023-lone-shark-games-and-friends-books</link>
+      <description>A gamesmith &amp; puzzlecraft masterclass</description>
+      <content:encoded>Hone your board game and puzzle design acumen with this ebook bundle packed with wisdom from the minds behind some of the world’s most revered games! &lt;em&gt;Puzzlecraft&lt;/em&gt; will provide you a profound understanding of this fascinating discipline, along with step-by-step instructions to create your own conundrums. In &lt;em&gt;Think Like a Game Designer&lt;/em&gt;, you’ll get expert guidance on the steps required to turn your passion into a viable career. With &lt;em&gt;Mindspaces&lt;/em&gt;, you’ll dive into a handcrafted collection of crossword puzzles designed as therapeutic exercises, along with a series of essays to draw out your creativity. &lt;br&gt;&lt;br&gt; Pay what you want for these and over 20 other ebooks from Lone Shark Games and more great publishers, and support Active Minds!&lt;br&gt;&lt;br&gt;&lt;em&gt;Active Minds is grateful for Humble Bundle's support of our organization's important mental health mission. Active Minds was not involved in the selection of the content in this promotion and does not necessarily endorse this content or agree with the advice or ideas expressed in them.&lt;/em&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Classic Swords and Sorcery TTRPGs</title>
+      <link>https://humblebundle.com/books/classic-swords-and-sorcery-ttrpgs-books</link>
+      <description>A vault of role-playing riches</description>
+      <content:encoded>Gritty fantasy, bands of thieves &amp; barbarians, and dark necromancy rule in this treasure trove of tabletop RPG resources! This eclectic collection of rulebooks, campaign settings, and supplements explores the pulpier side of fantasy role-playing. Delve into &lt;em&gt;Rappan Athuk&lt;/em&gt;, the world’s deadliest dungeon. Discover Wonders of the Ages in the &lt;em&gt;Tome of Artifacts&lt;/em&gt;. Stock your temples, forests, and seas with creatures of the massive, popular &lt;em&gt;Monstrosities&lt;/em&gt; tome. Get all the digital goods for $25, or double down with the 580+ page softcover edition of &lt;em&gt;Monstrosities&lt;/em&gt; for $65—and help support Navy-Marine Corps Relief Society with your purchase! &lt;br&gt;&lt;br&gt; &lt;em&gt;Shipping and handling for physical Monstrosities book not included—see item description for details.&lt;/em&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 18:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
