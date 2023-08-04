@@ -1,7 +1,7 @@
 import html
 
 import pendulum
-
+import requests
 from feedgen.feed import FeedGenerator
 
 
@@ -17,10 +17,24 @@ def generate(category, products):
 
     for product in products:
         fe = fg.add_entry()
-        fe.title(product["tile_short_name"])
-        fe.link(href=f"https://humblebundle.com{product['product_url']}")
-        fe.content(html.unescape(product["detailed_marketing_blurb"]))
-        fe.pubDate(f"{product['start_date|datetime']}Z")
-        fe.description(html.unescape(product["short_marketing_blurb"]))
+        _set_image(fe, product)
+        _set_metadata(fe, product)
 
     return fg.rss_str(pretty=True)
+
+
+def _set_image(entry, product):
+    r = requests.head(product["high_res_tile_image"])
+    if r.status_code == 200:
+        url = product["high_res_tile_image"]
+        length = r.headers["content-length"]
+        type = r.headers["content-type"]
+        entry.enclosure(url=url, length=length, type=type)
+
+
+def _set_metadata(entry, product) -> None:
+    entry.title(product["tile_short_name"])
+    entry.link(href=f"https://humblebundle.com{product['product_url']}")
+    entry.content(html.unescape(product["detailed_marketing_blurb"]))
+    entry.pubDate(f"{product['start_date|datetime']}Z")
+    entry.description(html.unescape(product["short_marketing_blurb"]))

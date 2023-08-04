@@ -29,4 +29,4 @@ def test_generator(category):
     rss = feed_generator.generate(category, products)
 
     assert type(rss) is bytes
-    assert rss is not b""
+    assert rss != b""
