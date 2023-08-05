@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Aug 2023 10:37:44 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Aug 2023 12:37:44 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2023 08:08:24 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2023 10:08:24 +0200</pubDate>
+    <item>
+      <title>Jackbox Jukebox: Playing the Odds</title>
+      <link>https://humblebundle.com/games/jackbox-jukebox-playing-odds</link>
+      <description>Bring Jackbox to the party</description>
+      <content:encoded>Invite some rowdy merrymaking and hilarity to your next gathering with this bundle of &lt;em&gt;Jackbox&lt;/em&gt; party game collections for PC! You’ll get &lt;em&gt;Jackbox Party Pack 9&lt;/em&gt;—the latest compilation in the series—plus the rest of the odd-numbered &lt;em&gt;Party Packs&lt;/em&gt;, each brimming with individual games. Duel your friends with witty rejoinders in &lt;em&gt;Quiplash&lt;/em&gt;. Test your high-speed trivia acumen in &lt;em&gt;Quixort&lt;/em&gt;. Put your mastery of pop culture where your mouth is in &lt;em&gt;You Don’t Know Jack: Full Stream&lt;/em&gt;. You’ll also get two standalone party games sure to win over the crowd—all while supporting World Central Kitchen, Girls Who Code, and The Trevor Project with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/5a0f7bb3b0ce9e874b60a385520b49114add7d1a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=fca464021d967b70337187a4725bfd82" length="144546" type="image/jpeg"/>
+      <pubDate>Fri, 04 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Ultimate Racing Sim Bundle - Victory Lap</title>
       <link>https://humblebundle.com/games/ultimate-racing-sim-bundle-victory-lap</link>
@@ -41,14 +49,6 @@
       <content:encoded>Invite some whimsy into your gaming life with this collection of wholesome and cozy games. Revitalize the family business, manage adorable felines, and cultivate a quirky patronage in &lt;em&gt;Cat Cafe Manager&lt;/em&gt;. Learn to take it slow and explore gorgeous low-poly landscapes in the indie hit &lt;em&gt;A Short Hike&lt;/em&gt;. Juggle the daily demands of a cottage occult practice while navigating knotty relationships and a demanding clientele in &lt;em&gt;Witch Life Story&lt;/em&gt;. Pay what you want for these games and more, and help the ACLU and Legal Defense Fund with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/877e3043fcfe39cceffd7ef8ded670b416110a96.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f6ffb4491fa04339f78c9f511ea12ad2" length="90196" type="image/jpeg"/>
       <pubDate>Wed, 19 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>At-Home Arcade</title>
-      <link>https://humblebundle.com/games/athome-arcade</link>
-      <description>Your dream arcade at home</description>
-      <content:encoded>Game to your heart’s content without dropping a fortune in pocket change with our At-Home Arcade bundle! Brutalize your opponents (and finish them with Fatalities for good measure) in the smash-hit fighter &lt;em&gt;Mortal Kombat 11: Ultimate Edition&lt;/em&gt;. Clean up the mean streets in the name of love in &lt;em&gt;River City Girls&lt;/em&gt;. Reduce your race rivals to piles of flaming wreckage in &lt;em&gt;Trail Out&lt;/em&gt;. Go on a gaming rampage, and support the Raiden Science Foundation with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/6f0ade53f2ba274928efac294229a80417f3fb0a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cb916c95e5571511ed4004496ff3f752" length="118349" type="image/jpeg"/>
-      <pubDate>Fri, 14 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
