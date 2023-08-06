@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Aug 2023 08:08:23 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Aug 2023 10:08:23 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2023 08:08:05 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2023 10:08:05 +0200</pubDate>
+    <item>
+      <title>Mexican Cooking</title>
+      <link>https://humblebundle.com/books/mexican-cooking-books</link>
+      <description>A vast culinary library of Mexico</description>
+      <content:encoded>Deepen your understanding of Mexican cuisine with this expansive collection of cookbooks, designed to help you harness and master the flavors you love! Start your journey with &lt;em&gt;Oaxaca: Home Cooking from the Heart of Mexico&lt;/em&gt; for a collection of authentic recipes from the region’s rich culinary tradition. Step into &lt;em&gt;Claudia’s Cocina&lt;/em&gt; for &lt;em&gt;MasterChef&lt;/em&gt; winner Claudia Sandoval’s personal take on traditional Mexican cuisine. Tuck into &lt;em&gt;Vegan Mexico&lt;/em&gt; for delicious plant-based recipes that will help you hit your macros. Pay what you want for these books and more than 20 others, spanning Mexico’s multifaceted cuisine, and support the Global FoodBanking Network with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/d4f951bd7747a4194a93751c20e50dd4af951e29.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e0a4403ce4e60fcddab2ca7ce5e31b13" length="172801" type="image/jpeg"/>
+      <pubDate>Sat, 05 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Traveller by Mongoose Publishing</title>
       <link>https://humblebundle.com/books/traveller-mongoose-publishing-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Elevate your cloud expertise with this comprehensive ebook bundle from BPB Publications! Uncover the secrets of container management and boost your employability with &lt;em&gt;Kubernetes for Jobseekers&lt;/em&gt;. Refine your admin skills with the &lt;em&gt;Linux Server Cookbook&lt;/em&gt;. Get a full-spectrum rundown on a critical suite of tools with &lt;em&gt;Google Cloud Platform All-In-One Guide&lt;/em&gt;. Pay what you want for all these and over 30 more titles, and help support Covenant House with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/04e42a706d825884ebc37099b357f69f17f3f6e9.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d44ce8ce17b4fa97e71d1f04d8a41c49" length="31157" type="image/jpeg"/>
       <pubDate>Mon, 17 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Game Design and Puzzlecraft 2023 by Lone Shark Games</title>
-      <link>https://humblebundle.com/books/game-design-and-puzzlecraft-2023-lone-shark-games-and-friends-books</link>
-      <description>A gamesmith &amp; puzzlecraft masterclass</description>
-      <content:encoded>Hone your board game and puzzle design acumen with this ebook bundle packed with wisdom from the minds behind some of the world’s most revered games! &lt;em&gt;Puzzlecraft&lt;/em&gt; will provide you a profound understanding of this fascinating discipline, along with step-by-step instructions to create your own conundrums. In &lt;em&gt;Think Like a Game Designer&lt;/em&gt;, you’ll get expert guidance on the steps required to turn your passion into a viable career. With &lt;em&gt;Mindspaces&lt;/em&gt;, you’ll dive into a handcrafted collection of crossword puzzles designed as therapeutic exercises, along with a series of essays to draw out your creativity. &lt;br&gt;&lt;br&gt; Pay what you want for these and over 20 other ebooks from Lone Shark Games and more great publishers, and support Active Minds!&lt;br&gt;&lt;br&gt;&lt;em&gt;Active Minds is grateful for Humble Bundle's support of our organization's important mental health mission. Active Minds was not involved in the selection of the content in this promotion and does not necessarily endorse this content or agree with the advice or ideas expressed in them.&lt;/em&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/e041d64d46cb9890cc6767d14726052a6d2aea11.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b1c25063d4768618fef738f15d49c5cb" length="71813" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
