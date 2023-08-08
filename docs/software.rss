@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Aug 2023 08:10:33 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Aug 2023 10:10:33 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2023 08:09:54 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2023 10:09:54 +0200</pubDate>
+    <item>
+      <title>Solo Indie Game Dev Essentials Bundle</title>
+      <link>https://humblebundle.com/software/solo-indie-game-dev-essentials-bundle-software</link>
+      <description>Succeed as a solo indie game developer</description>
+      <content:encoded>Whether you're making games as a hobby or your dream is to create video games for a living, this bundle of online courses from GameDev.tv will teach you the essentials that every solo indie developer needs! You’ll learn how to use engines like Godot, Unity, and Unreal to turn your vision into a playable game, get in-depth tutorials on how to create stunning pixel art and 3D assets, and more. You’ll also get a library of asset packs that’ll help you get your projects up and running in no time. Jumpstart your solo indie dev ambitions with this comprehensive curriculum, and help support One Tree Planted with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/3988eaf663ee2c9dc899a175879d567166d0114b.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=02c2ad42f018a1f1d04f7937df4d8fd6" length="59168" type="image/jpeg"/>
+      <pubDate>Mon, 07 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Essential Character Management Tools for Pathfinder</title>
       <link>https://humblebundle.com/software/wolflair-heros-lab-software-bundle-software</link>

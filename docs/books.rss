@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Aug 2023 08:10:30 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Aug 2023 10:10:30 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2023 08:09:50 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2023 10:09:50 +0200</pubDate>
+    <item>
+      <title>Math for Programmers 2023 by Manning</title>
+      <link>https://humblebundle.com/books/math-for-programmers-2023-manning-books</link>
+      <description>Level up your programming fundamentals</description>
+      <content:encoded>Dive into math, machine learning, and other crucial disciplines and take your programming skills to the next level! Our latest bundle from Manning Publications will help you harness math to write better code, utilize deep learning across various languages and applications, and get up to speed on foundational concepts like functional programming, cryptography, and data structures. Pay what you want and help support Trees, Water &amp; People with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/57d2d615aaa7ad50eb6e73e93927622ef3a75a8e.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9db31843017ff44b6751de1dfd460893" length="56055" type="image/jpeg"/>
+      <pubDate>Mon, 07 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mexican Cooking</title>
       <link>https://humblebundle.com/books/mexican-cooking-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Revitalize your perspectives on tranquility, emotional healing, motivation, and more with this curated bundle from TED Books and Simon &amp; Schuster. Learn how to cherish serenity and seek inner peace with &lt;em&gt;Art of Stillness&lt;/em&gt;. Get guidance on overcoming heartache and loss in &lt;em&gt;How to Fix a Broken Heart&lt;/em&gt;. Delve into the intricacies of human motivation in &lt;em&gt;Payoff&lt;/em&gt;. Uncover a wealth of wisdom and wonder in this 24-ebook bundle, valued at over $200, and support the mission of Worldreader with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/6959e9701e036241a5db46c6e26908b949211578.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cc90be317cd2df9582cceafc4dd639c9" length="49195" type="image/jpeg"/>
       <pubDate>Thu, 20 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Ops and Development by BPB</title>
-      <link>https://humblebundle.com/books/cloud-ops-and-development-bpb-books</link>
-      <description>Supercharge your cloud development skills</description>
-      <content:encoded>Elevate your cloud expertise with this comprehensive ebook bundle from BPB Publications! Uncover the secrets of container management and boost your employability with &lt;em&gt;Kubernetes for Jobseekers&lt;/em&gt;. Refine your admin skills with the &lt;em&gt;Linux Server Cookbook&lt;/em&gt;. Get a full-spectrum rundown on a critical suite of tools with &lt;em&gt;Google Cloud Platform All-In-One Guide&lt;/em&gt;. Pay what you want for all these and over 30 more titles, and help support Covenant House with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/04e42a706d825884ebc37099b357f69f17f3f6e9.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d44ce8ce17b4fa97e71d1f04d8a41c49" length="31157" type="image/jpeg"/>
-      <pubDate>Mon, 17 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
