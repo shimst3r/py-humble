@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Aug 2023 08:10:02 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Aug 2023 10:10:02 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 08:09:30 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 10:09:30 +0200</pubDate>
+    <item>
+      <title>Pathfinder Tales by Paizo</title>
+      <link>https://humblebundle.com/books/pathfinder-tales-paizo-books</link>
+      <description>Novels &amp; stories from the realms of Pathfinder</description>
+      <content:encoded>Discover tales of heroism, espionage, love, blood, and betrayal in this bundle of fiction set in the award-winning world of the Pathfinder Roleplaying Game! This library of 40+ ebooks from Paizo is filled with epic adventures from across the world of Golarion. Uncover the secrets of the elves in the fantastical &lt;em&gt;Queen of Thorns&lt;/em&gt;. Explore the impact of strange wonders from the sky in &lt;em&gt;Reign of Stars&lt;/em&gt;. Sail the Inner Sea with the crew of &lt;em&gt;Pirate’s Promise&lt;/em&gt;, and much more—and help support ComicBooks for Kids!</content:encoded>
+      <enclosure url="https://hb.imgix.net/75d7283f511e5ea8795601cca1c7f36553632e8f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9dd23bc4863464a7ffaf3d324e46e96d" length="80088" type="image/jpeg"/>
+      <pubDate>Thu, 10 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Math for Programmers 2023 by Manning</title>
       <link>https://humblebundle.com/books/math-for-programmers-2023-manning-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>There are few things people love more than their pets—and this bundle of animal-care books is a great collection of references and guides for current pet keepers or anyone looking to brighten up their world with a new companion. From training to diet to care to history and evolution, this bundle was made to tell you everything you’d ever want to know about cats and dogs. Get &lt;em&gt;Home Cooking for Your Dog&lt;/em&gt;, &lt;em&gt;The Original Dog Bible&lt;/em&gt;, &lt;em&gt;The Total Cat Manual&lt;/em&gt;, &lt;em&gt;When Cats Reigned Like Kings&lt;/em&gt;, are dozens more, and help support the World Wildlife Fund!</content:encoded>
       <enclosure url="https://hb.imgix.net/d9c172b9ba45624fef213d5a16d990543bcb3592.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=97ba348c49fce248d5e56d3b62684e8f" length="63449" type="image/jpeg"/>
       <pubDate>Sat, 22 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thanks for Coming to My TED Talk by TED Books</title>
-      <link>https://humblebundle.com/books/thanks-for-coming-to-my-ted-talk-ted-books-books</link>
-      <description>Treat yourself to new ideas and inspiration</description>
-      <content:encoded>Revitalize your perspectives on tranquility, emotional healing, motivation, and more with this curated bundle from TED Books and Simon &amp; Schuster. Learn how to cherish serenity and seek inner peace with &lt;em&gt;Art of Stillness&lt;/em&gt;. Get guidance on overcoming heartache and loss in &lt;em&gt;How to Fix a Broken Heart&lt;/em&gt;. Delve into the intricacies of human motivation in &lt;em&gt;Payoff&lt;/em&gt;. Uncover a wealth of wisdom and wonder in this 24-ebook bundle, valued at over $200, and support the mission of Worldreader with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/6959e9701e036241a5db46c6e26908b949211578.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cc90be317cd2df9582cceafc4dd639c9" length="49195" type="image/jpeg"/>
-      <pubDate>Thu, 20 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
