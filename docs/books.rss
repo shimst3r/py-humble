@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Aug 2023 08:08:27 +0000</lastBuildDate>
-    <pubDate>Sat, 12 Aug 2023 10:08:27 +0200</pubDate>
+    <lastBuildDate>Sun, 13 Aug 2023 08:08:18 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Aug 2023 10:08:18 +0200</pubDate>
+    <item>
+      <title>Tabletop RPG Resources by Dicegeeks</title>
+      <link>https://humblebundle.com/books/tabletop-rpg-resources-dicegeeks-books</link>
+      <description>Let the dice decide!</description>
+      <content:encoded>Embrace the will of the dice gods with this bundle of gamemaster resources from Dicegeeks, designed to help you improvise fun and imaginative scenarios at the table! You’ll get more than 30 books to help quickly randomly generate content for your tabletop RPGs, including the &lt;em&gt;The Great Book of Random Tables&lt;/em&gt; and a vast library of spin-offs, covering genres from fantasy to cyberpunk, and a multitude of scenarios, like adventure hooks, dungeons, inns and taverns, and more. Also included are titles packed with GMing guidance, like &lt;em&gt;The No-Prep Gamemaster&lt;/em&gt;, full of practical advice for running spontaneous RPG sessions. Pay what you want for this bundle of handy GM tools, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/c7879b211b41ce27606f208d330181d01a969510.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6c6b9e63ea229cb562ad2a44bc5bb0e0" length="78030" type="image/jpeg"/>
+      <pubDate>Sat, 12 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pathfinder Tales by Paizo</title>
       <link>https://humblebundle.com/books/pathfinder-tales-paizo-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Expand your DevOps skills and solve a range of engineering &amp; IT issues with this bundle of books from O’Reilly. Learn how to harness service mesh technology in &lt;em&gt;Consul: Up and Running&lt;/em&gt;. Discover best practices for managing reliable and sustainable systems in &lt;em&gt;Modern System Administration&lt;/em&gt;. Tap into the collected wisdom of &lt;em&gt;97 Things Every IT Professional Should Know&lt;/em&gt; and more, and help support Code for America.</content:encoded>
       <enclosure url="https://hb.imgix.net/275a241dd3a33970317790a2b48c681dbfb7585f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ffbf3143bc438a542940f0a9359ffb10" length="53643" type="image/jpeg"/>
       <pubDate>Mon, 24 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pamper Your Pets</title>
-      <link>https://humblebundle.com/books/pamper-your-pets-books</link>
-      <description>Learn more about your beloved pet friends!</description>
-      <content:encoded>There are few things people love more than their pets—and this bundle of animal-care books is a great collection of references and guides for current pet keepers or anyone looking to brighten up their world with a new companion. From training to diet to care to history and evolution, this bundle was made to tell you everything you’d ever want to know about cats and dogs. Get &lt;em&gt;Home Cooking for Your Dog&lt;/em&gt;, &lt;em&gt;The Original Dog Bible&lt;/em&gt;, &lt;em&gt;The Total Cat Manual&lt;/em&gt;, &lt;em&gt;When Cats Reigned Like Kings&lt;/em&gt;, are dozens more, and help support the World Wildlife Fund!</content:encoded>
-      <enclosure url="https://hb.imgix.net/d9c172b9ba45624fef213d5a16d990543bcb3592.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=97ba348c49fce248d5e56d3b62684e8f" length="63449" type="image/jpeg"/>
-      <pubDate>Sat, 22 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
