@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Aug 2023 08:10:23 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Aug 2023 10:10:23 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 08:09:33 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2023 10:09:33 +0200</pubDate>
+    <item>
+      <title>Microsoft Press Exam Ref Certification MEGA Bundle by Pearson</title>
+      <link>https://humblebundle.com/books/microsoft-press-exam-ref-certification-mega-bundle-pearson-books</link>
+      <description>Ace your Microsoft certification exams!</description>
+      <content:encoded>Got some looming certification exams you want to knock out of the park? Or are you a developer or IT professional looking to bolster your qualifications? This bundle of exam reference guides from Microsoft Press will give you the edge you need! Included are comprehensive, expertly crafted study materials packed with information pulled straight from Microsoft’s exam curriculum. Whether you’re looking to become certified as a Microsoft Cybersecurity Expert, get credentialed for numerous facets of the Azure cloud platform, or achieve other cert-related goals, these reference guides are your secret weapon. Plus, your purchase supports Women Who Code!</content:encoded>
+      <enclosure url="https://hb.imgix.net/0823b3868eee9aee51cb2e0bd115656a7aaea435.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7f39625d75c512ab0eac07ba38becf5f" length="64636" type="image/jpeg"/>
+      <pubDate>Mon, 14 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tabletop RPG Resources by Dicegeeks</title>
       <link>https://humblebundle.com/books/tabletop-rpg-resources-dicegeeks-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Explore the realms of Tamriel, the Empire of the Isles, and the wastelands of America with this bundle of tabletop role-playing &amp; war-gaming ebooks and 3D printables! This bundle featuring Bethesda’s popular fantasy and sci-fi universes features rulebooks and more resources for &lt;em&gt;Fallout: The Roleplaying Game&lt;/em&gt; &amp; &lt;em&gt;Wasteland Warfare&lt;/em&gt;, &lt;em&gt;The Elder Scrolls: Call to Arms&lt;/em&gt;, and &lt;em&gt;Dishonored&lt;/em&gt;, plus a cache of 3D print-at-home files to bring your wastelands and tombs to life. Experience your favorite universes in a whole new dimension, and help support International Rescue Committee with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/707f5c0a75a85e669be3066359bfb4c8102133d5.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3635d4d81e211d0b349fb2db510c9b0c" length="81004" type="image/jpeg"/>
       <pubDate>Thu, 27 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevOps 2023 by O'Reilly</title>
-      <link>https://humblebundle.com/books/devops-2023-oreilly-books</link>
-      <description>Your software development &amp; operations reference library</description>
-      <content:encoded>Expand your DevOps skills and solve a range of engineering &amp; IT issues with this bundle of books from O’Reilly. Learn how to harness service mesh technology in &lt;em&gt;Consul: Up and Running&lt;/em&gt;. Discover best practices for managing reliable and sustainable systems in &lt;em&gt;Modern System Administration&lt;/em&gt;. Tap into the collected wisdom of &lt;em&gt;97 Things Every IT Professional Should Know&lt;/em&gt; and more, and help support Code for America.</content:encoded>
-      <enclosure url="https://hb.imgix.net/275a241dd3a33970317790a2b48c681dbfb7585f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ffbf3143bc438a542940f0a9359ffb10" length="53643" type="image/jpeg"/>
-      <pubDate>Mon, 24 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
