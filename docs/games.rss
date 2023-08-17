@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 08:09:45 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Aug 2023 10:09:45 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2023 08:09:28 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2023 10:09:28 +0200</pubDate>
+    <item>
+      <title>Spaced Out</title>
+      <link>https://humblebundle.com/games/spaced-out</link>
+      <description>Set course for wacky, wild space fun</description>
+      <content:encoded>Explore strange new worlds (with a capital “S”) in this bundle of quirky, genre-spanning space games, set in some of the wackiest corners of the cosmos! Blast your way through an alien-occupied Earth accompanied by a star-studded cast of talking guns in the comedy FPS &lt;em&gt;High on Life&lt;/em&gt;. Catalog the mysteries of an exoplanet brimming with zany life as a fourth-rate space explorer in &lt;em&gt;Journey to the Savage Planet&lt;/em&gt;. Embark on a wild trek through a corporate-controlled solar system full of eccentric characters and offbeat humor in the role-playing adventure &lt;em&gt;The Outer Worlds&lt;/em&gt; (plus the &lt;em&gt;Expansion Pass&lt;/em&gt; featuring &lt;em&gt;Peril on Gorgon&lt;/em&gt; and &lt;em&gt;Murder on Eridanos&lt;/em&gt;). Pay what you want for all these games and more, and help support Covenant House &amp; your choice of charity with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/27d98acaa5ef5ee758581a5559adfe935236305f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c419f6e72d2aee1435edd36d4bd59708" length="123660" type="image/jpeg"/>
+      <pubDate>Wed, 16 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Take Your Turn: Tactics &amp; RPGs</title>
       <link>https://humblebundle.com/games/take-your-turn-tactics-rpgs</link>
@@ -49,14 +57,6 @@
       <content:encoded>Gear up for adventure in the legendary high-fantasy open world MMORPG RuneScape! Our epic, popular bundle returns with a 1-month membership granting access to additional content and features, along with a treasure vault full of Keys, Umbral Chests, RuneCoins, cosmetics, and more to enhance your journey. Explore the land of Gielinor and get ready for the upcoming &lt;em&gt;Necromancy&lt;/em&gt; update on August 7, and help support Gameheads and Girls Make Games Scholarship Fund with your purchase! &lt;br/&gt;&lt;br/&gt; &lt;em&gt;Buyers who already own cosmetic items will not receive duplicates.&lt;/em&gt; &lt;br/&gt;&lt;br/&gt;Restrictions:&lt;br/&gt;&lt;em&gt;Bundle purchase grants single key that will redeem all items on one Runescape account. Limit one key redemption per account.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;span&gt;Ironman restrictions apply to this bundle. Ironman accounts are ineligible to redeem this bundle. &lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;Accounts with an active RuneScape Mobile Subscription will not be able to redeem this code for membership or the items. &lt;br/&gt;&lt;br/&gt;Accounts with two and a half years or more of membership stacked will not be able to redeem.&lt;/i&gt;</content:encoded>
       <enclosure url="https://hb.imgix.net/ec4acf838b7e0b5f4d1beab214ff5d727c7ebc4d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ab4b234ee50f481b99b1f73e60370268" length="69117" type="image/jpeg"/>
       <pubDate>Fri, 28 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RPG Legends: Baldur's Gate &amp; Beyond</title>
-      <link>https://humblebundle.com/games/rpg-legends-baldurs-gate-beyond</link>
-      <description>Mythic adventures and modern classics</description>
-      <content:encoded>Lose yourself in some of the most immersive, beloved, legendary PC role-playing experiences of all time—and get Lose yourself in some of the most immersive, beloved, legendary PC role-playing experiences of all time! Rediscover a genre-defining saga in the Enhanced Editions of &lt;em&gt;Baldur’s Gate&lt;/em&gt; and &lt;em&gt;Baldur’s Gate II&lt;/em&gt; from Beamdog. Embark on an epic journey in 2021’s acclaimed &lt;em&gt;Pathfinder: Wrath of the Righteous&lt;/em&gt;. Return to the Forgotten Realms in &lt;em&gt;Neverwinter Nights: Complete Adventures&lt;/em&gt; and more, and help support Active Minds with your purchase! &lt;p&gt;&lt;em&gt;Active Minds is grateful for Humble Bundle's support of our organization's important mental health mission. Active Minds was not involved in the selection of the books in this promotion and does not necessarily endorse those books or agree with the advice or ideas expressed in them.&lt;/em&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/b9535024ac6ae78f2b3e956022b3bf5eb18dd5e5.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f838df0708b79f2dfae6c9dd60f0116b" length="88741" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
