@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Aug 2023 08:09:29 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Aug 2023 10:09:29 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 08:09:24 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2023 10:09:24 +0200</pubDate>
+    <item>
+      <title>"Bedroom to Billboards" - Your Complete Music Bundle</title>
+      <link>https://humblebundle.com/software/bedroom-to-billboards-your-complete-music-bundle-software</link>
+      <description>Royalty-free loops and more!</description>
+      <content:encoded>Make masterful modern music with this massive collection from Function Loops! This essential producer’s kit features 65 packs of 100% royalty-free samples, loops, one-shots, presets, vocals, MIDI files, and more from a wide range of today’s hottest genres. Pick up &lt;em&gt;Vocal Secrets&lt;/em&gt;, &lt;em&gt;Jazzy Hip Hop Cutz&lt;/em&gt;, and more to equip your home studio with thousands of versatile sound files that’ll help you reach new heights—and help support Music Will with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/e8a79217ad1985b9c9c7a9482b38238dd5a80c06.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=db795376c417d2692d69ef5ae9282c6f" length="111092" type="image/jpeg"/>
+      <pubDate>Thu, 17 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fantasy and Sci Fi essentials for Unity</title>
       <link>https://humblebundle.com/software/fantasy-and-sci-fi-essentials-for-unity-software</link>
@@ -57,14 +65,6 @@
       <content:encoded>Get access to comprehensive tutorials that’ll help you bring your dreams to life with this mega bundle of  Blender 3D modeling courses from Mammoth Interactive! Featuring over 68 hours of online tutorials being made available first exclusively through Humble Bundle, this comprehensive series includes foolproof, step-by-step, cookbook-style instructions to build a variety of characters, environments, and more. Whether you're a complete beginner or looking to take your 3D modeling skills to the next level, this bundle has it all. Help support Children's Miracle Network Hospitals with your purchase</content:encoded>
       <enclosure url="https://hb.imgix.net/8a83c4ebf1e45212f36c0ece9c728d26ff6509f2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d7675638a4196924778fef041288dfaf" length="87010" type="image/jpeg"/>
       <pubDate>Thu, 27 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unreal Engine Mega Pack</title>
-      <link>https://humblebundle.com/software/unreal-engine-mega-pack-software</link>
-      <description>Massive maps, modular environments, and more</description>
-      <content:encoded>Viking villages, pirate islands, medieval towns, and more… build the game world you’re envisioning with this bundle of assets curated for Unreal Engine developers! This mega pack features fully modular environments to build your play spaces, VFX libraries, packs of Nanite meshes for props, massive ready-to-go maps, and more from the creators at Hivemind. Plus, your purchase helps support World Wildlife Fund!</content:encoded>
-      <enclosure url="https://hb.imgix.net/7d674332bdd4e5828990f9a416fb9f1ecf9fc584.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0e216eca6102a8d1da02486da3356e04" length="81598" type="image/jpeg"/>
-      <pubDate>Thu, 13 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
