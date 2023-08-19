@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 08:09:23 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Aug 2023 10:09:23 +0200</pubDate>
+    <lastBuildDate>Sat, 19 Aug 2023 08:08:07 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Aug 2023 10:08:07 +0200</pubDate>
+    <item>
+      <title>If You Build It- Cities &amp; More</title>
+      <link>https://humblebundle.com/games/if-you-build-it-cities-more</link>
+      <description>Bring your master plan to life</description>
+      <content:encoded>Build bustling cities, rule mythic kingdoms, and shepherd entire civilizations in this god-like bundle of management sims! Shape the fate of planets as you strive to create the ultimate empire in &lt;em&gt;The Universim&lt;/em&gt;. Create the perfect hideout for a diabolical, minion-commanding mastermind in &lt;em&gt;Evil Genius 2: World Domination&lt;/em&gt;. Become a landlord dreaming of a real-estate empire in &lt;em&gt;The Tenants&lt;/em&gt;. Make dinosaur zoos, airborne metropolises, and more, and help support Lotus Outreach International with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/06def6fb55b7beea7daacb6b5bcf7453278b65f8.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c31b819e92972c9bcc1f632fcd070d26" length="91977" type="image/jpeg"/>
+      <pubDate>Fri, 18 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spaced Out</title>
       <link>https://humblebundle.com/games/spaced-out</link>
@@ -41,14 +49,6 @@
       <content:encoded>Invite some rowdy merrymaking and hilarity to your next gathering with this bundle of &lt;em&gt;Jackbox&lt;/em&gt; party game collections for PC! You’ll get &lt;em&gt;Jackbox Party Pack 9&lt;/em&gt;—the latest compilation in the series—plus the rest of the odd-numbered &lt;em&gt;Party Packs&lt;/em&gt;, each brimming with individual games. Duel your friends with witty rejoinders in &lt;em&gt;Quiplash&lt;/em&gt;. Test your high-speed trivia acumen in &lt;em&gt;Quixort&lt;/em&gt;. Put your mastery of pop culture where your mouth is in &lt;em&gt;You Don’t Know Jack: Full Stream&lt;/em&gt;. You’ll also get two standalone party games sure to win over the crowd—all while supporting World Central Kitchen, Girls Who Code, and The Trevor Project with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/5a0f7bb3b0ce9e874b60a385520b49114add7d1a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=fca464021d967b70337187a4725bfd82" length="144546" type="image/jpeg"/>
       <pubDate>Fri, 04 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RuneScape: Paths to Adventure - The Return</title>
-      <link>https://humblebundle.com/games/runescape-paths-to-adventure-the-return-bundle</link>
-      <description>Equip yourself for your RuneScape journey</description>
-      <content:encoded>Gear up for adventure in the legendary high-fantasy open world MMORPG RuneScape! Our epic, popular bundle returns with a 1-month membership granting access to additional content and features, along with a treasure vault full of Keys, Umbral Chests, RuneCoins, cosmetics, and more to enhance your journey. Explore the land of Gielinor and get ready for the upcoming &lt;em&gt;Necromancy&lt;/em&gt; update on August 7, and help support Gameheads and Girls Make Games Scholarship Fund with your purchase! &lt;br/&gt;&lt;br/&gt; &lt;em&gt;Buyers who already own cosmetic items will not receive duplicates.&lt;/em&gt; &lt;br/&gt;&lt;br/&gt;Restrictions:&lt;br/&gt;&lt;em&gt;Bundle purchase grants single key that will redeem all items on one Runescape account. Limit one key redemption per account.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;span&gt;Ironman restrictions apply to this bundle. Ironman accounts are ineligible to redeem this bundle. &lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;Accounts with an active RuneScape Mobile Subscription will not be able to redeem this code for membership or the items. &lt;br/&gt;&lt;br/&gt;Accounts with two and a half years or more of membership stacked will not be able to redeem.&lt;/i&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/ec4acf838b7e0b5f4d1beab214ff5d727c7ebc4d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ab4b234ee50f481b99b1f73e60370268" length="69117" type="image/jpeg"/>
-      <pubDate>Fri, 28 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
