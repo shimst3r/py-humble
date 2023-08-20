@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Aug 2023 08:08:06 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Aug 2023 10:08:06 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2023 08:08:27 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2023 10:08:27 +0200</pubDate>
+    <item>
+      <title>Steven Erikson's Malazan Book of the Fallen by TOR Publishing Group</title>
+      <link>https://humblebundle.com/books/steven-eriksons-malazan-book-fallen-tor-publishing-group-books</link>
+      <description>Lose yourself in an epic fantasy masterpiece</description>
+      <content:encoded>Discover the sweeping saga of gods, mages, mortals, and warring nations in &lt;em&gt;New York Times&lt;/em&gt;–bestselling author Steven Erikson’s Malazan Book of the Fallen, heralded as one of the most ambitious, complex, and masterful epic fantasy series of all time. This epic ebook bundle features the complete main 10-volume saga (from &lt;em&gt;Gardens of the Moon&lt;/em&gt; to the gripping final volume &lt;em&gt;The Crippled God&lt;/em&gt;), as well as seven additional titles that further explore the history and conflicts of the Malazan Empire. Journey deep into one of fantasy literature’s most celebrated worlds, and help support Covenant House with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/4ebc0d66ffcd759403c5e8bbaf98bb9ca30fbda7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=43ec62baaa8ad52c9548afd2b1d152ca" length="92131" type="image/jpeg"/>
+      <pubDate>Sat, 19 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hinamatsuri by One Peace Books</title>
       <link>https://humblebundle.com/books/hinamatsuri-one-peace-books-manga</link>
@@ -73,14 +81,6 @@
       <content:encoded>Learn the knowledge you need to get certified in CompTIA and Cisco with this bundle of ebooks from Packt. Featuring exam guides and practice tests for cert in CyberOps, implementing and administering Cisco solutions, CompTIA Security+, and much more, this bundle will help IT professionals take the next step in their career. Study up, and help support charity: water with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/b5bcd5b52c33628bf3af915fe39a680ac4c2a5df.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=199e46258ce61fa3719c7422b555279b" length="79230" type="image/jpeg"/>
       <pubDate>Mon, 31 Jul 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tad Williams: Osten Ard, Otherland, and Beyond</title>
-      <link>https://humblebundle.com/books/tad-williams-osten-ard-otherland-and-beyond-books</link>
-      <description>Experience the vast world of Tad Williams</description>
-      <content:encoded>Get lost in the boundless imagination of best-selling science fiction and fantasy author Tad Williams with this vast collection of novels. Techno-thriller &lt;em&gt;City of Golden Shadow&lt;/em&gt; is your intro to the harrowing &lt;em&gt;Otherland&lt;/em&gt; series, where vast conspiracies harness wondrous VR worlds for wicked ends. Journey into Williams’ beloved fantasy world of Osten Ard—praised by the likes of George R. R. Martin and Patrick Rothfuss—with the &lt;em&gt;The Witchwood Crown&lt;/em&gt;. Dive into these and other series from Williams (including &lt;em&gt;Shadowmarch&lt;em&gt; and &lt;em&gt;Bobby Dollar&lt;em&gt;), and support National Coalition Against Censorship with your purchase! &lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/a47d80bcc3b6ee5d663ee0a4f94d065349ea7449.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0935a66260f4f040c15876a062425951" length="97120" type="image/jpeg"/>
-      <pubDate>Sat, 29 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
