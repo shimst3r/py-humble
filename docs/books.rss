@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Aug 2023 08:08:18 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Aug 2023 10:08:18 +0200</pubDate>
+    <lastBuildDate>Sun, 27 Aug 2023 08:08:36 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Aug 2023 10:08:36 +0200</pubDate>
+    <item>
+      <title>Seanan McGuire: The Urban Fantasy Bundle</title>
+      <link>https://humblebundle.com/books/seanan-mcguire-urban-fantasy-bundle-books</link>
+      <description>Dive into the worlds of Seanan McGuire</description>
+      <content:encoded>Immerse yourself in the intricate and imaginative worlds of renowned urban fantasy author Seanan McGuire, winner of multiple Hugo, Nebula, and Alex Awards! You’ll discover two of the author's most-loved worlds through this carefully curated bundle of over 25 books. The &lt;em&gt;October Daye&lt;/em&gt; series, starting with &lt;em&gt;Rosemary and Rue&lt;/em&gt;, sends you a thrilling journey into fae politics and folklore alongside Toby Daye, a half-fae detective caught between two worlds. Beginning with &lt;em&gt;Discount Armageddon&lt;/em&gt;, the &lt;em&gt;InCryptid&lt;/em&gt; series follows cryptozoologist Verity Price as she navigates the hidden world of legendary creatures—and the dangers posed by those who wish to exploit them. Lose yourself in an immense library of award-winning urban fantasy, and help support The Electronic Frontier Foundation with your purchase! &lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</content:encoded>
+      <enclosure url="https://hb.imgix.net/54233d3634a0167e792deb7d7dffed3265ef76ba.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=be76195b498fded902672d9d09cd2c1d" length="98015" type="image/jpeg"/>
+      <pubDate>Sat, 26 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dungeon Crawl Classics MEGA Bundle by Goodman Games</title>
       <link>https://humblebundle.com/books/dungeon-crawl-classics-mega-bundle-goodman-games-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Dive into math, machine learning, and other crucial disciplines and take your programming skills to the next level! Our latest bundle from Manning Publications will help you harness math to write better code, utilize deep learning across various languages and applications, and get up to speed on foundational concepts like functional programming, cryptography, and data structures. Pay what you want and help support Trees, Water &amp; People with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/57d2d615aaa7ad50eb6e73e93927622ef3a75a8e.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9db31843017ff44b6751de1dfd460893" length="56055" type="image/jpeg"/>
       <pubDate>Mon, 07 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mexican Cooking</title>
-      <link>https://humblebundle.com/books/mexican-cooking-books</link>
-      <description>A vast culinary library of Mexico</description>
-      <content:encoded>Deepen your understanding of Mexican cuisine with this expansive collection of cookbooks, designed to help you harness and master the flavors you love! Start your journey with &lt;em&gt;Oaxaca: Home Cooking from the Heart of Mexico&lt;/em&gt; for a collection of authentic recipes from the region’s rich culinary tradition. Step into &lt;em&gt;Claudia’s Cocina&lt;/em&gt; for &lt;em&gt;MasterChef&lt;/em&gt; winner Claudia Sandoval’s personal take on traditional Mexican cuisine. Tuck into &lt;em&gt;Vegan Mexico&lt;/em&gt; for delicious plant-based recipes that will help you hit your macros. Pay what you want for these books and more than 20 others, spanning Mexico’s multifaceted cuisine, and support the Global FoodBanking Network with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/d4f951bd7747a4194a93751c20e50dd4af951e29.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e0a4403ce4e60fcddab2ca7ce5e31b13" length="172801" type="image/jpeg"/>
-      <pubDate>Sat, 05 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
