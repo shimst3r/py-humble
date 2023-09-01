@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 08:10:05 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Aug 2023 10:10:05 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 08:10:07 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2023 10:10:07 +0200</pubDate>
+    <item>
+      <title>Wheel of Time and More Dynamite Books!</title>
+      <link>https://humblebundle.com/books/wheel-time-and-more-dynamite-books-books</link>
+      <description>Legends and myths from across ages</description>
+      <content:encoded>Explore worlds of fantasy in this treasury of digital comics—featuring Robert Jordan’s beloved epic &lt;em&gt;The Wheel of Time&lt;/em&gt; and more! Discover the saga of the Dragon Reborn in the adaptations of &lt;em&gt;The Eye of the World&lt;/em&gt; (#1–35) and &lt;em&gt;New Spring&lt;/em&gt; (#1–8). Leap into stories of swords and sorcery from a range of characters and creators in &lt;em&gt;Savage Tales&lt;/em&gt;, featuring Red Sonja, Vampirella, and more. Get &lt;em&gt;Damsels&lt;/em&gt;, &lt;em&gt;Warlords&lt;/em&gt;, and more digital comics &amp; graphic novels from Dynamite!, and help support Direct Relief with your purchase. </content:encoded>
+      <enclosure url="https://hb.imgix.net/669bf83e5177eef23efb29f29150fe0b7a3512b5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c995cce8a4f7fd6f53d6cd7a0e909362" length="90313" type="image/jpeg"/>
+      <pubDate>Thu, 31 Aug 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Machine Learning and AI 2023 by Packt</title>
       <link>https://humblebundle.com/books/machine-learning-and-ai-2023-packt-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Embrace the will of the dice gods with this bundle of gamemaster resources from Dicegeeks, designed to help you improvise fun and imaginative scenarios at the table! You’ll get more than 30 books to help quickly randomly generate content for your tabletop RPGs, including the &lt;em&gt;The Great Book of Random Tables&lt;/em&gt; and a vast library of spin-offs, covering genres from fantasy to cyberpunk, and a multitude of scenarios, like adventure hooks, dungeons, inns and taverns, and more. Also included are titles packed with GMing guidance, like &lt;em&gt;The No-Prep Gamemaster&lt;/em&gt;, full of practical advice for running spontaneous RPG sessions. Pay what you want for this bundle of handy GM tools, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/c7879b211b41ce27606f208d330181d01a969510.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6c6b9e63ea229cb562ad2a44bc5bb0e0" length="78030" type="image/jpeg"/>
       <pubDate>Sat, 12 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pathfinder Tales by Paizo</title>
-      <link>https://humblebundle.com/books/pathfinder-tales-paizo-books</link>
-      <description>Novels &amp; stories from the realms of Pathfinder</description>
-      <content:encoded>Discover tales of heroism, espionage, love, blood, and betrayal in this bundle of fiction set in the award-winning world of the Pathfinder Roleplaying Game! This library of 40+ ebooks from Paizo is filled with epic adventures from across the world of Golarion. Uncover the secrets of the elves in the fantastical &lt;em&gt;Queen of Thorns&lt;/em&gt;. Explore the impact of strange wonders from the sky in &lt;em&gt;Reign of Stars&lt;/em&gt;. Sail the Inner Sea with the crew of &lt;em&gt;Pirate’s Promise&lt;/em&gt;, and much more—and help support ComicBooks for Kids!</content:encoded>
-      <enclosure url="https://hb.imgix.net/75d7283f511e5ea8795601cca1c7f36553632e8f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9dd23bc4863464a7ffaf3d324e46e96d" length="80088" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
