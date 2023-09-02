@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 08:10:09 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Sep 2023 10:10:09 +0200</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2023 08:09:05 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Sep 2023 10:09:05 +0200</pubDate>
+    <item>
+      <title>Tales from Wales Interactive</title>
+      <link>https://humblebundle.com/games/tales-from-wales-interactive</link>
+      <description>Decide how the story unfolds</description>
+      <content:encoded>Guide the action, steer the conversation, and be the arbiter of characters’ fates in this collection of interactive live-action movies and games from Wales Interactive! Uncover the perilous scientific secrets waiting in the locked-down laboratories of &lt;em&gt;The Complex&lt;/em&gt;. Try to prove your innocence in the high-stakes crime thriller &lt;em&gt;Late Shift&lt;/em&gt;. Navigate the landscape of modern love in the romantic comedy &lt;em&gt;Five Dates&lt;/em&gt;, and more, and help support Alzheimer’s Research UK with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/12b47b4ff07494d03f8daf37be1bcbf3cebc558a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=eddc1f6591c5fdd624f42565a0b369aa" length="74871" type="image/jpeg"/>
+      <pubDate>Fri, 01 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dino Fever</title>
       <link>https://humblebundle.com/games/dino-fever</link>
@@ -23,7 +31,7 @@
       <link>https://humblebundle.com/games/masters-modern-3d-platformers</link>
       <description>Channel the spirit of the 32-bit era</description>
       <content:encoded>Warp yourself back to the days of yore, when mascots and collectibles ruled the day, with this bundle of modern 3D platformers! Explore vibrant worlds and don magical headwear that grants awesome special abilities in &lt;em&gt;A Hat in Time&lt;/em&gt;, plus the &lt;em&gt;Seal the Deal&lt;/em&gt; DLC. Hop into action as the valiant marsupial &lt;em&gt;Kao the Kangaroo&lt;/em&gt;, a rollicking platformer brimming with classic vibes. Do the bidding of the devil himself in &lt;em&gt;Pumpkin Jack&lt;/em&gt;, an eerie Halloween-themed action-platformer that oozes style. Get all these games and more, and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/6302e43f631c1936adb25555c5d798ee44dd8dbd.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=92052bd8ebf46533aa580911506724ec" length="125902" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/6302e43f631c1936adb25555c5d798ee44dd8dbd.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=92052bd8ebf46533aa580911506724ec" length="125893" type="image/jpeg"/>
       <pubDate>Wed, 23 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,14 +49,6 @@
       <content:encoded>Explore strange new worlds (with a capital “S”) in this bundle of quirky, genre-spanning space games, set in some of the wackiest corners of the cosmos! Blast your way through an alien-occupied Earth accompanied by a star-studded cast of talking guns in the comedy FPS &lt;em&gt;High on Life&lt;/em&gt;. Catalog the mysteries of an exoplanet brimming with zany life as a fourth-rate space explorer in &lt;em&gt;Journey to the Savage Planet&lt;/em&gt;. Embark on a wild trek through a corporate-controlled solar system full of eccentric characters and offbeat humor in the role-playing adventure &lt;em&gt;The Outer Worlds&lt;/em&gt; (plus the &lt;em&gt;Expansion Pass&lt;/em&gt; featuring &lt;em&gt;Peril on Gorgon&lt;/em&gt; and &lt;em&gt;Murder on Eridanos&lt;/em&gt;). Pay what you want for all these games and more, and help support Covenant House &amp; your choice of charity with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/27d98acaa5ef5ee758581a5559adfe935236305f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c419f6e72d2aee1435edd36d4bd59708" length="123660" type="image/jpeg"/>
       <pubDate>Wed, 16 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take Your Turn: Tactics &amp; RPGs</title>
-      <link>https://humblebundle.com/games/take-your-turn-tactics-rpgs</link>
-      <description>Lead. Strategize. Conquer!</description>
-      <content:encoded>Use your head, plan your next move, and take command of the battlefield in this bundle of turn-based tactics and role-playing games! Lead powerful Wielders into the unknown lands of &lt;em&gt;Songs of Conquest&lt;/em&gt;. Become a 90s-era sci-fi action hero in the brutal world of &lt;em&gt;Jupiter Hell&lt;/em&gt;. Tame monsters as a freshly minted Battle Researcher in &lt;em&gt;Coromon&lt;/em&gt;. Get &lt;em&gt;Dungeon of Naheulbeuk: The Amulet of Chaos - Deluxe Edition&lt;/em&gt;, &lt;em&gt;Banner Saga Trilogy: Deluxe Pack&lt;/em&gt;, and more, and help support Girls Who Code and Code.org with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/7160aca99715797e02226ef8a62ec4c91a543565.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=524edee867f3cecf62fda310f0bbc3f7" length="89289" type="image/jpeg"/>
-      <pubDate>Fri, 11 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
