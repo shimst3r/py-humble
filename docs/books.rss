@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 08:09:04 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Sep 2023 10:09:04 +0200</pubDate>
+    <lastBuildDate>Sun, 03 Sep 2023 08:08:37 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Sep 2023 10:08:37 +0200</pubDate>
+    <item>
+      <title>Survival and Readiness Essentials by Skyhorse Publishing</title>
+      <link>https://humblebundle.com/books/survival-and-readiness-essentials-skyhorse-publishing-books</link>
+      <description>Self-sufficient living is within reach</description>
+      <content:encoded>Take the first steps to a life of self-sufficient abundance with this invaluable collection of books from Skyhorse Publishing. &lt;em&gt;The Homesteading Handbook&lt;/em&gt; features primers on canning, energy production, herbal medicine, and more. &lt;em&gt;Mini Farming&lt;/em&gt; will help you build a sustainable small-scale farm in your backyard, covering topics like seed-saving, sustainable soil fertility practices, and pest management. &lt;em&gt;Basic Fishing&lt;/em&gt; will turn you into an accomplished angler in no time, empowering you with the basics of equipment, bait and tackle, fishing safety, and other critical subjects. Get all these books and many more covering the full spectrum of survival and self-sufficiency, and help support Room to Read with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/65aa8c03b4b0598c822c13e79e3e8495464c93fe.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=595b8b60fb179fd70a16c3f5e043448c" length="108230" type="image/jpeg"/>
+      <pubDate>Sat, 02 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Wheel of Time and More Dynamite Books!</title>
       <link>https://humblebundle.com/books/wheel-time-and-more-dynamite-books-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Got some looming certification exams you want to knock out of the park? Or are you a developer or IT professional looking to bolster your qualifications? This bundle of exam reference guides from Microsoft Press will give you the edge you need! Included are comprehensive, expertly crafted study materials packed with information pulled straight from Microsoft’s exam curriculum. Whether you’re looking to become certified as a Microsoft Cybersecurity Expert, get credentialed for numerous facets of the Azure cloud platform, or achieve other cert-related goals, these reference guides are your secret weapon. Plus, your purchase supports Women Who Code!</content:encoded>
       <enclosure url="https://hb.imgix.net/0823b3868eee9aee51cb2e0bd115656a7aaea435.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7f39625d75c512ab0eac07ba38becf5f" length="64636" type="image/jpeg"/>
       <pubDate>Mon, 14 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tabletop RPG Resources by Dicegeeks</title>
-      <link>https://humblebundle.com/books/tabletop-rpg-resources-dicegeeks-books</link>
-      <description>Let the dice decide!</description>
-      <content:encoded>Embrace the will of the dice gods with this bundle of gamemaster resources from Dicegeeks, designed to help you improvise fun and imaginative scenarios at the table! You’ll get more than 30 books to help quickly randomly generate content for your tabletop RPGs, including the &lt;em&gt;The Great Book of Random Tables&lt;/em&gt; and a vast library of spin-offs, covering genres from fantasy to cyberpunk, and a multitude of scenarios, like adventure hooks, dungeons, inns and taverns, and more. Also included are titles packed with GMing guidance, like &lt;em&gt;The No-Prep Gamemaster&lt;/em&gt;, full of practical advice for running spontaneous RPG sessions. Pay what you want for this bundle of handy GM tools, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/c7879b211b41ce27606f208d330181d01a969510.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6c6b9e63ea229cb562ad2a44bc5bb0e0" length="78030" type="image/jpeg"/>
-      <pubDate>Sat, 12 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
