@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Sep 2023 08:10:18 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Sep 2023 10:10:18 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2023 08:10:28 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Sep 2023 10:10:28 +0200</pubDate>
+    <item>
+      <title>Game Programming with C++ &amp; Unreal by Packt</title>
+      <link>https://humblebundle.com/books/game-programming-with-c-unreal-packt-books</link>
+      <description>Crack the code to game development</description>
+      <content:encoded>Learn the secrets of scripting and best practices for programming with this bundle of books from Packt! This game developers’ library focuses on C++ and its coding applications in Unreal Engine and Blueprints visual scripting. Level up your skills through hands-on game dev projects, explore creating characters and animation, and much more, and help support Room to Read with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/33b7338c922472665c720018e1de25c79fafc73d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=dee4a7c9a64e1f5384e51ce644a5dee9" length="84963" type="image/jpeg"/>
+      <pubDate>Mon, 04 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Survival and Readiness Essentials by Skyhorse Publishing</title>
       <link>https://humblebundle.com/books/survival-and-readiness-essentials-skyhorse-publishing-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Get caught up in the hit manga series.&lt;/strong&gt; Discover the story of yakuza member Nitta and the telekinetic girl who falls onto his head and into his life in Masao Ohtake’s manga series &lt;em&gt;Hinamatsuri&lt;/em&gt;, basis of the hit anime! This bundle collects all 18 digital volumes currently available in English from publisher One Peace Books, making it the perfect way to catch up before the final volume arrives. Get swept up in a saga of time travel, crime syndicates, superpowers, and school days, and help support Save the Children with your purchase!&lt;br&gt;&lt;br&gt;&lt;a style="color: #ef9741;"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through BOOK☆WALKER. To access the content, create or log in to your BOOK☆WALKER account at&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; &lt;a href="https://global.bookwalker.jp"&gt;https://global.bookwalker.jp&lt;/a&gt;.</content:encoded>
       <enclosure url="https://hb.imgix.net/01ce1ea3bbe7a1fea944b7fb50b47ba1040def95.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=83eb0601dec664a1d70f33fdec00883c" length="146306" type="image/jpeg"/>
       <pubDate>Thu, 17 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Press Exam Ref Certification MEGA Bundle by Pearson</title>
-      <link>https://humblebundle.com/books/microsoft-press-exam-ref-certification-mega-bundle-pearson-books</link>
-      <description>Ace your Microsoft certification exams!</description>
-      <content:encoded>Got some looming certification exams you want to knock out of the park? Or are you a developer or IT professional looking to bolster your qualifications? This bundle of exam reference guides from Microsoft Press will give you the edge you need! Included are comprehensive, expertly crafted study materials packed with information pulled straight from Microsoft’s exam curriculum. Whether you’re looking to become certified as a Microsoft Cybersecurity Expert, get credentialed for numerous facets of the Azure cloud platform, or achieve other cert-related goals, these reference guides are your secret weapon. Plus, your purchase supports Women Who Code!</content:encoded>
-      <enclosure url="https://hb.imgix.net/0823b3868eee9aee51cb2e0bd115656a7aaea435.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7f39625d75c512ab0eac07ba38becf5f" length="64636" type="image/jpeg"/>
-      <pubDate>Mon, 14 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
