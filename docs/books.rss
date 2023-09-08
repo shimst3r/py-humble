@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 08:10:14 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Sep 2023 10:10:14 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Sep 2023 08:09:40 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Sep 2023 10:09:40 +0200</pubDate>
+    <item>
+      <title>Trail of Cthulhu by Pelgrane Press</title>
+      <link>https://humblebundle.com/books/trail-cthulhu-pelgrane-press-books</link>
+      <description>The Cthulhu Mythos at your table</description>
+      <content:encoded>Explore the sublime, horrifying worlds of H.P. Lovecraft at your gaming table with this &lt;em&gt;Trail of Cthulhu&lt;/em&gt; bundle from Pelgrane Press. Utilizing the GUMSHOE RPG system to foreground the investigative elements of the Cthulhu mythos stories, this award-winning RPG delivers an experience that makes clue-finding engrossing and interactive for players, while amplifying the cosmic dread. Get the &lt;em&gt;Trail of Cthulhu&lt;/em&gt; rulebook plus more than 20 other sourcebooks, adventures, and more to fuel uncountable campaigns’ worth of unfathomable eldritch horror, and support Cancer Research UK with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/879e6ff49ccaed818c59f599a3c6064060ef6e89.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=bcd2fd0ca7d0a6a09c4da2d441947afa" length="95030" type="image/jpeg"/>
+      <pubDate>Thu, 07 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Game Programming with C++ &amp; Unreal by Packt</title>
       <link>https://humblebundle.com/books/game-programming-with-c-unreal-packt-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Discover the sweeping saga of gods, mages, mortals, and warring nations in &lt;em&gt;New York Times&lt;/em&gt;–bestselling author Steven Erikson’s Malazan Book of the Fallen, heralded as one of the most ambitious, complex, and masterful epic fantasy series of all time. This epic ebook bundle features the complete main 10-volume saga (from &lt;em&gt;Gardens of the Moon&lt;/em&gt; to the gripping final volume &lt;em&gt;The Crippled God&lt;/em&gt;), as well as seven additional titles that further explore the history and conflicts of the Malazan Empire. Journey deep into one of fantasy literature’s most celebrated worlds, and help support Covenant House with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/4ebc0d66ffcd759403c5e8bbaf98bb9ca30fbda7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=43ec62baaa8ad52c9548afd2b1d152ca" length="92131" type="image/jpeg"/>
       <pubDate>Sat, 19 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hinamatsuri by One Peace Books</title>
-      <link>https://humblebundle.com/books/hinamatsuri-one-peace-books-manga</link>
-      <description>Get caught up in the hit manga series</description>
-      <content:encoded>Get caught up in the hit manga series.&lt;/strong&gt; Discover the story of yakuza member Nitta and the telekinetic girl who falls onto his head and into his life in Masao Ohtake’s manga series &lt;em&gt;Hinamatsuri&lt;/em&gt;, basis of the hit anime! This bundle collects all 18 digital volumes currently available in English from publisher One Peace Books, making it the perfect way to catch up before the final volume arrives. Get swept up in a saga of time travel, crime syndicates, superpowers, and school days, and help support Save the Children with your purchase!&lt;br&gt;&lt;br&gt;&lt;a style="color: #ef9741;"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through BOOK☆WALKER. To access the content, create or log in to your BOOK☆WALKER account at&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; &lt;a href="https://global.bookwalker.jp"&gt;https://global.bookwalker.jp&lt;/a&gt;.</content:encoded>
-      <enclosure url="https://hb.imgix.net/01ce1ea3bbe7a1fea944b7fb50b47ba1040def95.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=83eb0601dec664a1d70f33fdec00883c" length="146306" type="image/jpeg"/>
-      <pubDate>Thu, 17 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

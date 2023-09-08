@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 08:10:17 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Sep 2023 10:10:17 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Sep 2023 08:09:42 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Sep 2023 10:09:42 +0200</pubDate>
+    <item>
+      <title>The 2023 Learn Unity Game Development Bundle</title>
+      <link>https://humblebundle.com/software/2023-learn-unity-game-development-bundle-software</link>
+      <description>Level up your Unity skills</description>
+      <content:encoded>Learn to create games with Unity with these online courses from GameDev.tv—including multiple courses being made available for the first time exclusively through Humble Bundle! This comprehensive curriculum covers core skills and advanced concepts for the powerful and popular development platform, and includes assets to help create your game projects. Find out how to make a 2D RPG combat system, VR experience, or turn-based strategy game. Get trained up on visual scripting, multiplayer, network coding, and more. Level up your Unity game dev skills, and help support SpecialEffect with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/6822351313fc392eea49b79825813ea80f9fa411.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=713461e53d902156fcee6b62cd5d5dfb" length="197959" type="image/jpeg"/>
+      <pubDate>Thu, 07 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dream it, design it, build it! Professional home construction + Extensions</title>
       <link>https://humblebundle.com/software/dream-it-design-it-build-it-software</link>
@@ -43,14 +51,6 @@
       <pubDate>Thu, 24 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyber Streets by KitBash3D Flash Sale</title>
-      <link>https://humblebundle.com/software/cyber-streets-kitbash3d-flash-sale-software</link>
-      <description>Assets for your sci-fi dystopia</description>
-      <content:encoded>Populate the streets of your cyberpunk worlds with this bundle from KitBash3D! This Kit features kiosks, store fronts, food joints, interiors, machinery, street clutter, and more to craft your gritty futuristic environments—114 assets, 401 meshes, 35 PBR materials, and 375 textures all told. The Kit’s larger pieces also have detailed interiors suited for your sci-fi or dystopian worlds. Make the cyberpunk streets of your electric dreams, and help support Girls Who Code with your purchase! &lt;br&gt;&lt;br&gt; &lt;em&gt;Cyber Streets code must be redeemed by September 31, 2023 at 11:59pm PT.&lt;/em&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/f8528258b2a22109d9c910ca6f24ef0085ebd67a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=968d940e607018444cf0a92585d9664d" length="69687" type="image/jpeg"/>
-      <pubDate>Thu, 24 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GAME DEV ROYALTY FREE MEGA MUSIC BUNDLE</title>
       <link>https://humblebundle.com/software/game-dev-royalty-free-mega-music-bundle-software</link>
       <description>Score your game project!</description>
@@ -59,7 +59,7 @@
       <pubDate>Mon, 21 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bedroom to Billboards - Your Complete Music Bundle</title>
+      <title>"Bedroom to Billboards" - Your Complete Music Bundle</title>
       <link>https://humblebundle.com/software/bedroom-to-billboards-your-complete-music-bundle-software</link>
       <description>Royalty-free loops and more!</description>
       <content:encoded>Make masterful modern music with this massive collection from Function Loops! This essential producer’s kit features 65 packs of 100% royalty-free samples, loops, one-shots, presets, vocals, MIDI files, and more from a wide range of today’s hottest genres. Pick up &lt;em&gt;Vocal Secrets&lt;/em&gt;, &lt;em&gt;Jazzy Hip Hop Cutz&lt;/em&gt;, and more to equip your home studio with thousands of versatile sound files that’ll help you reach new heights—and help support Music Will with your purchase!</content:encoded>
@@ -81,14 +81,6 @@
       <content:encoded>Learn the essentials project management professionals need to succeed with this bundle of courses from Packt! Discover best practices to plan, track, release, and support projects using tools like Trello and JIRA. Explore the benefits and drawbacks of PM methodologies like Agile and Scrum. Level up the skills that help your company and team succeed, and help support Alzheimer’s Research UK with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/290768e2ee46664b781eaba31cdbe9569afec03c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7724540cdea8a311a92284ffb1e99e64" length="75228" type="image/jpeg"/>
       <pubDate>Thu, 10 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complete Blender 3D Modeling Online Course MegaBundle</title>
-      <link>https://humblebundle.com/software/complete-blender-3d-modeling-online-course-megabundle-software</link>
-      <description>Boost your 3D modeling skills</description>
-      <content:encoded>Get access to comprehensive tutorials that’ll help you bring your dreams to life with this mega bundle of  Blender 3D modeling courses from Mammoth Interactive! Featuring over 68 hours of online tutorials being made available first exclusively through Humble Bundle, this comprehensive series includes foolproof, step-by-step, cookbook-style instructions to build a variety of characters, environments, and more. Whether you're a complete beginner or looking to take your 3D modeling skills to the next level, this bundle has it all. Help support Children's Miracle Network Hospitals with your purchase</content:encoded>
-      <enclosure url="https://hb.imgix.net/8a83c4ebf1e45212f36c0ece9c728d26ff6509f2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d7675638a4196924778fef041288dfaf" length="87010" type="image/jpeg"/>
-      <pubDate>Thu, 27 Jul 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
