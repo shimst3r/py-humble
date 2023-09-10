@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Sep 2023 08:08:56 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Sep 2023 10:08:56 +0200</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2023 08:08:46 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2023 10:08:46 +0200</pubDate>
+    <item>
+      <title>Halo Graphic Novels by Dark Horse</title>
+      <link>https://humblebundle.com/books/halo-graphic-novels-dark-horse-books</link>
+      <description>Join Master Chief’s fight</description>
+      <content:encoded>Follow the Spartans’ fight against the Covenant, the Flood, the Banished, and other threats to humanity with this graphic novel collection from Dark Horse! Discover tales of legendary Brutes, plasma-scarred battlefields, slip-space travel, and off-the-books genetic engineering in titles like &lt;em&gt;Halo: Rise of Atriox&lt;/em&gt;, &lt;em&gt;Halo: Tales from Slipspace&lt;/em&gt;, and &lt;em&gt;Halo: Lone Wolf&lt;/em&gt;—and those are just the tip of the energy sword. Buckle up for a galaxy-spanning bundle of more than a dozen graphic novels perfect for new and old Halo fans alike, and help support Make-A-Wish with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/538bd7b43c7743f457ba59e7b460a381145887ac.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f9fc6d5086a05893f8e61ab6ef7014e8" length="125244" type="image/jpeg"/>
+      <pubDate>Sat, 09 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trail of Cthulhu by Pelgrane Press</title>
       <link>https://humblebundle.com/books/trail-cthulhu-pelgrane-press-books</link>
@@ -71,7 +79,7 @@
       <link>https://humblebundle.com/books/game-coding-2023-apress-books</link>
       <description>Learn the functions of fun</description>
       <content:encoded>Level up the technical skills you need to create games and lead a successful career in development with this bundle of ebooks from Apress! Deepen your understanding of digital audio, get a handle on 3D graphics, and learn the fundamentals of crafting game mechanics. Familiarize yourself with popular tools and platforms like GameMaker and MonoGame. Build a foundation for a wide range of game programming and development disciplines, and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/cdc7ff7efa9f6cc3e3dd2e5830afa1567ec1812a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f57b881c123608cb074a7dceb333919e" length="110595" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/cdc7ff7efa9f6cc3e3dd2e5830afa1567ec1812a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f57b881c123608cb074a7dceb333919e" length="110543" type="image/jpeg"/>
       <pubDate>Mon, 21 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
