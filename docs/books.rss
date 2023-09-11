@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 08:08:46 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Sep 2023 10:08:46 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2023 08:10:35 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2023 10:10:35 +0200</pubDate>
     <item>
       <title>Halo Graphic Novels by Dark Horse</title>
       <link>https://humblebundle.com/books/halo-graphic-novels-dark-horse-books</link>
@@ -55,7 +55,7 @@
       <link>https://humblebundle.com/books/machine-learning-and-ai-2023-packt-books</link>
       <description>Guides to cutting-edge AI tech</description>
       <content:encoded>Deepen your understanding of artificial intelligence and machine learning technology with this library of resources from Packt. The 25 ebooks in this bundle provide practical knowledge on working with some of today’s most talked-about technologies, including &lt;em&gt;Machine Learning with R&lt;/em&gt;, &lt;em&gt;Data Augmentation with Python&lt;/em&gt;, &lt;em&gt;Computer Vision on AWS&lt;/em&gt;, and more—ideal for programmers, engineers, data scientists, and anyone interested in expanding your knowledge in this constantly evolving field. Plus, your purchase helps support Direct Relief!</content:encoded>
-      <enclosure url="https://hb.imgix.net/21f5a0ca59340381063f2cc31ae20c0464daebbf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b2f2ec72657eb1164af459dca7bf9483" length="66089" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/21f5a0ca59340381063f2cc31ae20c0464daebbf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b2f2ec72657eb1164af459dca7bf9483" length="66022" type="image/jpeg"/>
       <pubDate>Mon, 28 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -79,7 +79,7 @@
       <link>https://humblebundle.com/books/game-coding-2023-apress-books</link>
       <description>Learn the functions of fun</description>
       <content:encoded>Level up the technical skills you need to create games and lead a successful career in development with this bundle of ebooks from Apress! Deepen your understanding of digital audio, get a handle on 3D graphics, and learn the fundamentals of crafting game mechanics. Familiarize yourself with popular tools and platforms like GameMaker and MonoGame. Build a foundation for a wide range of game programming and development disciplines, and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/cdc7ff7efa9f6cc3e3dd2e5830afa1567ec1812a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f57b881c123608cb074a7dceb333919e" length="110543" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/cdc7ff7efa9f6cc3e3dd2e5830afa1567ec1812a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f57b881c123608cb074a7dceb333919e" length="110595" type="image/jpeg"/>
       <pubDate>Mon, 21 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,7 +87,7 @@
       <link>https://humblebundle.com/books/steven-eriksons-malazan-book-fallen-tor-publishing-group-books</link>
       <description>Lose yourself in an epic fantasy masterpiece</description>
       <content:encoded>Discover the sweeping saga of gods, mages, mortals, and warring nations in &lt;em&gt;New York Times&lt;/em&gt;–bestselling author Steven Erikson’s Malazan Book of the Fallen, heralded as one of the most ambitious, complex, and masterful epic fantasy series of all time. This epic ebook bundle features the complete main 10-volume saga (from &lt;em&gt;Gardens of the Moon&lt;/em&gt; to the gripping final volume &lt;em&gt;The Crippled God&lt;/em&gt;), as well as seven additional titles that further explore the history and conflicts of the Malazan Empire. Journey deep into one of fantasy literature’s most celebrated worlds, and help support Covenant House with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/4ebc0d66ffcd759403c5e8bbaf98bb9ca30fbda7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=43ec62baaa8ad52c9548afd2b1d152ca" length="92131" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/4ebc0d66ffcd759403c5e8bbaf98bb9ca30fbda7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=43ec62baaa8ad52c9548afd2b1d152ca" length="92180" type="image/jpeg"/>
       <pubDate>Sat, 19 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
