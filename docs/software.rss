@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Sep 2023 08:10:39 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Sep 2023 10:10:39 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Sep 2023 08:10:20 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2023 10:10:20 +0200</pubDate>
+    <item>
+      <title>The A-Z of Full Stack Development</title>
+      <link>https://humblebundle.com/software/az-full-stack-development-software</link>
+      <description>A full-stack education for devs</description>
+      <content:encoded>Are you a newbie coder at the start of your journey, or an experienced developer looking to elevate your skillset? This bundle of online video courses from Packt will help you hit the job market fully prepared and ahead of the curve! Learn to build robust, scalable web apps with Django 3’s full-stack Python-based framework. Master the ins and outs of managing containerized applications at scale with Kubernetes. Create stunning and performant front-end user experiences with React JS. Get job-ready with comprehensive courses on all these topics and more, and support Girls Who Code with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/828bc25b5f3f66ac390d9e64da1056c9f19c4f3f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=229015c6b2ad2426887ac5fa0a8f8787" length="87226" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The 2023 Learn Unity Game Development Bundle</title>
       <link>https://humblebundle.com/software/2023-learn-unity-game-development-bundle-software</link>
@@ -47,7 +55,7 @@
       <link>https://humblebundle.com/software/stardock-desktop-essentials-software</link>
       <description>Powerful PC desktop utilities</description>
       <content:encoded>Organize, customize, and clean up your PC desktop with this bundle of utilities from Stardock! Arrange your icons into resizable shaded areas with &lt;em&gt;Fences 4&lt;/em&gt;. Simplify working across multiple computers with &lt;em&gt;Multiplicity KM&lt;/em&gt;. Create stunning animated mouse cursors with &lt;em&gt;CursorFX 4&lt;/em&gt;. Complete your Stardock toolkit with &lt;em&gt;Start11&lt;/em&gt;, &lt;em&gt;SpaceMonger&lt;/em&gt;, and &lt;em&gt;IconPackager&lt;/em&gt;, and help support One Tree Planted with your purchase!&lt;br&gt;&lt;br&gt;Licenses are perpetual.</content:encoded>
-      <enclosure url="https://hb.imgix.net/3a4ae8eb34b3ab8cb2416821253f925b51b20956.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=64a56619ccd852f6103145184d1b090b" length="65427" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/3a4ae8eb34b3ab8cb2416821253f925b51b20956.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=64a56619ccd852f6103145184d1b090b" length="65380" type="image/jpeg"/>
       <pubDate>Thu, 24 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -65,14 +73,6 @@
       <content:encoded>Make masterful modern music with this massive collection from Function Loops! This essential producer’s kit features 65 packs of 100% royalty-free samples, loops, one-shots, presets, vocals, MIDI files, and more from a wide range of today’s hottest genres. Pick up &lt;em&gt;Vocal Secrets&lt;/em&gt;, &lt;em&gt;Jazzy Hip Hop Cutz&lt;/em&gt;, and more to equip your home studio with thousands of versatile sound files that’ll help you reach new heights—and help support Music Will with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/e8a79217ad1985b9c9c7a9482b38238dd5a80c06.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=db795376c417d2692d69ef5ae9282c6f" length="111092" type="image/jpeg"/>
       <pubDate>Thu, 17 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fantasy and Sci Fi essentials for Unity</title>
-      <link>https://humblebundle.com/software/fantasy-and-sci-fi-essentials-for-unity-software</link>
-      <description>Amazing sci-fi &amp; fantasy assets for Unity</description>
-      <content:encoded>Propel your Unity game project to new heights of visual fidelity with this massive sci-fi and fantasy asset bundle, crafted by some of the dev scene’s most esteemed content creation studios! You’ll get all the building blocks needed to craft impressive and immersive game worlds, including a vast catalog of sci-fi and fantasy creatures, high-end animation sets for all manner of entities monstrous to mundane, stunning environment packs, and much more. As a bonus, you’ll also get a voucher for the Unity Asset Store good for 10% off your next purchase! Pay what you want for this enormous asset bundle valued at over $2,500, and help support Alzheimer's Research UK with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/db01c5f225bb0ce3fcd88756f95dd13522569ff9.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4f301a9df47ab5086076f7759cde234a" length="138754" type="image/jpeg"/>
-      <pubDate>Mon, 14 Aug 2023 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Project Managers Toolkit - Become a Productivity Powerhouse</title>
