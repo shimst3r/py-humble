@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Sep 2023 08:10:25 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Sep 2023 10:10:25 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 08:10:09 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 10:10:09 +0200</pubDate>
     <item>
       <title>Software Architecture by O'Reilly</title>
       <link>https://humblebundle.com/books/software-architecture-oreilly-books</link>
@@ -63,7 +63,7 @@
       <link>https://humblebundle.com/books/machine-learning-and-ai-2023-packt-books</link>
       <description>Guides to cutting-edge AI tech</description>
       <content:encoded>Deepen your understanding of artificial intelligence and machine learning technology with this library of resources from Packt. The 25 ebooks in this bundle provide practical knowledge on working with some of today’s most talked-about technologies, including &lt;em&gt;Machine Learning with R&lt;/em&gt;, &lt;em&gt;Data Augmentation with Python&lt;/em&gt;, &lt;em&gt;Computer Vision on AWS&lt;/em&gt;, and more—ideal for programmers, engineers, data scientists, and anyone interested in expanding your knowledge in this constantly evolving field. Plus, your purchase helps support Direct Relief!</content:encoded>
-      <enclosure url="https://hb.imgix.net/21f5a0ca59340381063f2cc31ae20c0464daebbf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b2f2ec72657eb1164af459dca7bf9483" length="66022" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/21f5a0ca59340381063f2cc31ae20c0464daebbf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b2f2ec72657eb1164af459dca7bf9483" length="66089" type="image/jpeg"/>
       <pubDate>Mon, 28 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
