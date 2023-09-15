@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 08:10:12 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Sep 2023 10:10:12 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2023 08:10:09 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2023 10:10:09 +0200</pubDate>
+    <item>
+      <title>Everything you need to know about Godot 4 Encore Bundle</title>
+      <link>https://humblebundle.com/software/everything-you-need-to-know-about-godot-4-encore-software</link>
+      <description>Create games with Godot</description>
+      <content:encoded>Master Godot—the lightweight, fast, and free game engine behind hits like &lt;em&gt;Sonic Colors: Ultimate&lt;/em&gt;. Whether you want to use the brand new version 4 or the battle-tested version 3, these courses will get you building platformers, RPGs, first-person shooters, city-builders, strategy games, and more—no prior experience required! Plus, you’ll learn how to customize your games by creating your own art and assets, all while supporting Girls Who Code with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/4fe0d49cab8715a6425171613819387506256216.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=081500b6ff7cfa09d7d1b10d472dac68" length="125040" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The A-Z of Full Stack Development</title>
       <link>https://humblebundle.com/software/az-full-stack-development-software</link>
@@ -51,14 +59,6 @@
       <pubDate>Mon, 28 Aug 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Stardock Desktop Essentials</title>
-      <link>https://humblebundle.com/software/stardock-desktop-essentials-software</link>
-      <description>Powerful PC desktop utilities</description>
-      <content:encoded>Organize, customize, and clean up your PC desktop with this bundle of utilities from Stardock! Arrange your icons into resizable shaded areas with &lt;em&gt;Fences 4&lt;/em&gt;. Simplify working across multiple computers with &lt;em&gt;Multiplicity KM&lt;/em&gt;. Create stunning animated mouse cursors with &lt;em&gt;CursorFX 4&lt;/em&gt;. Complete your Stardock toolkit with &lt;em&gt;Start11&lt;/em&gt;, &lt;em&gt;SpaceMonger&lt;/em&gt;, and &lt;em&gt;IconPackager&lt;/em&gt;, and help support One Tree Planted with your purchase!&lt;br&gt;&lt;br&gt;Licenses are perpetual.</content:encoded>
-      <enclosure url="https://hb.imgix.net/3a4ae8eb34b3ab8cb2416821253f925b51b20956.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=64a56619ccd852f6103145184d1b090b" length="65427" type="image/jpeg"/>
-      <pubDate>Thu, 24 Aug 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GAME DEV ROYALTY FREE MEGA MUSIC BUNDLE</title>
       <link>https://humblebundle.com/software/game-dev-royalty-free-mega-music-bundle-software</link>
       <description>Score your game project!</description>
@@ -81,14 +81,6 @@
       <content:encoded>Propel your Unity game project to new heights of visual fidelity with this massive sci-fi and fantasy asset bundle, crafted by some of the dev scene’s most esteemed content creation studios! You’ll get all the building blocks needed to craft impressive and immersive game worlds, including a vast catalog of sci-fi and fantasy creatures, high-end animation sets for all manner of entities monstrous to mundane, stunning environment packs, and much more. As a bonus, you’ll also get a voucher for the Unity Asset Store good for 10% off your next purchase! Pay what you want for this enormous asset bundle valued at over $2,500, and help support Alzheimer's Research UK with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/db01c5f225bb0ce3fcd88756f95dd13522569ff9.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4f301a9df47ab5086076f7759cde234a" length="138754" type="image/jpeg"/>
       <pubDate>Mon, 14 Aug 2023 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Project Managers Toolkit - Become a Productivity Powerhouse</title>
-      <link>https://humblebundle.com/software/project-managers-toolkit-become-productivity-powerhouse-software</link>
-      <description>The keys to PM success</description>
-      <content:encoded>Learn the essentials project management professionals need to succeed with this bundle of courses from Packt! Discover best practices to plan, track, release, and support projects using tools like Trello and JIRA. Explore the benefits and drawbacks of PM methodologies like Agile and Scrum. Level up the skills that help your company and team succeed, and help support Alzheimer’s Research UK with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/290768e2ee46664b781eaba31cdbe9569afec03c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7724540cdea8a311a92284ffb1e99e64" length="75228" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
