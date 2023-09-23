@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Sep 2023 08:10:12 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Sep 2023 10:10:12 +0200</pubDate>
+    <lastBuildDate>Sat, 23 Sep 2023 08:08:45 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Sep 2023 10:08:45 +0200</pubDate>
+    <item>
+      <title>Control the Narrative</title>
+      <link>https://humblebundle.com/games/control-narrative</link>
+      <description>Make the story yours</description>
+      <content:encoded>Bask in the freedom of choice and face the finality of consequence in this bundle of player-driven narrative games! Guide an eclectic ensemble through a series of madcap sci-fi trials and tribulations in &lt;em&gt;New Tales From the Borderlands&lt;/em&gt;. Drive the fates of two characters who share a psychic bond in the critically acclaimed &lt;em&gt;Beyond: Two Souls&lt;/em&gt;. Confront your hometown’s troubled past in &lt;em&gt;Twin Mirror&lt;/em&gt;, get lost in the visual novel-style adventure of &lt;em&gt;Opus: Echoes of Starsong&lt;/em&gt;, and much more—and help support the National Videogame Museum and the charity of your choice!</content:encoded>
+      <enclosure url="https://hb.imgix.net/b652e89cc7c267f23d4ecc2514440923315f0431.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=79bba98fe582a0e10281458bf49ee33b" length="80248" type="image/jpeg"/>
+      <pubDate>Fri, 22 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HeroCraft PC Complete Collection</title>
       <link>https://humblebundle.com/games/herocraft-complete-collection</link>
@@ -39,7 +47,7 @@
       <link>https://humblebundle.com/games/cities-skylines-build-today-plan-for-tomorrow</link>
       <description>Build today, plan for tomorrow!</description>
       <content:encoded>Looking forward to making the metropolis of your dreams in the upcoming &lt;em&gt;Cities: Skylines II&lt;/em&gt;? Let your civic imagination run wild today in this sprawling bundle featuring the original &lt;em&gt;Cities: Skylines&lt;/em&gt;, plus major expansions like &lt;em&gt;Airports&lt;/em&gt; and &lt;em&gt;Plazas &amp; Promenades&lt;/em&gt;, and more add-ons from across the game’s history. Experience the challenges, crises, and triumphs of municipal planning today; get hyped for the sequel coming October 24; and help support Coral Guardian &amp; Oceana with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/cee50aa6133ddb02116651a5501a923705e13bdc.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9483953df51fb62aaff9a58978803f6f" length="90897" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/cee50aa6133ddb02116651a5501a923705e13bdc.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9483953df51fb62aaff9a58978803f6f" length="90832" type="image/jpeg"/>
       <pubDate>Wed, 13 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -57,14 +65,6 @@
       <content:encoded>Build, boot up, and benchmark the high-end machines of your dreams in PC Building Simulator, the acclaimed sim that draws on real-world components and part makers. Pick up the core game and a virtual warehouse of extra content, including the &lt;em&gt;Esports Expansion&lt;/em&gt; that puts a new spin on career mode, plus a collection of &lt;em&gt;Workshop&lt;/em&gt; add-ons that give you tons more options to choose from for your rig. Whether you’re a novice hobbyist looking to learn or a &lt;em&gt;PC Building Simulator&lt;/em&gt; pro rounding out your collection, this bundle has something for you. Plus, your purchase helps support the charity of your choice!</content:encoded>
       <enclosure url="https://hb.imgix.net/1a74e3fea0bb17df945d7d9470d7863f1f353191.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=50eff4e684c54001c2bbf9283869a3d7" length="80282" type="image/jpeg"/>
       <pubDate>Wed, 06 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tales from Wales Interactive</title>
-      <link>https://humblebundle.com/games/tales-from-wales-interactive</link>
-      <description>Decide how the story unfolds</description>
-      <content:encoded>Guide the action, steer the conversation, and be the arbiter of characters’ fates in this collection of interactive live-action movies and games from Wales Interactive! Uncover the perilous scientific secrets waiting in the locked-down laboratories of &lt;em&gt;The Complex&lt;/em&gt;. Try to prove your innocence in the high-stakes crime thriller &lt;em&gt;Late Shift&lt;/em&gt;. Navigate the landscape of modern love in the romantic comedy &lt;em&gt;Five Dates&lt;/em&gt;, and more, and help support Alzheimer’s Research UK with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/12b47b4ff07494d03f8daf37be1bcbf3cebc558a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=eddc1f6591c5fdd624f42565a0b369aa" length="74871" type="image/jpeg"/>
-      <pubDate>Fri, 01 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
