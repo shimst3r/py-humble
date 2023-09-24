@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Sep 2023 08:08:44 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Sep 2023 10:08:44 +0200</pubDate>
+    <lastBuildDate>Sun, 24 Sep 2023 08:08:55 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Sep 2023 10:08:55 +0200</pubDate>
+    <item>
+      <title>Eerie Comics Collection by Dark Horse</title>
+      <link>https://humblebundle.com/books/eerie-comics-collection-dark-horse-books</link>
+      <description>A groundbreakingly gruesome horror comic library</description>
+      <content:encoded>Looking for some macabre reading for the spookiest season of the year? Fix your gaze upon this massive &lt;em&gt;Eerie&lt;/em&gt; archive from Dark Horse, collecting over 130 issues of the long-running horror comics magazine! Featuring terrifying tales and astonishing artwork from legends like Gray Morrow, Frank Frazetta, Alex Toth, Neal Adams, and Joe Orlando, this &lt;em&gt;Eerie&lt;/em&gt; library is for everyone who loves strange and twisted tales of terror, fantasy, and science fiction. Lose yourself in the &lt;em&gt;Eerie Archives&lt;/em&gt;, and help support the Hero Initiative with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/1625e695ec6054c8a5ec1cf40ec25d6958ea9ea0.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=85bce213a6db2ea07d65992763ee4c53" length="126627" type="image/jpeg"/>
+      <pubDate>Sat, 23 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>L.E. Modesitt Collection by Tor Publishing Group</title>
       <link>https://humblebundle.com/books/le-modesitt-collection-tor-publishing-group-books</link>
@@ -63,7 +71,7 @@
       <link>https://humblebundle.com/books/trail-cthulhu-pelgrane-press-books</link>
       <description>The Cthulhu Mythos at your table</description>
       <content:encoded>Explore the sublime, horrifying worlds of H.P. Lovecraft at your gaming table with this &lt;em&gt;Trail of Cthulhu&lt;/em&gt; bundle from Pelgrane Press. Utilizing the GUMSHOE RPG system to foreground the investigative elements of the Cthulhu mythos stories, this award-winning RPG delivers an experience that makes clue-finding engrossing and interactive for players, while amplifying the cosmic dread. Get the &lt;em&gt;Trail of Cthulhu&lt;/em&gt; rulebook plus more than 20 other sourcebooks, adventures, and more to fuel uncountable campaigns’ worth of unfathomable eldritch horror, and support Cancer Research UK with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/879e6ff49ccaed818c59f599a3c6064060ef6e89.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=bcd2fd0ca7d0a6a09c4da2d441947afa" length="95030" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/879e6ff49ccaed818c59f599a3c6064060ef6e89.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=bcd2fd0ca7d0a6a09c4da2d441947afa" length="95070" type="image/jpeg"/>
       <pubDate>Thu, 07 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -73,14 +81,6 @@
       <content:encoded>Learn the secrets of scripting and best practices for programming with this bundle of books from Packt! This game developers’ library focuses on C++ and its coding applications in Unreal Engine and Blueprints visual scripting. Level up your skills through hands-on game dev projects, explore creating characters and animation, and much more, and help support Room to Read with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/33b7338c922472665c720018e1de25c79fafc73d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=dee4a7c9a64e1f5384e51ce644a5dee9" length="84963" type="image/jpeg"/>
       <pubDate>Mon, 04 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Survival and Readiness Essentials by Skyhorse Publishing</title>
-      <link>https://humblebundle.com/books/survival-and-readiness-essentials-skyhorse-publishing-books</link>
-      <description>Self-sufficient living is within reach</description>
-      <content:encoded>Take the first steps to a life of self-sufficient abundance with this invaluable collection of books from Skyhorse Publishing. &lt;em&gt;The Homesteading Handbook&lt;/em&gt; features primers on canning, energy production, herbal medicine, and more. &lt;em&gt;Mini Farming&lt;/em&gt; will help you build a sustainable small-scale farm in your backyard, covering topics like seed-saving, sustainable soil fertility practices, and pest management. &lt;em&gt;Basic Fishing&lt;/em&gt; will turn you into an accomplished angler in no time, empowering you with the basics of equipment, bait and tackle, fishing safety, and other critical subjects. Get all these books and many more covering the full spectrum of survival and self-sufficiency, and help support Room to Read with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/65aa8c03b4b0598c822c13e79e3e8495464c93fe.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=595b8b60fb179fd70a16c3f5e043448c" length="108230" type="image/jpeg"/>
-      <pubDate>Sat, 02 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
