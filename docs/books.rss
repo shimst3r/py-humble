@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 08:10:52 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Sep 2023 10:10:52 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Sep 2023 08:10:22 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Sep 2023 10:10:22 +0200</pubDate>
+    <item>
+      <title>Cybersecurity Month MEGA Bundle by O'Reilly</title>
+      <link>https://humblebundle.com/books/cybersecurity-month-mega-bundle-oreilly-books</link>
+      <description>Unlock a library of cybersecurity knowledge</description>
+      <content:encoded>October marks Cybersecurity Awareness Month, and the tech experts at O’Reilly are here to help programmers, engineers, and IT pros keep systems safe all year round. Learn about identity-native access management and intelligence-driven incident response. Wrap your head around the principles of security chaos engineering and security-as-code methodology. Build the know-how you need to create systems that can withstand today’s ever-evolving cybersecurity threats, and help support Code for America with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/eaf8d45fed3aba4cc3d4a9f1f161f5966ea4a792.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=32965862ee8ef6c11a4f6ef6e36e43ab" length="102207" type="image/jpeg"/>
+      <pubDate>Mon, 25 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Eerie Comics Collection by Dark Horse</title>
       <link>https://humblebundle.com/books/eerie-comics-collection-dark-horse-books</link>
@@ -55,7 +63,7 @@
       <link>https://humblebundle.com/books/software-architecture-oreilly-books</link>
       <description>Build your software architecture knowledge</description>
       <content:encoded>Whether you want to create a solid foundation for a career or expand your existing software architecture skills, this bundle of books from O’Reilly can help you achieve your goals! Explore architectural patterns, component determination, evolutionary architecture, and more. Dig into the facets that distinguish architecture from engineering and other development disciplines. Learn the skills you need to succeed in this in-demand field, and help support Code for America with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61477" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61434" type="image/jpeg"/>
       <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
