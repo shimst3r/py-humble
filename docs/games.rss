@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Sep 2023 08:10:19 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Sep 2023 10:10:19 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2023 08:10:31 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2023 10:10:31 +0200</pubDate>
+    <item>
+      <title>Awesome Indies from Humble Games</title>
+      <link>https://humblebundle.com/games/awesome-indies-from-humble-games</link>
+      <description>Tons of good fun from Humble Games</description>
+      <content:encoded>Discover awesome games from some of the world’s most creative, visionary independent developers in this eclectic collection of titles published by Humble Games (hey, that’s us)! Meet your maker in the unforgiving world of &lt;em&gt;Moonscars&lt;/em&gt;. Explore a forgotten city and race to save your friends in &lt;em&gt;UNSIGHTED&lt;/em&gt;. Become a champ in the vibrant school sports RPG &lt;em&gt;Dodgeball Academia&lt;/em&gt;, journey into the Deep Woods of &lt;em&gt;The Wild at Heart&lt;/em&gt;, and much more—and help support Direct Relief with your purchase. &lt;br/&gt;&lt;br/&gt;</content:encoded>
+      <enclosure url="https://hb.imgix.net/b450f206e10e545bf5b037814144a8886d7a8b7e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=a21c73ba6bc25c0bcc3c239775e6189d" length="123275" type="image/jpeg"/>
+      <pubDate>Wed, 27 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Control the Narrative</title>
       <link>https://humblebundle.com/games/control-narrative</link>
@@ -57,14 +65,6 @@
       <content:encoded>Execute espionage, sabotage, and subterfuge from above in this collection of stealth games played from a hawk’s eye perspective! Mop up murder scenes for the mob in the homage to 90s crime movies &lt;em&gt;Serial Cleaners&lt;/em&gt;. Plan your tactics on the eastern front of WW2 in &lt;em&gt;War Mongrels&lt;/em&gt;. Stalk your foes in &lt;em&gt;Shadow Tactics: Blades of the Shogun&lt;/em&gt; and its acclaimed standalone expansion &lt;em&gt;Aiko's Choice&lt;/em&gt;, and more—and help support Active Minds and the charity of your choice with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/b5b5abeb50e6afbd8816475d036888e9fc1798e4.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f057913b2e8589ce44edbf30905f373c" length="148231" type="image/jpeg"/>
       <pubDate>Fri, 08 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PC Building Simulator Rebooted</title>
-      <link>https://humblebundle.com/games/pc-building-sim-rebooted</link>
-      <description>A PC builders’ dream bundle</description>
-      <content:encoded>Build, boot up, and benchmark the high-end machines of your dreams in PC Building Simulator, the acclaimed sim that draws on real-world components and part makers. Pick up the core game and a virtual warehouse of extra content, including the &lt;em&gt;Esports Expansion&lt;/em&gt; that puts a new spin on career mode, plus a collection of &lt;em&gt;Workshop&lt;/em&gt; add-ons that give you tons more options to choose from for your rig. Whether you’re a novice hobbyist looking to learn or a &lt;em&gt;PC Building Simulator&lt;/em&gt; pro rounding out your collection, this bundle has something for you. Plus, your purchase helps support the charity of your choice!</content:encoded>
-      <enclosure url="https://hb.imgix.net/1a74e3fea0bb17df945d7d9470d7863f1f353191.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=50eff4e684c54001c2bbf9283869a3d7" length="80282" type="image/jpeg"/>
-      <pubDate>Wed, 06 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
