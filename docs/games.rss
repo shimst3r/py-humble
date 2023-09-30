@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Sep 2023 08:10:09 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Sep 2023 10:10:09 +0200</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2023 08:08:42 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Sep 2023 10:08:42 +0200</pubDate>
     <item>
       <title>Awesome Indies from Humble Games</title>
       <link>https://humblebundle.com/games/awesome-indies-from-humble-games</link>
@@ -57,14 +57,6 @@
       <content:encoded>Looking forward to making the metropolis of your dreams in the upcoming &lt;em&gt;Cities: Skylines II&lt;/em&gt;? Let your civic imagination run wild today in this sprawling bundle featuring the original &lt;em&gt;Cities: Skylines&lt;/em&gt;, plus major expansions like &lt;em&gt;Airports&lt;/em&gt; and &lt;em&gt;Plazas &amp; Promenades&lt;/em&gt;, and more add-ons from across the game’s history. Experience the challenges, crises, and triumphs of municipal planning today; get hyped for the sequel coming October 24; and help support Coral Guardian &amp; Oceana with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/cee50aa6133ddb02116651a5501a923705e13bdc.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9483953df51fb62aaff9a58978803f6f" length="90832" type="image/jpeg"/>
       <pubDate>Wed, 13 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strike from the Shadows: Top-Down Stealth</title>
-      <link>https://humblebundle.com/games/strike-from-shadows-topdown-stealth</link>
-      <description>Get the drop on your foes</description>
-      <content:encoded>Execute espionage, sabotage, and subterfuge from above in this collection of stealth games played from a hawk’s eye perspective! Mop up murder scenes for the mob in the homage to 90s crime movies &lt;em&gt;Serial Cleaners&lt;/em&gt;. Plan your tactics on the eastern front of WW2 in &lt;em&gt;War Mongrels&lt;/em&gt;. Stalk your foes in &lt;em&gt;Shadow Tactics: Blades of the Shogun&lt;/em&gt; and its acclaimed standalone expansion &lt;em&gt;Aiko's Choice&lt;/em&gt;, and more—and help support Active Minds and the charity of your choice with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/b5b5abeb50e6afbd8816475d036888e9fc1798e4.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f057913b2e8589ce44edbf30905f373c" length="148231" type="image/jpeg"/>
-      <pubDate>Fri, 08 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
