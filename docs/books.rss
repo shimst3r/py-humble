@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 2023 08:08:40 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Sep 2023 10:08:40 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2023 08:08:51 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Oct 2023 10:08:51 +0200</pubDate>
+    <item>
+      <title>Assassin's Creed Mega Bundle</title>
+      <link>https://humblebundle.com/books/assassins-creed-mega-bundle-books</link>
+      <description>Take the leap from screen to page</description>
+      <content:encoded>Peek into the chronicles of the ages-old battle between the Assassin Brotherhood and the Templar Order in this massive bundle of books and comics set in the &lt;em&gt;Assassin’s Creed&lt;/em&gt; universe! Get a gritty account of the life of the mighty Eivor before the events of the game in the comic series &lt;em&gt;Assassin’s Creed Valhalla: Song of Glory&lt;/em&gt;. Witness the clash between the Brotherhood and Templars in Tang Dynasty–era China in the stunning manga &lt;em&gt;Assassin’s Creed: Dynasty&lt;/em&gt;. Join a crew of young Assassins on a journey that spans early 20th Century Spain and the modern day in the comic &lt;em&gt;Assassin’s Creed: Uprising&lt;/em&gt;. Get all these and more—a total over 20 books and comics—and help support the charity of your choice with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/e426c85adbb9409a9f009fe8f0ef52bd6afb7193.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=95cce1ce0336b67bab1bd494657229aa" length="130748" type="image/jpeg"/>
+      <pubDate>Sat, 30 Sep 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Diverse Manga by Saturday AM</title>
       <link>https://humblebundle.com/books/diverse-manga-saturday-am-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Whether you want to create a solid foundation for a career or expand your existing software architecture skills, this bundle of books from O’Reilly can help you achieve your goals! Explore architectural patterns, component determination, evolutionary architecture, and more. Dig into the facets that distinguish architecture from engineering and other development disciplines. Learn the skills you need to succeed in this in-demand field, and help support Code for America with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61434" type="image/jpeg"/>
       <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Halo Graphic Novels by Dark Horse</title>
-      <link>https://humblebundle.com/books/halo-graphic-novels-dark-horse-books</link>
-      <description>Join Master Chief’s fight</description>
-      <content:encoded>Follow the Spartans’ fight against the Covenant, the Flood, the Banished, and other threats to humanity with this graphic novel collection from Dark Horse! Discover tales of legendary Brutes, plasma-scarred battlefields, slip-space travel, and off-the-books genetic engineering in titles like &lt;em&gt;Halo: Rise of Atriox&lt;/em&gt;, &lt;em&gt;Halo: Tales from Slipspace&lt;/em&gt;, and &lt;em&gt;Halo: Lone Wolf&lt;/em&gt;—and those are just the tip of the energy sword. Buckle up for a galaxy-spanning bundle of more than a dozen graphic novels perfect for new and old Halo fans alike, and help support Make-A-Wish with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/538bd7b43c7743f457ba59e7b460a381145887ac.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f9fc6d5086a05893f8e61ab6ef7014e8" length="125244" type="image/jpeg"/>
-      <pubDate>Sat, 09 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Godot Joins the Adventure: Game Programming with C++ &amp; Unreal by Packt</title>
