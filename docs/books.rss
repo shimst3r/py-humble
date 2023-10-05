@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Oct 2023 08:10:28 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Oct 2023 10:10:28 +0200</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2023 08:10:45 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 10:10:45 +0200</pubDate>
     <item>
       <title>Data Visualization by Taylor &amp; Francis</title>
       <link>https://humblebundle.com/books/data-visualization-taylor-francis-books</link>
@@ -79,7 +79,7 @@
       <link>https://humblebundle.com/books/sci-fi-classic-audiobooks-feat-hell-divers-books</link>
       <description>Feast your ears on iconic sci-fi and fantasy</description>
       <content:encoded>In Nicholas Sansbury Smith’s bestselling Hell Divers series, you’ll explore the deadly skies of a blighted, war-ravaged Earth as humanity scavenges to survive. Close your eyes and tune into a selection of iconic sci-fi and fantasy series with this audiobook bundle from Blackstone Publishing! Discover the mysteries of an ancient cosmic artifact of mind-boggling scale in Larry Niven’s Hugo and Nebula award-winning &lt;em&gt;Ringworld&lt;/em&gt; series. In the &lt;em&gt;Runelords&lt;/em&gt; series by David Farland, you’re thrust into a fantasy world where great power can be transferred between beings—often at great cost. Immerse yourself in these beloved series and more—a total of 20 audiobooks—and help First Book’s mission to provide quality education for kids in need.</content:encoded>
-      <enclosure url="https://hb.imgix.net/43a5f987ca741aa350909606929565507eb2a4d7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cc6b09ed9005356d561d0f9ef62d1916" length="58373" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/43a5f987ca741aa350909606929565507eb2a4d7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cc6b09ed9005356d561d0f9ef62d1916" length="58390" type="image/jpeg"/>
       <pubDate>Thu, 14 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,7 +87,7 @@
       <link>https://humblebundle.com/books/software-architecture-oreilly-books</link>
       <description>Build your software architecture knowledge</description>
       <content:encoded>Whether you want to create a solid foundation for a career or expand your existing software architecture skills, this bundle of books from O’Reilly can help you achieve your goals! Explore architectural patterns, component determination, evolutionary architecture, and more. Dig into the facets that distinguish architecture from engineering and other development disciplines. Learn the skills you need to succeed in this in-demand field, and help support Code for America with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61477" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61434" type="image/jpeg"/>
       <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
