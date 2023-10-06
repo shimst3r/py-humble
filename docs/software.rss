@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Oct 2023 08:10:49 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Oct 2023 10:10:49 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Oct 2023 08:10:14 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Oct 2023 10:10:14 +0200</pubDate>
+    <item>
+      <title>Game Asset Compendium: Cosmic Sagas and Urban Legends</title>
+      <link>https://humblebundle.com/software/game-asset-compendium-cosmic-sagas-and-urban-legends-software</link>
+      <description>Creatures, heroes, and locations for your game</description>
+      <content:encoded>Create science-fiction worlds, fantastical adventures, and much more with this vast and varied collection of game assets! This far-reaching library features 2D tile sets for retro-styled role-playing games, character creation kits to help assemble your cast, monsters ready-made to slay, UI elements, music, and more. Gear up to make games from a range of genres, and help support JDRF with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/ca55371648afb268fad0c6a982e4f92630d3c42d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6b3fcae5ab32a949a81a6f8efb46f3bf" length="122804" type="image/jpeg"/>
+      <pubDate>Thu, 05 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete Excel, Python and Machine Learning Mega Bundle</title>
       <link>https://humblebundle.com/software/complete-excel-python-and-machine-learning-mega-bundle</link>
@@ -75,28 +83,12 @@
       <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The 2023 Learn Unity Game Development Bundle</title>
-      <link>https://humblebundle.com/software/2023-learn-unity-game-development-bundle-software</link>
-      <description>Level up your Unity skills</description>
-      <content:encoded>Learn to create games with Unity with these online courses from GameDev.tv—including multiple courses being made available for the first time exclusively through Humble Bundle! This comprehensive curriculum covers core skills and advanced concepts for the powerful and popular development platform, and includes assets to help create your game projects. Find out how to make a 2D RPG combat system, VR experience, or turn-based strategy game. Get trained up on visual scripting, multiplayer, network coding, and more. Level up your Unity game dev skills, and help support SpecialEffect with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/6822351313fc392eea49b79825813ea80f9fa411.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=713461e53d902156fcee6b62cd5d5dfb" length="197959" type="image/jpeg"/>
-      <pubDate>Thu, 07 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dream it, design it, build it! Professional home construction + Extensions</title>
       <link>https://humblebundle.com/software/dream-it-design-it-build-it-software</link>
       <description>Design your build-ready dream home</description>
       <content:encoded>Are you a pro in the building, landscaping, or interior design trades? Or a DIYer looking to take the reins on your home remodel or landscaping project? This bundle of 3D CAD software from Ashampoo will help you bring your ideas to life! Including pro-grade software like &lt;em&gt;3D CAD Professional 10&lt;/em&gt;, &lt;em&gt;Home Design 8&lt;/em&gt;, and a suite of specialized extensions for kitchens and offices, these tools will help you visualize your ideas beautifully and accurately. Get the tools you need to make your vision build-ready, and support Cancer Research UK and American Cancer Society with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/cf8eee34b8f44d7554dd56b0df847544b456cfdf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=1774884eea4424e1e9ea3ac33dccb9b5" length="63304" type="image/jpeg"/>
       <pubDate>Mon, 04 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Production Powerhouse Bundle</title>
-      <link>https://humblebundle.com/software/production-powerhouse-bundle-software</link>
-      <description>Video, movie, and audio software from Magix</description>
-      <content:encoded>Become a production powerhouse with this suite of software from MAGIX! This bundle features a mix of potent video and audio tools, including: &lt;br&gt;&lt;ul&gt; &lt;li&gt;&lt;em&gt;Video Pro X14&lt;/em&gt;, featuring intuitive video editing and professional tools.&lt;/li&gt; &lt;li&gt;&lt;em&gt;ACID Pro 10&lt;/em&gt;, the creative DAW for loop- and sample-based work.&lt;/li&gt; &lt;li&gt;&lt;em&gt;Movie Studio 2023&lt;/em&gt;, your entry into the world of video editing.&lt;/li&gt; &lt;li&gt;Plus, a library of Soundpools filled with thousands of loops.&lt;/li&gt; &lt;/ul&gt; Create movies and music like a pro, and help support One Tree Planted with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/81f42780ecabe8fc697ecabcdde6a72b9cf7e708.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=2f748680722dbcb28b9aa5f4609fdb4e" length="53615" type="image/jpeg"/>
-      <pubDate>Thu, 31 Aug 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
