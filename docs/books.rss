@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Oct 2023 08:10:10 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Oct 2023 10:10:10 +0200</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2023 08:08:53 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2023 10:08:53 +0200</pubDate>
     <item>
       <title>Books That Will Radically Improve Your Sleep</title>
       <link>https://humblebundle.com/books/books-that-will-radically-improve-your-sleep-books</link>
@@ -87,7 +87,7 @@
       <link>https://humblebundle.com/books/software-architecture-oreilly-books</link>
       <description>Build your software architecture knowledge</description>
       <content:encoded>Whether you want to create a solid foundation for a career or expand your existing software architecture skills, this bundle of books from O’Reilly can help you achieve your goals! Explore architectural patterns, component determination, evolutionary architecture, and more. Dig into the facets that distinguish architecture from engineering and other development disciplines. Learn the skills you need to succeed in this in-demand field, and help support Code for America with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61434" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61477" type="image/jpeg"/>
       <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
