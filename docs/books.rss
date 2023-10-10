@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Oct 2023 08:11:02 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Oct 2023 10:11:02 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 08:10:32 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 10:10:32 +0200</pubDate>
+    <item>
+      <title>Web Design and Development from Smashing Magazine</title>
+      <link>https://humblebundle.com/books/web-design-and-development-from-smashing-magazine-books</link>
+      <description>Build your web design and dev skills</description>
+      <content:encoded>Learn everything you need to start creating well-designed and well-built websites with this bundle of ebooks from Smashing Magazine! For over a decade, the experts at Smashing have been helping designers and developers learn about design trends and advanced coding techniques. Whether you’re interested in smart design patterns, mobile interfaces, privacy, image optimization, or ethical and inclusive design, you’ll find something in this bundle for you. Build your web skills, and help support Direct Relief with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/ee9b150f6f7245a0967e01e2a849526a0d4fdfa7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=a6121e5652f49afe8485c0b0924fe62e" length="54373" type="image/jpeg"/>
+      <pubDate>Mon, 09 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vampire: The Masquerade Month of Darkness by Renegade Game Studios</title>
       <link>https://humblebundle.com/books/vampire-masquerade-month-darkness-renegade-game-studios-books</link>
@@ -73,22 +81,6 @@
       <content:encoded>Lose yourself in the contemporary epic fantasy and science fiction of bestselling author L. E. Modesitt, Jr.! Journey to a realm where chaos and order clash in all 22 current volumes of Modesitt’s iconic Saga of Recluce series, from &lt;em&gt;The Magic of Recluce&lt;/em&gt; to &lt;em&gt;Fairhaven Rising&lt;/em&gt;, plus the short story collection &lt;em&gt;Recluce Tales&lt;/em&gt;. Discover the history and fate of a lost civilization in all eight novels of the Corean Chronicles. Travel to the far future in standalone science-fiction works including &lt;em&gt;The Hammer of Darkness&lt;/em&gt;, &lt;em&gt;Quantum Shadows&lt;/em&gt;, and more—and help support World Wildlife Fund with your purchase. </content:encoded>
       <enclosure url="https://hb.imgix.net/ee21ec0edd81dfb805306ba2d3aebd491dd7a1d7.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=635d5cbde9bdcb3833d95cf84b45a19b" length="96320" type="image/jpeg"/>
       <pubDate>Thu, 21 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Become a Python Expert by Pearson</title>
-      <link>https://humblebundle.com/books/become-python-expert-pearson-books</link>
-      <description>Sage Python advice from the pros</description>
-      <content:encoded>Whether you’re a seasoned pro or a budding coder looking to cut your teeth in web dev, data science, or AI engineering, this bundle of Python books from Pearson will bolster your command of this indispensable programming language! &lt;em&gt;Effective Python&lt;/em&gt; will teach you tips and tricks, straight from Google Python guru Brett Slakin, to help you get the most out of your code. Aimed at experienced developers, &lt;em&gt;Deitel: Python for Programmers&lt;/em&gt; provides hands-on exercises focusing on deep learning, big data, and other exciting applications. &lt;em&gt;Learn Python 3 the Hard Way&lt;/em&gt; gives you a rigorous crash course where you’ll create working code regardless of your level. Get all these and more, and help support Npower with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/7770c5472abc4b83125f59214a3dac13548debba.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=faca5e782c6f47f569ebeaccd951ade7" length="101945" type="image/jpeg"/>
-      <pubDate>Mon, 18 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Software Architecture by O'Reilly</title>
-      <link>https://humblebundle.com/books/software-architecture-oreilly-books</link>
-      <description>Build your software architecture knowledge</description>
-      <content:encoded>Whether you want to create a solid foundation for a career or expand your existing software architecture skills, this bundle of books from O’Reilly can help you achieve your goals! Explore architectural patterns, component determination, evolutionary architecture, and more. Dig into the facets that distinguish architecture from engineering and other development disciplines. Learn the skills you need to succeed in this in-demand field, and help support Code for America with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/3e20830836740faa73279165e851dcfad5b50066.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3109c162d73b89f2ac23559c6959780f" length="61477" type="image/jpeg"/>
-      <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

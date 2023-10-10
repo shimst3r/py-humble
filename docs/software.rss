@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Oct 2023 08:11:05 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Oct 2023 10:11:05 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 08:10:36 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 10:10:36 +0200</pubDate>
+    <item>
+      <title>Level Up Remix</title>
+      <link>https://humblebundle.com/software/level-up-remix-software</link>
+      <description>Get Fear, Caverns, Soul Trip and more!</description>
+      <content:encoded>Get an instant, complete music production suite with this value-packed bundle—featuring a pro-level DAW (digital audio workstation), virtual synths &amp; instruments, SFX, and an epic library of thousands of loops and samples! &lt;ul&gt; &lt;li&gt;Record and mix tracks with the powerful, easy-to-use &lt;em&gt;Mixcraft 9 Recording Studio&lt;/em&gt;.&lt;/li&gt; &lt;li&gt;Recreate sounds of legendary instruments with &lt;em&gt;Mercury-4&lt;/em&gt;, &lt;em&gt;Eight Voice Synthesizer&lt;/em&gt;, and more.&lt;/li&gt; &lt;li&gt;Tap into loops, vocals, one-shots, and MIDI for a huge variety of styles and genres.&lt;/li&gt; &lt;/ul&gt; Whether you’re a beginner or a professional already deep into production, this bundle’s got everything you need. Plus, your purchase helps support Music Will!</content:encoded>
+      <enclosure url="https://hb.imgix.net/989057a30e10e0bb94b3ccf3f4765725a0bf6e8d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=872a7ecaea73989f65f66ccc56f2cdeb" length="160700" type="image/jpeg"/>
+      <pubDate>Mon, 09 Oct 2023 20:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Game Asset Compendium: Cosmic Sagas and Urban Legends</title>
       <link>https://humblebundle.com/software/game-asset-compendium-cosmic-sagas-and-urban-legends-software</link>
@@ -81,14 +89,6 @@
       <content:encoded>Are you a newbie coder at the start of your journey, or an experienced developer looking to elevate your skillset? This bundle of online video courses from Packt will help you hit the job market fully prepared and ahead of the curve! Learn to build robust, scalable web apps with Django 3’s full-stack Python-based framework. Master the ins and outs of managing containerized applications at scale with Kubernetes. Create stunning and performant front-end user experiences with React JS. Get job-ready with comprehensive courses on all these topics and more, and support Girls Who Code with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/828bc25b5f3f66ac390d9e64da1056c9f19c4f3f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=229015c6b2ad2426887ac5fa0a8f8787" length="87175" type="image/jpeg"/>
       <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dream it, design it, build it! Professional home construction + Extensions</title>
-      <link>https://humblebundle.com/software/dream-it-design-it-build-it-software</link>
-      <description>Design your build-ready dream home</description>
-      <content:encoded>Are you a pro in the building, landscaping, or interior design trades? Or a DIYer looking to take the reins on your home remodel or landscaping project? This bundle of 3D CAD software from Ashampoo will help you bring your ideas to life! Including pro-grade software like &lt;em&gt;3D CAD Professional 10&lt;/em&gt;, &lt;em&gt;Home Design 8&lt;/em&gt;, and a suite of specialized extensions for kitchens and offices, these tools will help you visualize your ideas beautifully and accurately. Get the tools you need to make your vision build-ready, and support Cancer Research UK and American Cancer Society with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/cf8eee34b8f44d7554dd56b0df847544b456cfdf.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=1774884eea4424e1e9ea3ac33dccb9b5" length="63304" type="image/jpeg"/>
-      <pubDate>Mon, 04 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
