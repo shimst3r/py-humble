@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Oct 2023 08:10:22 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Oct 2023 10:10:22 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 08:10:11 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 10:10:11 +0200</pubDate>
+    <item>
+      <title>Bandai Namco: Fights, Frights, and Fantasy</title>
+      <link>https://humblebundle.com/games/bandai-namco-fights-frights-and-fantasy</link>
+      <description>Kick, slay, chomp, and roll</description>
+      <content:encoded>Get ready to experience the legendary fighting, fantastic worlds, horrific foes, and timeless games of Bandai Namco! Take on your rivals in &lt;em&gt;TEKKEN 7&lt;/em&gt;, the most recent release in the iconic series. Embark on a journey to escape the living nightmare of &lt;em&gt;Code Vein&lt;/em&gt;. Restore the stars as the Prince of All Cosmos in &lt;em&gt;Katamari Demacy REROLL&lt;/em&gt;. Get &lt;em&gt;God Eater 3&lt;/em&gt;, &lt;em&gt;Tales of Vesperia: Definitive Edition&lt;/em&gt;, and more—and help support One Tree Planted with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/498767744556d6ce1971b36b39bca0541609a665.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6aadd46d9d4143520acc6b48f6ca4915" length="127104" type="image/jpeg"/>
+      <pubDate>Wed, 11 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Laugh Til You Die: Multiplayer Mayhem</title>
       <link>https://humblebundle.com/games/laugh-til-you-die-multiplayer-mayhem</link>
@@ -33,22 +41,6 @@
       <content:encoded>Bask in the freedom of choice and face the finality of consequence in this bundle of player-driven narrative games! Guide an eclectic ensemble through a series of madcap sci-fi trials and tribulations in &lt;em&gt;New Tales From the Borderlands&lt;/em&gt;. Drive the fates of two characters who share a psychic bond in the critically acclaimed &lt;em&gt;Beyond: Two Souls&lt;/em&gt;. Confront your hometown’s troubled past in &lt;em&gt;Twin Mirror&lt;/em&gt;, get lost in the visual novel-style adventure of &lt;em&gt;Opus: Echoes of Starsong&lt;/em&gt;, and much more—and help support the National Videogame Museum!</content:encoded>
       <enclosure url="https://hb.imgix.net/b652e89cc7c267f23d4ecc2514440923315f0431.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=79bba98fe582a0e10281458bf49ee33b" length="80248" type="image/jpeg"/>
       <pubDate>Fri, 22 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HeroCraft PC Complete Collection</title>
-      <link>https://humblebundle.com/games/herocraft-complete-collection</link>
-      <description>A massive indie gaming treasury</description>
-      <content:encoded>Delve into the adventurous, strategic, humorous games of indie publisher HeroCraft PC with this massive new bundle! Rebuild humanity on an ever-changing Earth in the post-apocalyptic 4X strategy game &lt;em&gt;Revival: Recolonization&lt;/em&gt;. Take control of a grim recycling facility in the darkly satirical sim &lt;em&gt;Organs Please&lt;/em&gt;. Take command of a Space Wolves squad on the turn-based, card-based battlefields of &lt;em&gt;Warhammer 40,000: Space Wolf&lt;/em&gt;*. Get &lt;em&gt;Anvil Saga&lt;/em&gt;, &lt;em&gt;Tempest&lt;/em&gt;, and more, and support International Medical Corps with your purchase. &lt;br/&gt;&lt;br/&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;Warhammer 40,000: Space Wolf and associated DLC will no longer be available for purchase after October 12, 2023. Get it while you can!&lt;/strong&gt;&lt;/a&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/ae3955ad5aa6cda717625ecdefa3b040b594962a.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=87d7713eb74ac2a58d2a18a18d505d7d" length="116663" type="image/jpeg"/>
-      <pubDate>Wed, 20 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get Your Head in the Game VR</title>
-      <link>https://humblebundle.com/games/get-your-head-in-game-vr</link>
-      <description>Get in the middle of the action</description>
-      <content:encoded>Stay focused and face your foes head-on in this intense new collection of virtual reality games! Annihilate anyone who dares to stand between you and your destiny in the dark fantasy RPG &lt;em&gt;Grimlord&lt;/em&gt;. Search for your lost sister in the sinister survival-horror halls of &lt;em&gt;Propagation: Paradise Hotel&lt;/em&gt;. Escape the super-spy situations of &lt;em&gt;I Expect You to Die 2&lt;/em&gt;, crawl the dungeons of &lt;em&gt;Demeo&lt;/em&gt;, and more—and help support Direct Relief and International Medical Corps with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/214bbfc93154c9915a53a2b0c235d881c0d3601c.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=722699d2125c17c7455dc9cec444958f" length="89023" type="image/jpeg"/>
-      <pubDate>Wed, 20 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
