@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Oct 2023 08:10:09 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Oct 2023 10:10:09 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 08:10:39 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 10:10:39 +0200</pubDate>
+    <item>
+      <title>Cookbooks and Cocktails by Chronicle Books</title>
+      <link>https://humblebundle.com/books/cookbooks-cocktails-chronicle-books</link>
+      <description>Cuisines and cocktails from far and wide</description>
+      <content:encoded>Discover tastes you’ll want to return to again and again in this collection of cookbooks and cocktail guides from Chronicle Books! Step into the kitchens of celebrity chefs with Snoop Dogg’s &lt;em&gt;From Crook to Cook&lt;/em&gt; and &lt;em&gt;Top Chef&lt;/em&gt; winner Kelsey Barnard Clark’s &lt;em&gt;Southern Grit&lt;/em&gt;. Make simple, delicious Indian meals with &lt;em&gt;6 Spices, 60 Dishes&lt;/em&gt;. Explore recipes and stories sourced from the renowned San Francisco incubator kitchen La Cocina. Complement your meals with mixed spirits, craft beers, and more—and help support the Book Industry Charitable Foundation with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/f089e0204fead7e2b30c0e867ccc0deb0e69b921.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c67cdc9c81931d3fd91fe6abca1d46c9" length="74220" type="image/jpeg"/>
+      <pubDate>Thu, 12 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Web Design and Development from Smashing Magazine</title>
       <link>https://humblebundle.com/books/web-design-and-development-from-smashing-magazine-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Looking for some macabre reading for the spookiest season of the year? Fix your gaze upon this massive &lt;em&gt;Eerie&lt;/em&gt; archive from Dark Horse, collecting over 130 issues of the long-running horror comics magazine! Featuring terrifying tales and astonishing artwork from legends like Gray Morrow, Frank Frazetta, Alex Toth, Neal Adams, and Joe Orlando, this &lt;em&gt;Eerie&lt;/em&gt; library is for everyone who loves strange and twisted tales of terror, fantasy, and science fiction. Lose yourself in the &lt;em&gt;Eerie Archives&lt;/em&gt;, and help support the Hero Initiative with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/1625e695ec6054c8a5ec1cf40ec25d6958ea9ea0.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=85bce213a6db2ea07d65992763ee4c53" length="126627" type="image/jpeg"/>
       <pubDate>Sat, 23 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L.E. Modesitt Collection by Tor Publishing Group</title>
-      <link>https://humblebundle.com/books/le-modesitt-collection-tor-publishing-group-books</link>
-      <description>Order, chaos, magic, and technology</description>
-      <content:encoded>Lose yourself in the contemporary epic fantasy and science fiction of bestselling author L. E. Modesitt, Jr.! Journey to a realm where chaos and order clash in all 22 current volumes of Modesitt’s iconic Saga of Recluce series, from &lt;em&gt;The Magic of Recluce&lt;/em&gt; to &lt;em&gt;Fairhaven Rising&lt;/em&gt;, plus the short story collection &lt;em&gt;Recluce Tales&lt;/em&gt;. Discover the history and fate of a lost civilization in all eight novels of the Corean Chronicles. Travel to the far future in standalone science-fiction works including &lt;em&gt;The Hammer of Darkness&lt;/em&gt;, &lt;em&gt;Quantum Shadows&lt;/em&gt;, and more—and help support World Wildlife Fund with your purchase. </content:encoded>
-      <enclosure url="https://hb.imgix.net/ee21ec0edd81dfb805306ba2d3aebd491dd7a1d7.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=635d5cbde9bdcb3833d95cf84b45a19b" length="96320" type="image/jpeg"/>
-      <pubDate>Thu, 21 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
