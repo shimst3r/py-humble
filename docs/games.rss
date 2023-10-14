@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 08:10:40 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Oct 2023 10:10:40 +0200</pubDate>
+    <lastBuildDate>Sat, 14 Oct 2023 08:08:55 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Oct 2023 10:08:55 +0200</pubDate>
+    <item>
+      <title>Fright of your Life</title>
+      <link>https://humblebundle.com/games/fright-your-life</link>
+      <description>Harrowing Halloween-time horror</description>
+      <content:encoded>Seeking something sinister to unnerve you this season? Summon forth this anthology of horror games, and prepare for the fright of your life. Dive to the pitch black depths of &lt;em&gt;STASIS: BONE TOTEM&lt;/em&gt; and &lt;em&gt;Hidden Deep&lt;/em&gt;. Survive the creepy cartoon studio of &lt;em&gt;Bendy &amp; the Ink Machine&lt;/em&gt; and its sequel &lt;em&gt;Dark Revival&lt;/em&gt;. Explore the dark places of Bright Falls in &lt;em&gt;Alan Wake Collector's Edition&lt;/em&gt;, the perfect way to prep for the sequel. Get &lt;em&gt;Tormented Souls&lt;/em&gt;, &lt;em&gt;Pathologic 2&lt;/em&gt;, and more—and help support International Medical Corps and Direct Relief with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/576a9ac84d23ba3aadc6e20b663fb6fa9fba654d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=5be86d95db5dcf15722e8d927d85288d" length="83831" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bandai Namco: Fights, Frights, and Fantasy</title>
       <link>https://humblebundle.com/games/bandai-namco-fights-frights-and-fantasy</link>
@@ -33,14 +41,6 @@
       <content:encoded>Discover awesome games from some of the world’s most creative, visionary independent developers in this eclectic collection of titles published by Humble Games (hey, that’s us)! Meet your maker in the unforgiving world of &lt;em&gt;Moonscars&lt;/em&gt;. Explore a forgotten city and race to save your friends in &lt;em&gt;UNSIGHTED&lt;/em&gt;. Become a champ in the vibrant school sports RPG &lt;em&gt;Dodgeball Academia&lt;/em&gt;, journey into the Deep Woods of &lt;em&gt;The Wild at Heart&lt;/em&gt;, and much more—and help support Direct Relief with your purchase. &lt;br/&gt;&lt;br/&gt;</content:encoded>
       <enclosure url="https://hb.imgix.net/b450f206e10e545bf5b037814144a8886d7a8b7e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=a21c73ba6bc25c0bcc3c239775e6189d" length="123275" type="image/jpeg"/>
       <pubDate>Wed, 27 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Control the Narrative</title>
-      <link>https://humblebundle.com/games/control-narrative</link>
-      <description>Make the story yours</description>
-      <content:encoded>Bask in the freedom of choice and face the finality of consequence in this bundle of player-driven narrative games! Guide an eclectic ensemble through a series of madcap sci-fi trials and tribulations in &lt;em&gt;New Tales From the Borderlands&lt;/em&gt;. Drive the fates of two characters who share a psychic bond in the critically acclaimed &lt;em&gt;Beyond: Two Souls&lt;/em&gt;. Confront your hometown’s troubled past in &lt;em&gt;Twin Mirror&lt;/em&gt;, get lost in the visual novel-style adventure of &lt;em&gt;Opus: Echoes of Starsong&lt;/em&gt;, and much more—and help support the National Videogame Museum!</content:encoded>
-      <enclosure url="https://hb.imgix.net/b652e89cc7c267f23d4ecc2514440923315f0431.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=79bba98fe582a0e10281458bf49ee33b" length="80248" type="image/jpeg"/>
-      <pubDate>Fri, 22 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
