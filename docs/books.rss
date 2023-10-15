@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Oct 2023 08:08:53 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Oct 2023 10:08:53 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2023 08:08:58 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Oct 2023 10:08:58 +0200</pubDate>
+    <item>
+      <title>Creepy Comics Collection by Dark Horse</title>
+      <link>https://humblebundle.com/books/creepy-comics-collection-dark-horse-books</link>
+      <description>A seminal collection of horror tales</description>
+      <content:encoded>Ring in the season of fright with this massive collection of terrifying tales from Dark Horse! Within this monstrous bundle you’ll find the entire 145-issue run of the seminal horror comics magazine &lt;em&gt;Creepy&lt;/em&gt;, established in 1964, collected here in 29 chilling &lt;em&gt;Creepy Archives&lt;/em&gt; volumes. Featuring the work of revered creators like Gray Morrow, Frank Frazetta, Alex Toth, and Steve Ditko, this collection will take you on a twisted journey through an unforgettable era of horror storytelling. Also included is a collection of volumes from Dark Horse’s new &lt;em&gt;Creepy&lt;/em&gt; magazine, featuring horrific tales from names like Ray Fawkes, Michael Woods, and others. Get all this and more, and help support the Hero Initiative with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/0f6a82e12a225c9f5b6730374f00a8c6e8edf795.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=492dd6048d140d1c989d12dd1c4f1f2a" length="144958" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cookbooks and Cocktails by Chronicle Books</title>
       <link>https://humblebundle.com/books/cookbooks-cocktails-chronicle-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>October marks Cybersecurity Awareness Month, and the tech experts at O’Reilly are here to help programmers, engineers, and IT pros keep systems safe all year round. Learn about identity-native access management and intelligence-driven incident response. Wrap your head around the principles of security chaos engineering and security-as-code methodology. Build the know-how you need to create systems that can withstand today’s ever-evolving cybersecurity threats, and help support Code for America with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/d040a836d78b4140afaae4d4b975dbda83435c93.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3c263f0ad34833210076dd7dfece3cd4" length="100588" type="image/jpeg"/>
       <pubDate>Mon, 25 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eerie Comics Collection by Dark Horse</title>
-      <link>https://humblebundle.com/books/eerie-comics-collection-dark-horse-books</link>
-      <description>A groundbreakingly gruesome horror comic library</description>
-      <content:encoded>Looking for some macabre reading for the spookiest season of the year? Fix your gaze upon this massive &lt;em&gt;Eerie&lt;/em&gt; archive from Dark Horse, collecting over 130 issues of the long-running horror comics magazine! Featuring terrifying tales and astonishing artwork from legends like Gray Morrow, Frank Frazetta, Alex Toth, Neal Adams, and Joe Orlando, this &lt;em&gt;Eerie&lt;/em&gt; library is for everyone who loves strange and twisted tales of terror, fantasy, and science fiction. Lose yourself in the &lt;em&gt;Eerie Archives&lt;/em&gt;, and help support the Hero Initiative with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/1625e695ec6054c8a5ec1cf40ec25d6958ea9ea0.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=85bce213a6db2ea07d65992763ee4c53" length="126627" type="image/jpeg"/>
-      <pubDate>Sat, 23 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
