@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Oct 2023 08:11:01 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Oct 2023 10:11:01 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Oct 2023 08:10:26 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Oct 2023 10:10:26 +0200</pubDate>
+    <item>
+      <title>Programming MEGA Bundle 2023 by Packt</title>
+      <link>https://humblebundle.com/books/programming-mega-bundle-2023-packt-books</link>
+      <description>Your practical all-purpose programming library</description>
+      <content:encoded>Learn principles, best practices, and advanced concepts for myriad programming disciplines with this massive bundle from Packt. This 25-book library covers a wide range of topics today’s coders and tech professionals need to know, including cloud computing, systems engineering, quantum machine learning, and more. It also includes development resources for popular platforms and languages like Java, Go, Delphi, and more. Level up your programming knowledge, and help support Child’s Play with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/28422fb8226c8da694837145c660eab65bb85f49.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=54067ed57a81d6b50daff84c4c6b5ca9" length="79593" type="image/jpeg"/>
+      <pubDate>Mon, 16 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Creepy Comics Collection by Dark Horse</title>
       <link>https://humblebundle.com/books/creepy-comics-collection-dark-horse-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Discover your new favorite series with this collection of diverse manga from diverse creators across the globe, in partnership with publisher Saturday AM! In &lt;em&gt;Apple Black&lt;/em&gt;, you’ll meet Sano, a young sorcerer with an epic destiny who must battle sinister temptations. Join &lt;em&gt;Clock Striker&lt;/em&gt;’s aspiring warrior-engineer Cast as she pursues her dreams amidst hidebound tradition and discrimination. Explore the &lt;em&gt;Massively Multiplayer World of Ghosts&lt;/em&gt; alongside Nil, an average kid who must do extraordinary things to survive its mysteries and hazards. Lose yourself in these great manga and more, and support BINC with your purchase</content:encoded>
       <enclosure url="https://hb.imgix.net/152f8f2d1e8e1645f8bbe5706b1070b196ee7d7f.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=74fef6a4eeda1e0a3474d7d03ae53582" length="137750" type="image/jpeg"/>
       <pubDate>Thu, 28 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Month MEGA Bundle by O'Reilly</title>
-      <link>https://humblebundle.com/books/cybersecurity-month-mega-bundle-oreilly-books</link>
-      <description>Unlock a library of cybersecurity knowledge</description>
-      <content:encoded>October marks Cybersecurity Awareness Month, and the tech experts at O’Reilly are here to help programmers, engineers, and IT pros keep systems safe all year round. Learn about identity-native access management and intelligence-driven incident response. Wrap your head around the principles of security chaos engineering and security-as-code methodology. Build the know-how you need to create systems that can withstand today’s ever-evolving cybersecurity threats, and help support Code for America with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/d040a836d78b4140afaae4d4b975dbda83435c93.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3c263f0ad34833210076dd7dfece3cd4" length="100588" type="image/jpeg"/>
-      <pubDate>Mon, 25 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

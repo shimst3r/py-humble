@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Oct 2023 08:11:04 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Oct 2023 10:11:04 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Oct 2023 08:10:30 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Oct 2023 10:10:30 +0200</pubDate>
+    <item>
+      <title>The Mini but Mighty Fantasy Unreal Engine Environments</title>
+      <link>https://humblebundle.com/software/the-mini-but-mighty-fantasy-unreal-engine-environments-software</link>
+      <description>Fantastic fantasy environments for your Unreal game</description>
+      <content:encoded>Want to build an epic-quality fantasy world for your game or visual project? Pick up this set of three environmental asset packages from Laertes Studios! In this focused collection for Unreal developers, you’ll find: &lt;ul&gt; &lt;li&gt;A grand fantasy castle suited for a gothic tale or game with souls-like style.&lt;/li&gt; &lt;li&gt;A stately medieval castle interior, the ideal setting for dramatic moments.&lt;/li&gt;  &lt;li&gt;A medieval tavern exterior and interior, ideal for scenes of rest and reverie.&lt;/li&gt; &lt;/ul&gt; Their packs also come compete with demo scenes to help get you started. Make something fantastic, and help support charity with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/a2e2b1219a1972f61025a5124edddac4138ffb50.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c88c6bfcf24dad0a298e6f6da4b53102" length="93260" type="image/jpeg"/>
+      <pubDate>Mon, 16 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dungeon &amp; Monsters 3 - 3D Printable Tabletop Bundle</title>
       <link>https://humblebundle.com/software/dungeon-monsters-3-3d-printable-tabletop-bundle-software</link>
@@ -51,14 +59,6 @@
       <pubDate>Thu, 28 Sep 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Best of Synty Game Dev Assets Remix</title>
-      <link>https://humblebundle.com/software/best-synty-game-dev-assets-remix-software</link>
-      <description>Incredible 3D game art by Synty</description>
-      <content:encoded>Prepare to embark on a game development journey like no other with this bundle from Synty Studios, a leading asset publisher creating 3D low poly art game development assets for Unity and Unreal. Synty creates asset packs that share cohesive art styles, allowing you to mix and match modular 3D models to create the game of your dreams. Their packs also come compete with demo scenes to help get you started. Whether you’re a beginner or seasoned developer, this bundle can help elevate your projects and bring your game to life—and you’ll help support Girls Who Code, too! &lt;br&gt;&lt;br&gt; &lt;em&gt;Bonus! Get $10 off Synty assets at SyntyStore.com, where you’ll find dozens of asset packs with similar visual styles to add even more variety to your library. Coupon expires October 31, 2024.&lt;/em&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/937a147482a758dd888eb01acc7b7e8c8d3df356.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e6827234b8427a3ef4be8ccd795a5d1f" length="122941" type="image/jpeg"/>
-      <pubDate>Mon, 25 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Capture, Edit, Create! Video &amp; Gameplay Tools by Movavi</title>
       <link>https://humblebundle.com/software/capture-edit-create-video-gameplay-tools-by-movavi-software</link>
       <description>A content creator’s workshop</description>
@@ -89,14 +89,6 @@
       <content:encoded>Master Godot—the lightweight, fast, and free game engine behind hits like &lt;em&gt;Sonic Colors: Ultimate&lt;/em&gt;. Whether you want to use the brand new version 4 or the battle-tested version 3, these courses will get you building platformers, RPGs, first-person shooters, city-builders, strategy games, and more—no prior experience required! Plus, you’ll learn how to customize your games by creating your own art and assets, all while supporting Girls Who Code with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/4fe0d49cab8715a6425171613819387506256216.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=081500b6ff7cfa09d7d1b10d472dac68" length="125128" type="image/jpeg"/>
       <pubDate>Thu, 14 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The A-Z of Full Stack Development</title>
-      <link>https://humblebundle.com/software/az-full-stack-development-software</link>
-      <description>A full-stack education for devs</description>
-      <content:encoded>Are you a newbie coder at the start of your journey, or an experienced developer looking to elevate your skillset? This bundle of online video courses from Packt will help you hit the job market fully prepared and ahead of the curve! Learn to build robust, scalable web apps with Django 3’s full-stack Python-based framework. Master the ins and outs of managing containerized applications at scale with Kubernetes. Create stunning and performant front-end user experiences with React JS. Get job-ready with comprehensive courses on all these topics and more, and support Girls Who Code with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/828bc25b5f3f66ac390d9e64da1056c9f19c4f3f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=229015c6b2ad2426887ac5fa0a8f8787" length="87175" type="image/jpeg"/>
-      <pubDate>Mon, 11 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
