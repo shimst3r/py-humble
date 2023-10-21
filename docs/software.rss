@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 08:10:02 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Oct 2023 10:10:02 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Oct 2023 08:08:44 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Oct 2023 10:08:44 +0200</pubDate>
     <item>
       <title>Roll20 Bundle</title>
       <link>https://humblebundle.com/software/roll20-bundle-software</link>
@@ -57,22 +57,6 @@
       <content:encoded>Are you a game developer, data scientist, business analyst, or someone whose work touches these ever-evolving fields? This bundle of online courses from Mammoth Interactive—covering topics like machine learning, sales analytics, data visualization, and more—will get you up to speed on the cutting-edge technologies that are driving the future of these disciplines. Included in the bundle are several first-time Humble Bundle exclusive courses diving deep into machine learning and neural networks in Godot 4, plus a whole lot more. Get invaluable bleeding-edge instruction, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/835e0da44d22b4a7cfde5d017be631d490affa11.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e27e2fef8ced172622e8b11feae23f42" length="84378" type="image/jpeg"/>
       <pubDate>Mon, 02 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capture, Edit, Create! Video &amp; Gameplay Tools by Movavi</title>
-      <link>https://humblebundle.com/software/capture-edit-create-video-gameplay-tools-by-movavi-software</link>
-      <description>A content creator’s workshop</description>
-      <content:encoded>Bring your ideas for videos, gaming streams, and other creative content to life with this bundle of software from Movavi! Make movies with filters, transitions, and style using the powerful &lt;em&gt;Movavi Video Editor Plus 2022&lt;/em&gt;, plus 9 sets of effects. Capture your best gameplay moments and share them with the world using the lightweight &lt;em&gt;Gecata&lt;/em&gt; game recording software. Take your photo editing to the next level with the AI-powered &lt;em&gt;Picverse&lt;/em&gt;. Bring your creative vision to life, and help support Oceana with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/d39127ede1c01df38ec0936ad693d856500eed46.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=462fad5aff6a408f1f9a2ceca8ad69b5" length="136009" type="image/jpeg"/>
-      <pubDate>Fri, 22 Sep 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Audio Odyssey Bundle</title>
-      <link>https://humblebundle.com/software/audio-odyssey-bundle-software</link>
-      <description>A universe of royalty-free audio</description>
-      <content:encoded>Get all the audio you’ll ever need for your games, films, and other creative projects with this jam-packed bundle of royalty-free music and sound FX! Regardless of the vibe you’re trying to weave, you’ll be covered when it comes to music, with dedicated packs that span themes and genres—from fantasy, horror, and sci-fi, to ambient, classical, and chiptunes. Get ready to paint soundscapes with sound FX including creature sounds, combat clanks, futuristic beeps and chirps, and much more. Embark on an audio odyssey, and help support American Cancer Society with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/4ae04fc7fada6735e24561d9a0d444d9caeb2cda.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=03049bf4110172b60ffec9482b4dbfca" length="128229" type="image/jpeg"/>
-      <pubDate>Mon, 18 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
