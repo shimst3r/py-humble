@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2023 08:10:43 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Oct 2023 10:10:43 +0200</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2023 08:10:45 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Oct 2023 10:10:45 +0200</pubDate>
+    <item>
+      <title>Data Science by No Starch Press</title>
+      <link>https://humblebundle.com/books/data-science-no-starch-press-books</link>
+      <description>Welcome to the age of data</description>
+      <content:encoded>Elevate your career with mission-critical skills essential across business, research, and academia with this data science book bundle by No Starch Press. &lt;em&gt;Dive Into Data Science&lt;/em&gt; will teach you how to harness the approachable Python programming language to solve common business challenges. If you’re a researcher, &lt;em&gt;Python Tools for Scientists&lt;/em&gt; will equip you with a powerful arsenal for creating data visualizations, running simulations, and more. And regardless of your discipline, &lt;em&gt;The Book of Dash&lt;/em&gt; will empower you to create dashboards that elegantly and effectively present your data. Pay what you want for these and 15 more books, and support the Electronic Frontier Foundation with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/b2974af9fc2f75b3707c06c330eb0a2cfd65b04b.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9bfb96e3245cc118daedd5e1fb69dfa9" length="111514" type="image/jpeg"/>
+      <pubDate>Mon, 23 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Get Ready for NaNoWriMo 2023</title>
       <link>https://humblebundle.com/books/get-ready-for-nanowrimo-2023-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Snooze your way to a healthy body and sound mind with this collection of 20 books covering the topic of sleep in all its dreamy dimensions. &lt;em&gt;The Book of Sleep&lt;/em&gt; provides 75 strategies to alleviate insomnia, based in cognitive behavioral therapy. In &lt;em&gt;The Complete Book of Dreams&lt;/em&gt;, you’ll learn techniques that will allow you to harness the healing potential of your nocturnal journeys. And if the sandman needs a nudge, &lt;em&gt;This Book Will Put You to Sleep&lt;/em&gt; is full of stories written to make your eyelids heavy. Don’t compromise on the immeasurable benefits of sound sleep! Pick up this dream-inducing bundle, and help support charity with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/ba2bf9db80ff44824ac1f1d766f8f4ae7544254d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8568515cb015b034bc4c4008d821b796" length="45083" type="image/jpeg"/>
       <pubDate>Thu, 05 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Visualization by Taylor &amp; Francis</title>
-      <link>https://humblebundle.com/books/data-visualization-taylor-francis-books</link>
-      <description>Turn raw data into tangible insights</description>
-      <content:encoded>Transform your data into visual models that spark new insights for your project or organization with the help of the experts at Taylor &amp; Francis. The library of 20 ebooks explores multiple facets of data visualization. Learn to tell stories with your data, and uncover graphics techniques to aid in analysis. Explore the world of modern input devices, and derive meaning from your data using R visualizations. Translate your data into more human terms, and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/f6d4ec5e74f7083323c43faae0dcd87b81104f0a.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7c38376a54eed82bf94a9faaf888b41e" length="126319" type="image/jpeg"/>
-      <pubDate>Mon, 02 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,8 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2023 08:10:46 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Oct 2023 10:10:46 +0200</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2023 08:10:48 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Oct 2023 10:10:48 +0200</pubDate>
+    <item>
+      <title>Harmonic Hauntings: A Horrific Sound and Music Bundle</title>
+      <link>https://humblebundle.com/software/harmonic-hauntings-horrific-sound-and-music-bundle-software</link>
+      <description>Craft an unsettling horror score</description>
+      <content:encoded>Create a sinister soundscape for your game, film, or audio project with this bundle of spooky samples, macabre melodies, and more royalty-free horror music and sound effects. Craft a chilling auditory experience with the unnerving chords and experimental sounds of Ovani’s Apprehension Engine sample packs. Unnerve your audience with royalty-free horror and sci-fi music. Get 150 music files and 1,200+ sounds, and help support American Cancer Society with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/f8ed075c3fdf5bf5ade9eeb7d18563750b154784.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=44d7f1915e80267f7c383efd6e1c6382" length="116527" type="image/jpeg"/>
+      <pubDate>Mon, 23 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Create &amp; Elevate: Amazing Art Tools from Corel</title>
+      <link>https://humblebundle.com/software/create-and-elevate-amazing-art-tools-from-corel-software</link>
+      <description>Bring your vision to life</description>
+      <content:encoded>Get inspired and get creative with this bundle of amazing visual art software from Corel! Sketch, paint, and illustrate with the renowned Corel Painter 2023, plus a kit full of brush packs to help you create your signature style. Make every shot your best shot with the advanced photo editing of PaintShop Pro, and harness the time-saving power of AfterShot Pro. Become a master of the digital canvas with the help of Corel, and support Children’s Hospital of Eastern Ontario (CHEO) with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/73741e94820269071a20b2e1d9ebbc78bae7c14c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=80646992875f1219879b7b47e5702aa2" length="94421" type="image/jpeg"/>
+      <pubDate>Mon, 23 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Roll20 Bundle</title>
       <link>https://humblebundle.com/software/roll20-bundle-software</link>
@@ -57,6 +73,14 @@
       <content:encoded>Are you a game developer, data scientist, business analyst, or someone whose work touches these ever-evolving fields? This bundle of online courses from Mammoth Interactive—covering topics like machine learning, sales analytics, data visualization, and more—will get you up to speed on the cutting-edge technologies that are driving the future of these disciplines. Included in the bundle are several first-time Humble Bundle exclusive courses diving deep into machine learning and neural networks in Godot 4, plus a whole lot more. Get invaluable bleeding-edge instruction, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/835e0da44d22b4a7cfde5d017be631d490affa11.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e27e2fef8ced172622e8b11feae23f42" length="84378" type="image/jpeg"/>
       <pubDate>Mon, 02 Oct 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audio FX Plugins &amp; Royalty Free Sounds Mega Bundle</title>
+      <link>https://humblebundle.com/software/audio-fx-plugins-royalty-free-sounds-mega-bundle-software</link>
+      <description>Take your sound to the next level</description>
+      <content:encoded>Create music, craft SFX, and make your sound even more spectacular with this awesome audio bundle! This eclectic collection features plug-ins like Obsidian and Outlaw designed to make it easy to transform your sound with spectral delay, reverb, gain leveling, and more. You’ll also get a library of dozens of royalty-free sound packs, including music samples and loops for K-pop, hip-hop, synthwave, or EDM styles. Get the sound you’re seeking, and help support Child’s Play with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/53daaa8ed4c1059a70463fa743a15a74c001cd40.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7f23774422a455754bbce5bf2922a2e4" length="146182" type="image/jpeg"/>
+      <pubDate>Thu, 21 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
