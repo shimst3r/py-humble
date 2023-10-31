@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 08:10:23 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Oct 2023 09:10:23 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Oct 2023 08:10:29 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Oct 2023 09:10:29 +0100</pubDate>
+    <item>
+      <title>The Unreal Engine Asset Bonanza</title>
+      <link>https://humblebundle.com/software/unreal-engine-asset-bonanza-software</link>
+      <description>A sandbox of open world assets</description>
+      <content:encoded>Get your open world game project up and running at record pace with this comprehensive bundle of assets for Unreal Engine! Regardless of where your project is in development, you’ll get the building blocks you need to make your vision real, including 3D models for characters, environments, props, and vehicles, high quality mocap animation sets, royalty-free music collections, and more! Pay what you want for this massive collection of assets that span the genres, valued at over $2,500, and help support charity with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/796be10b879bf471b61fffbed144fbcc014a53ca.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=11eca12df270dcc686b1286256a288d6" length="86332" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Harmonic Hauntings: A Horrific Sound and Music Bundle</title>
       <link>https://humblebundle.com/software/harmonic-hauntings-horrific-sound-and-music-bundle-software</link>
@@ -35,14 +43,6 @@
       <pubDate>Thu, 19 Oct 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Mini but Mighty Fantasy Unreal Engine Environments</title>
-      <link>https://humblebundle.com/software/the-mini-but-mighty-fantasy-unreal-engine-environments-software</link>
-      <description>Fantastic fantasy environments for your Unreal game</description>
-      <content:encoded>Want to build an epic-quality fantasy world for your game or visual project? Pick up this set of three environmental asset packages from Laertes Studios! In this focused collection for Unreal developers, you’ll find: &lt;ul&gt; &lt;li&gt;A grand fantasy castle suited for a gothic tale or game with souls-like style.&lt;/li&gt; &lt;li&gt;A stately medieval castle interior, the ideal setting for dramatic moments.&lt;/li&gt;  &lt;li&gt;A medieval tavern exterior and interior, ideal for scenes of rest and reverie.&lt;/li&gt; &lt;/ul&gt; Their packs also come compete with demo scenes to help get you started. Make something fantastic, and help support charity with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/a2e2b1219a1972f61025a5124edddac4138ffb50.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c88c6bfcf24dad0a298e6f6da4b53102" length="93260" type="image/jpeg"/>
-      <pubDate>Mon, 16 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dungeon &amp; Monsters 3 - 3D Printable Tabletop Bundle</title>
       <link>https://humblebundle.com/software/dungeon-monsters-3-3d-printable-tabletop-bundle-software</link>
       <description>3D printable monsters, heroes, and more</description>
@@ -65,14 +65,6 @@
       <content:encoded>Are you a game developer, data scientist, business analyst, or someone whose work touches these ever-evolving fields? This bundle of online courses from Mammoth Interactive—covering topics like machine learning, sales analytics, data visualization, and more—will get you up to speed on the cutting-edge technologies that are driving the future of these disciplines. Included in the bundle are several first-time Humble Bundle exclusive courses diving deep into machine learning and neural networks in Godot 4, plus a whole lot more. Get invaluable bleeding-edge instruction, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/835e0da44d22b4a7cfde5d017be631d490affa11.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e27e2fef8ced172622e8b11feae23f42" length="84378" type="image/jpeg"/>
       <pubDate>Mon, 02 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audio FX Plugins &amp; Royalty Free Sounds Mega Bundle</title>
-      <link>https://humblebundle.com/software/audio-fx-plugins-royalty-free-sounds-mega-bundle-software</link>
-      <description>Take your sound to the next level</description>
-      <content:encoded>Create music, craft SFX, and make your sound even more spectacular with this awesome audio bundle! This eclectic collection features plug-ins like Obsidian and Outlaw designed to make it easy to transform your sound with spectral delay, reverb, gain leveling, and more. You’ll also get a library of dozens of royalty-free sound packs, including music samples and loops for K-pop, hip-hop, synthwave, or EDM styles. Get the sound you’re seeking, and help support Child’s Play with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/53daaa8ed4c1059a70463fa743a15a74c001cd40.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7f23774422a455754bbce5bf2922a2e4" length="146182" type="image/jpeg"/>
-      <pubDate>Thu, 21 Sep 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
