@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Nov 2023 08:10:23 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Nov 2023 09:10:23 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 08:10:06 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 09:10:06 +0100</pubDate>
+    <item>
+      <title>IGN Editor's Choice: The 9 and Above Club</title>
+      <link>https://humblebundle.com/games/ign-editors-choice-9-and-above-club</link>
+      <description>Amazing games and Masterpieces, awarded by IGN</description>
+      <content:encoded>Looking for something certifiably awesome to play? All of the games in this bundle have scored a rating of 9 (Amazing) or 10 (Masterpiece) from IGN, earning them a prestigious Editors' Choice award—and a spot on &lt;em&gt;your&lt;/em&gt; must-play list. In this bundle supporting Extra Life and Girls Who Code, you’ll get: &lt;ul&gt; &lt;li&gt;Disco Elysium - The Final Cut &lt;li&gt;Wildermyth &lt;li&gt;Chivalry 2 &lt;li&gt;Spiritfarer &lt;li&gt;The Forgotten City &lt;li&gt;GRIME &lt;li&gt;Paradise Killer &lt;/ul&gt; &lt;em&gt;Read why IGN critics deemed each game worthy of an Editors' Choice award over at Humble’s sister site &lt;a href="http://www.ign.com/" style="color:#FFFFFF;" target=”_blank”&gt;IGN.com&lt;/a&gt;.&lt;/em&gt;</content:encoded>
+      <enclosure url="https://hb.imgix.net/bbd92493b0cd501e595af62136a28887b74cf896.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f3ae0fae9e5cf0939f8f0bdfeae9dd72" length="82378" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>WB 100: Play the Legends</title>
       <link>https://humblebundle.com/games/wb-100-play-legends</link>
@@ -41,14 +49,6 @@
       <content:encoded>Seeking something sinister to unnerve you this season? Summon forth this anthology of horror games, and prepare for the fright of your life. Dive to the pitch black depths of &lt;em&gt;STASIS: BONE TOTEM&lt;/em&gt; and &lt;em&gt;Hidden Deep&lt;/em&gt;. Survive the creepy cartoon studio of &lt;em&gt;Bendy &amp; the Ink Machine&lt;/em&gt; and its sequel &lt;em&gt;Dark Revival&lt;/em&gt;. Explore the dark places of Bright Falls in &lt;em&gt;Alan Wake Collector's Edition&lt;/em&gt;, the perfect way to prep for the sequel. Get &lt;em&gt;Tormented Souls&lt;/em&gt;, &lt;em&gt;Pathologic 2&lt;/em&gt;, and more—and help support International Medical Corps and Direct Relief with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/576a9ac84d23ba3aadc6e20b663fb6fa9fba654d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=5be86d95db5dcf15722e8d927d85288d" length="83831" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bandai Namco: Fights, Frights, and Fantasy</title>
-      <link>https://humblebundle.com/games/bandai-namco-fights-frights-and-fantasy</link>
-      <description>Kick, slay, chomp, and roll</description>
-      <content:encoded>Get ready to experience the legendary fighting, fantastic worlds, horrific foes, and timeless games of Bandai Namco! Take on your rivals in &lt;em&gt;TEKKEN 7&lt;/em&gt;, the most recent release in the iconic series. Embark on a journey to escape the living nightmare of &lt;em&gt;Code Vein&lt;/em&gt;. Restore the stars as the Prince of All Cosmos in &lt;em&gt;Katamari Demacy REROLL&lt;/em&gt;. Get &lt;em&gt;God Eater 3&lt;/em&gt;, &lt;em&gt;Tales of Vesperia: Definitive Edition&lt;/em&gt;, and more—and help support One Tree Planted with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/498767744556d6ce1971b36b39bca0541609a665.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6aadd46d9d4143520acc6b48f6ca4915" length="127104" type="image/jpeg"/>
-      <pubDate>Wed, 11 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
