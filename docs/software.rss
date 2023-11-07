@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 08:10:50 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Nov 2023 09:10:50 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2023 08:10:27 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Nov 2023 09:10:27 +0100</pubDate>
+    <item>
+      <title>Biggest Graphics Bundle Ever 2 - Remix</title>
+      <link>https://humblebundle.com/software/biggest-graphics-bundle-ever-2-remix-software</link>
+      <description>A hyper-handy toolkit for designers</description>
+      <content:encoded>Expand your graphics palette with this mega-sized bundle of brushes, actions, effects, and other digital artists’ tools from Eldamar Studio! Take your photos to the next level with thousands of professional LUTs and overlays. Get specialized graphic design bundles for everything from comics to Christmastime. Get tools to create images that turn heads, and support Child's Play with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/a22575e746be012e55066267b724ef1486976cd5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8b00090841555879b20691d457ca0ade" length="98476" type="image/jpeg"/>
+      <pubDate>Mon, 06 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Architect - Home &amp; Landscape Design</title>
       <link>https://humblebundle.com/software/architect-home-landscape-design-software</link>
@@ -65,14 +73,6 @@
       <content:encoded>Get an instant, complete music production suite with this value-packed bundle—featuring a pro-level DAW (digital audio workstation), virtual synths &amp; instruments, SFX, and an epic library of thousands of loops and samples! &lt;ul&gt; &lt;li&gt;Record and mix tracks with the powerful, easy-to-use &lt;em&gt;Mixcraft 9 Recording Studio&lt;/em&gt;.&lt;/li&gt; &lt;li&gt;Recreate sounds of legendary instruments with &lt;em&gt;Mercury-4&lt;/em&gt;, &lt;em&gt;Eight Voice Synthesizer&lt;/em&gt;, and more.&lt;/li&gt; &lt;li&gt;Tap into loops, vocals, one-shots, and MIDI for a huge variety of styles and genres.&lt;/li&gt; &lt;/ul&gt; Whether you’re a beginner or a professional already deep into production, this bundle’s got everything you need. Plus, your purchase helps support Music Will!</content:encoded>
       <enclosure url="https://hb.imgix.net/989057a30e10e0bb94b3ccf3f4765725a0bf6e8d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=872a7ecaea73989f65f66ccc56f2cdeb" length="160700" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complete Excel, Python and Machine Learning Mega Bundle</title>
-      <link>https://humblebundle.com/software/complete-excel-python-and-machine-learning-mega-bundle</link>
-      <description>Harness the power of machine learning</description>
-      <content:encoded>Are you a game developer, data scientist, business analyst, or someone whose work touches these ever-evolving fields? This bundle of online courses from Mammoth Interactive—covering topics like machine learning, sales analytics, data visualization, and more—will get you up to speed on the cutting-edge technologies that are driving the future of these disciplines. Included in the bundle are several first-time Humble Bundle exclusive courses diving deep into machine learning and neural networks in Godot 4, plus a whole lot more. Get invaluable bleeding-edge instruction, and help support Children’s Miracle Network Hospitals with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/835e0da44d22b4a7cfde5d017be631d490affa11.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e27e2fef8ced172622e8b11feae23f42" length="84378" type="image/jpeg"/>
-      <pubDate>Mon, 02 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

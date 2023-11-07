@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 08:10:48 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Nov 2023 09:10:48 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2023 08:10:24 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Nov 2023 09:10:24 +0100</pubDate>
+    <item>
+      <title>Microservices by Packt</title>
+      <link>https://humblebundle.com/books/microservices-packt-books</link>
+      <description>Integrate, deploy, and scale seamlessly</description>
+      <content:encoded>Elevate your command of microservices and learn to craft scalable, modular, and resilient applications with some of the most prevalent and powerful tools available! This bundle from the leaders at Packt is full of books that’ll get you up to speed on building and maintaining microservice applications with a variety of frameworks. You’ll learn to craft cloud-native microservices with Spring, how to leverage your Python skills to create performant applications with FastAPI, keep your services communicating efficiently with gRPC, and much more! Pay what you want for 16 books that’ll help you master these in-demand skills and help support Direct Relief with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/c901772eb1ac4851e149e48d7b6c4c7d06d8b878.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cd90b5f1eb47ebb791109306ceb7a91b" length="86048" type="image/jpeg"/>
+      <pubDate>Mon, 06 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dragon Age and Mass Effect Comics by Dark Horse</title>
       <link>https://humblebundle.com/books/dragon-age-and-mass-effect-comics-dark-horse-books</link>
