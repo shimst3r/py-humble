@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Nov 2023 08:11:00 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Nov 2023 09:11:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2023 08:10:26 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2023 09:10:26 +0100</pubDate>
+    <item>
+      <title>Ruby on Rails by Pragmatic Programmer</title>
+      <link>https://humblebundle.com/books/ruby-rails-pragmatic-programmer-books</link>
+      <description>Learn development with Ruby &amp; Rails</description>
+      <content:encoded>Want to write powerful, easy-to-maintain code with the Ruby programming language? Looking to create great web apps quickly with Rails? This bundle of books from the experts at Pragmatic Programmers will get you on track! Explore topics like metaprogramming, optimization, testing, sustainable development, and much more, and help support Active Minds with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/e118795fcf28b4c9c64f58bb8c2eae7e27373fbb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ca94f6cf4cbb3979955730798792b76c" length="42172" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>5th Edition Mega Bundle: Gygax + Kobold and Friends + More!</title>
       <link>https://humblebundle.com/books/5th-edition-mega-bundle-gygax-kobold-and-friends-more-books</link>
@@ -75,28 +83,12 @@
       <pubDate>Thu, 26 Oct 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Data Science by No Starch Press</title>
-      <link>https://humblebundle.com/books/data-science-no-starch-press-books</link>
-      <description>Welcome to the age of data</description>
-      <content:encoded>Elevate your career with mission-critical skills essential across business, research, and academia with this data science book bundle by No Starch Press. &lt;em&gt;Dive Into Data Science&lt;/em&gt; will teach you how to harness the approachable Python programming language to solve common business challenges. If you’re a researcher, &lt;em&gt;Python Tools for Scientists&lt;/em&gt; will equip you with a powerful arsenal for creating data visualizations, running simulations, and more. And regardless of your discipline, &lt;em&gt;The Book of Dash&lt;/em&gt; will empower you to create dashboards that elegantly and effectively present your data. Pay what you want for these and 15 more books, and support the Electronic Frontier Foundation with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/b2974af9fc2f75b3707c06c330eb0a2cfd65b04b.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9bfb96e3245cc118daedd5e1fb69dfa9" length="111514" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Get Ready for NaNoWriMo 2023</title>
       <link>https://humblebundle.com/books/get-ready-for-nanowrimo-2023-books</link>
       <description>NaNoWriMo inspiration, tools, and advice</description>
       <content:encoded>Getting creative for National Novel Writing Month this year? Discover inspiration. advice, and tools to help achieve your goals in our NaNoWriMo 2023 bundle! Get guides to building compelling science fiction and fantasy worlds. Pick up habits to keep you focused and help break blocks. Learn how to effectively outline, structure your plot, or craft a screenplay. Plus, unlock timely access to the creative writing software tools Novlr and Plottr, along with courses from Writing Mastery Academy. &lt;br&gt;&lt;br&gt; Your purchase helps support National Novel Writing Month, the nonprofit organization behind the movement, helping provide the structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds—on and off the page.</content:encoded>
       <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68405" type="image/jpeg"/>
       <pubDate>Sat, 21 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Programming MEGA Bundle 2023 by Packt</title>
-      <link>https://humblebundle.com/books/programming-mega-bundle-2023-packt-books</link>
-      <description>Your practical all-purpose programming library</description>
-      <content:encoded>Learn principles, best practices, and advanced concepts for myriad programming disciplines with this massive bundle from Packt. This 30-book library covers a wide range of topics today’s coders and tech professionals need to know, including cloud computing, systems engineering, quantum machine learning, and more. It also includes development resources for popular platforms and languages like Java, Go, Delphi, and more. Level up your programming knowledge, and help support Child’s Play with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/28422fb8226c8da694837145c660eab65bb85f49.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=54067ed57a81d6b50daff84c4c6b5ca9" length="79593" type="image/jpeg"/>
-      <pubDate>Mon, 16 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
