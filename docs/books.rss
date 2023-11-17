@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Nov 2023 08:10:20 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Nov 2023 09:10:20 +0100</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2023 08:10:26 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2023 09:10:26 +0100</pubDate>
+    <item>
+      <title>The Art of Steven Universe, Adventure Time, and Many More!</title>
+      <link>https://humblebundle.com/books/art-steven-universe-adventure-time-and-many-more-books</link>
+      <description>A treasury of fantastic, fantastical art</description>
+      <content:encoded>Explore the awesome visual artistry of your favorite shows and films with this collection of digital books from Abrams! Get a vibrant look at the colorful cartoon universe of the Crystal Gems in &lt;em&gt;Steven Universe: Art &amp; Origins&lt;/em&gt;. Learn more about the land of Ooo and its inhabitants in the playful &lt;em&gt;Adventure Time Encyclopaedia&lt;/em&gt;. Feast your eyes on the unmistakable images of Wes Anderson, the iconic fantasy art of Samwise, and more—and help support the Book Industry Charitable Foundation with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/0cbd1f68f0d24d67cf9e75883e1c1b6a5377c94c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d2da079f5227be2a5fd4042321b34a41" length="45722" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ruby on Rails by Pragmatic Programmer</title>
       <link>https://humblebundle.com/books/ruby-rails-pragmatic-programmer-books</link>
