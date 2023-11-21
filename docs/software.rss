@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Nov 2023 08:11:22 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Nov 2023 09:11:22 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Nov 2023 08:10:55 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Nov 2023 09:10:55 +0100</pubDate>
+    <item>
+      <title>The Ultimate Game Development Bundle</title>
+      <link>https://humblebundle.com/software/ultimate-game-development-bundle-software</link>
+      <description>Build worlds beyond imagination</description>
+      <content:encoded>Open the door to a dizzying universe of game development possibilities with this bundle of Unreal Engine and Unity assets. You’ll get a vast trove of ready-to-use game assets for the two most popular game engines in the world—everything from gritty cyberpunk sets and serene seaside vistas, to weapons from across history, high quality icons for your UI, and stunning special effects. Also included in the bundle are a host of tutorials to broaden your skillset, as well as handy plugins that you can quickly add to your workflow. Pay what you want for this vast toolbox of assets valued at over $3,000 and help support Direct Relief with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/f08c08afe9f9e692f1b21e6be2e9236f03e88a51.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=35f701299779a72b4587e23096b097d1" length="164247" type="image/jpeg"/>
+      <pubDate>Mon, 20 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Photo editing: Cinematic bundle with Luminar Neo Lite</title>
       <link>https://humblebundle.com/software/photo-editing-cinematic-bundle-with-luminar-neo-lite-software</link>
@@ -67,28 +75,12 @@
       <pubDate>Mon, 30 Oct 2023 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Harmonic Hauntings: A Horrific Sound and Music Bundle</title>
-      <link>https://humblebundle.com/software/harmonic-hauntings-horrific-sound-and-music-bundle-software</link>
-      <description>Craft an unsettling horror score</description>
-      <content:encoded>Create a sinister soundscape for your game, film, or audio project with this bundle of spooky samples, macabre melodies, and more royalty-free horror music and sound effects. Craft a chilling auditory experience with the unnerving chords and experimental sounds of Ovani’s Apprehension Engine sample packs. Unnerve your audience with royalty-free horror and sci-fi music. Get 150 music files and 1,200+ sounds, and help support American Cancer Society with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/f8ed075c3fdf5bf5ade9eeb7d18563750b154784.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=44d7f1915e80267f7c383efd6e1c6382" length="116527" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Create &amp; Elevate: Amazing Art Tools from Corel</title>
       <link>https://humblebundle.com/software/create-and-elevate-amazing-art-tools-from-corel-software</link>
       <description>Bring your vision to life</description>
       <content:encoded>Get inspired and get creative with this bundle of amazing visual art software from Corel! Sketch, paint, and illustrate with the renowned Corel Painter 2023, plus a kit full of brush packs to help you create your signature style. Make every shot your best shot with the advanced photo editing of PaintShop Pro, and harness the time-saving power of AfterShot Pro. Become a master of the digital canvas with the help of Corel, and support Children’s Hospital of Eastern Ontario (CHEO) with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/34f47c6f1e0bf90235bb454bd57244daad77ad64.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=00170190a56dc500daffd932260da400" length="94451" type="image/jpeg"/>
       <pubDate>Mon, 23 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Level Up Remix</title>
-      <link>https://humblebundle.com/software/level-up-remix-software</link>
-      <description>Take your sound to the next level</description>
-      <content:encoded>Get an instant, complete music production suite with this value-packed bundle—featuring a pro-level DAW (digital audio workstation), virtual synths &amp; instruments, SFX, and an epic library of thousands of loops and samples! &lt;ul&gt; &lt;li&gt;Record and mix tracks with the powerful, easy-to-use &lt;em&gt;Mixcraft 9 Recording Studio&lt;/em&gt;.&lt;/li&gt; &lt;li&gt;Recreate sounds of legendary instruments with &lt;em&gt;Mercury-4&lt;/em&gt;, &lt;em&gt;Eight Voice Synthesizer&lt;/em&gt;, and more.&lt;/li&gt; &lt;li&gt;Tap into loops, vocals, one-shots, and MIDI for a huge variety of styles and genres.&lt;/li&gt; &lt;/ul&gt; Whether you’re a beginner or a professional already deep into production, this bundle’s got everything you need. Plus, your purchase helps support Music Will!</content:encoded>
-      <enclosure url="https://hb.imgix.net/989057a30e10e0bb94b3ccf3f4765725a0bf6e8d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=872a7ecaea73989f65f66ccc56f2cdeb" length="160700" type="image/jpeg"/>
-      <pubDate>Mon, 09 Oct 2023 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
