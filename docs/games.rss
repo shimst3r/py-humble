@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Nov 2023 08:10:51 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Nov 2023 09:10:51 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2023 08:10:33 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2023 09:10:33 +0100</pubDate>
     <item>
       <title>Wargaming By Air, Land, and Sea</title>
       <link>https://humblebundle.com/games/wargaming-air-land-and-sea</link>
@@ -41,14 +41,6 @@
       <content:encoded>Leap, hop, and head up and to the right through the colorful worlds of these playful 2D platformers! Jump into a challenging journey through time and space as &lt;em&gt;Super Bunny Man&lt;/em&gt;. Master movement and momentum to climb a mountain in &lt;em&gt;Pogostuck: Rage With Your Friends&lt;/em&gt;. Speed through the wilderness as a silk-slinging spider in &lt;em&gt;Webbed&lt;/em&gt;. Get &lt;em&gt;Hoa&lt;/em&gt;, &lt;em&gt;One Hand Clapping&lt;/em&gt;, and more—and help support World Central Kitchen with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/ddf6359cb43c8bf96804337d704ce77602c5ee1d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=bb798bc63eec87b59c443c585f5c1991" length="75709" type="image/jpeg"/>
       <pubDate>Wed, 08 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IGN Editor's Choice: The 9 and Above Club</title>
-      <link>https://humblebundle.com/games/ign-editors-choice-9-and-above-club</link>
-      <description>Amazing games and Masterpieces, awarded by IGN</description>
-      <content:encoded>Looking for something certifiably awesome to play? All of the games in this bundle have scored a rating of 9 (Amazing) or 10 (Masterpiece) from IGN, earning them a prestigious Editors' Choice award—and a spot on &lt;em&gt;your&lt;/em&gt; must-play list. In this bundle supporting Extra Life and Girls Who Code, you’ll get: &lt;ul&gt; &lt;li&gt;Disco Elysium - The Final Cut &lt;li&gt;Wildermyth &lt;li&gt;Chivalry 2 &lt;li&gt;Spiritfarer &lt;li&gt;The Forgotten City &lt;li&gt;GRIME &lt;li&gt;Paradise Killer &lt;/ul&gt; &lt;em&gt;Read why IGN critics deemed each game worthy of an Editors' Choice award over at Humble’s sister site &lt;a href="http://www.ign.com/" style="color:#FFFFFF;" target=”_blank”&gt;IGN.com&lt;/a&gt;.&lt;/em&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/bbd92493b0cd501e595af62136a28887b74cf896.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f3ae0fae9e5cf0939f8f0bdfeae9dd72" length="82378" type="image/jpeg"/>
-      <pubDate>Wed, 01 Nov 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
