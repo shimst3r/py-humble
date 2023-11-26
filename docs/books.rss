@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Nov 2023 08:09:26 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Nov 2023 09:09:26 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Nov 2023 08:09:15 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Nov 2023 09:09:15 +0100</pubDate>
+    <item>
+      <title>The Solo RPG Library by Parts Per Million</title>
+      <link>https://humblebundle.com/books/solo-rpg-library-parts-per-million-books</link>
+      <description>Adventure for a party of one</description>
+      <content:encoded>Looking to take an RPG ruleset for a spin, but can’t manage to convince your friends to try a new system? This bundle of solo adventure modules by the specialists at Parts Per Million is exactly what you’ve been looking for! Included in the bundle are dozens of adventures written specifically for a variety of RPGs, from well-known indies like &lt;em&gt;Blades in the Dark&lt;/em&gt; and &lt;em&gt;Dungeon Crawl Classics&lt;/em&gt;, to cult favorites like &lt;em&gt;Stars Without Number&lt;/em&gt; and &lt;em&gt;Lancer&lt;/em&gt;. And if your tastes run to the old school, you’ll also find plenty of solo adventures tailored for good old fashioned OSR-style play. Pay what you want for this bundle of endless adventure, and help support buildOn with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/d619f174f1b64115ff260ff154b5af4819570b93.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0f0039d791488a5dd4bb2fdf6af0bd07" length="109310" type="image/jpeg"/>
+      <pubDate>Sat, 25 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The John Scalzi Collection: Old Man's War, The Interdependency, and More, by Tor</title>
       <link>https://humblebundle.com/books/john-scalzis-interdependency-old-mans-war-and-more-tor-books</link>
@@ -47,7 +55,7 @@
       <link>https://humblebundle.com/books/ruby-rails-pragmatic-programmer-books</link>
       <description>Learn development with Ruby &amp; Rails</description>
       <content:encoded>Want to write powerful, easy-to-maintain code with the Ruby programming language? Looking to create great web apps quickly with Rails? This bundle of books from the experts at Pragmatic Programmers will get you on track! Explore topics like metaprogramming, optimization, testing, sustainable development, and much more, and help support Active Minds with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/e118795fcf28b4c9c64f58bb8c2eae7e27373fbb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ca94f6cf4cbb3979955730798792b76c" length="42172" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/e118795fcf28b4c9c64f58bb8c2eae7e27373fbb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ca94f6cf4cbb3979955730798792b76c" length="43775" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -95,7 +103,7 @@
       <link>https://humblebundle.com/books/get-ready-for-nanowrimo-2023-books</link>
       <description>NaNoWriMo inspiration, tools, and advice</description>
       <content:encoded>Getting creative for National Novel Writing Month this year? Discover inspiration. advice, and tools to help achieve your goals in our NaNoWriMo 2023 bundle! Get guides to building compelling science fiction and fantasy worlds. Pick up habits to keep you focused and help break blocks. Learn how to effectively outline, structure your plot, or craft a screenplay. Plus, unlock timely access to the creative writing software tools Novlr and Plottr, along with courses from Writing Mastery Academy. &lt;br&gt;&lt;br&gt; Your purchase helps support National Novel Writing Month, the nonprofit organization behind the movement, helping provide the structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds—on and off the page.</content:encoded>
-      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68405" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68686" type="image/jpeg"/>
       <pubDate>Sat, 21 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
