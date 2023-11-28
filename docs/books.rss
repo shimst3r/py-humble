@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Nov 2023 08:11:16 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Nov 2023 09:11:16 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 08:10:42 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2023 09:10:42 +0100</pubDate>
+    <item>
+      <title>Hacking 2023 by No Starch</title>
+      <link>https://humblebundle.com/books/hacking-2023-no-starch-books</link>
+      <description>Explore the art &amp; science of hacking</description>
+      <content:encoded>Learn to think like a hacker with this bundle of books from No Starch Press! Inside this 18-book library, you’ll get expert insights on how to be an ethical hacker, the ins and outs of cybersecurity, how malicious actors engage in social engineering, and a lot more. Learn to defend systems, anticipate attacks, and more—and help support the Electronic Frontier Foundation with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/38b110f4b2ec62fba59357883ecd52e845cd41ed.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b518720893642370847da7bddead7616" length="104045" type="image/jpeg"/>
+      <pubDate>Mon, 27 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Solo RPG Library by Parts Per Million</title>
       <link>https://humblebundle.com/books/solo-rpg-library-parts-per-million-books</link>
@@ -39,7 +47,7 @@
       <link>https://humblebundle.com/books/how-to-start-drawing-with-walter-foster-books</link>
       <description>Capture the world in your sketchbook</description>
       <content:encoded>Learn to capture the world around you and let your creativity bloom with this collection of books on drawing and painting! Whether you’re a budding talent or a seasoned artist looking to dabble in a new medium, &lt;em&gt;100 Things Every Artist Should Know&lt;/em&gt; will inspire you fresh perspectives. &lt;em&gt;Urban Sketching Handbook Sketch Now, Think Later&lt;/em&gt; will get you out in the world and examining your surroundings with new eyes. With &lt;em&gt;Draw Every Little Thing&lt;/em&gt;, you’ll discover the potential for artistic growth in the mundane objects all around you. Get all these and more–over 35 books in all–and help support charity with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/e2f44044431de0c00fc7f8ded97d04d00eb10189.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d35d201db24509abb6dc7ff2a4275249" length="81764" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/e2f44044431de0c00fc7f8ded97d04d00eb10189.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d35d201db24509abb6dc7ff2a4275249" length="86635" type="image/jpeg"/>
       <pubDate>Sat, 18 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -47,7 +55,7 @@
       <link>https://humblebundle.com/books/art-steven-universe-adventure-time-and-many-more-books</link>
       <description>A treasury of fantastic, fantastical art</description>
       <content:encoded>Explore the awesome visual artistry of your favorite shows and films with this collection of digital books from Abrams! Get a vibrant look at the colorful cartoon universe of the Crystal Gems in &lt;em&gt;Steven Universe: Art &amp; Origins&lt;/em&gt;. Learn more about the land of Ooo and its inhabitants in the playful &lt;em&gt;Adventure Time Encyclopaedia&lt;/em&gt;. Feast your eyes on the unmistakable images of Wes Anderson, the iconic fantasy art of Samwise, and more—and help support the Book Industry Charitable Foundation with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/0cbd1f68f0d24d67cf9e75883e1c1b6a5377c94c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d2da079f5227be2a5fd4042321b34a41" length="46253" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/0cbd1f68f0d24d67cf9e75883e1c1b6a5377c94c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d2da079f5227be2a5fd4042321b34a41" length="45722" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -75,14 +83,6 @@
       <pubDate>Thu, 09 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microservices by Packt</title>
-      <link>https://humblebundle.com/books/microservices-packt-books</link>
-      <description>Integrate, deploy, and scale seamlessly</description>
-      <content:encoded>Elevate your command of microservices and learn to craft scalable, modular, and resilient applications with some of the most prevalent and powerful tools available! This bundle from the leaders at Packt is full of books that’ll get you up to speed on building and maintaining microservice applications with a variety of frameworks. You’ll learn to craft cloud-native microservices with Spring, how to leverage your Python skills to create performant applications with FastAPI, keep your services communicating efficiently with gRPC, and much more! Pay what you want for 16 books that’ll help you master these in-demand skills and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/c901772eb1ac4851e149e48d7b6c4c7d06d8b878.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cd90b5f1eb47ebb791109306ceb7a91b" length="86048" type="image/jpeg"/>
-      <pubDate>Mon, 06 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dragon Age and Mass Effect Comics by Dark Horse</title>
       <link>https://humblebundle.com/books/dragon-age-and-mass-effect-comics-dark-horse-books</link>
       <description>Explore worlds of Mass Effect &amp; Dragon Age comics</description>
@@ -103,7 +103,7 @@
       <link>https://humblebundle.com/books/get-ready-for-nanowrimo-2023-books</link>
       <description>NaNoWriMo inspiration, tools, and advice</description>
       <content:encoded>Getting creative for National Novel Writing Month this year? Discover inspiration. advice, and tools to help achieve your goals in our NaNoWriMo 2023 bundle! Get guides to building compelling science fiction and fantasy worlds. Pick up habits to keep you focused and help break blocks. Learn how to effectively outline, structure your plot, or craft a screenplay. Plus, unlock timely access to the creative writing software tools Novlr and Plottr, along with courses from Writing Mastery Academy. &lt;br&gt;&lt;br&gt; Your purchase helps support National Novel Writing Month, the nonprofit organization behind the movement, helping provide the structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds—on and off the page.</content:encoded>
-      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68405" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68686" type="image/jpeg"/>
       <pubDate>Sat, 21 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
