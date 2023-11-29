@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Nov 2023 08:10:42 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Nov 2023 09:10:42 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 08:10:56 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 09:10:56 +0100</pubDate>
     <item>
       <title>Hacking 2023 by No Starch</title>
       <link>https://humblebundle.com/books/hacking-2023-no-starch-books</link>
@@ -55,7 +55,7 @@
       <link>https://humblebundle.com/books/art-steven-universe-adventure-time-and-many-more-books</link>
       <description>A treasury of fantastic, fantastical art</description>
       <content:encoded>Explore the awesome visual artistry of your favorite shows and films with this collection of digital books from Abrams! Get a vibrant look at the colorful cartoon universe of the Crystal Gems in &lt;em&gt;Steven Universe: Art &amp; Origins&lt;/em&gt;. Learn more about the land of Ooo and its inhabitants in the playful &lt;em&gt;Adventure Time Encyclopaedia&lt;/em&gt;. Feast your eyes on the unmistakable images of Wes Anderson, the iconic fantasy art of Samwise, and more—and help support the Book Industry Charitable Foundation with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/0cbd1f68f0d24d67cf9e75883e1c1b6a5377c94c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d2da079f5227be2a5fd4042321b34a41" length="45722" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/0cbd1f68f0d24d67cf9e75883e1c1b6a5377c94c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d2da079f5227be2a5fd4042321b34a41" length="46253" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -63,7 +63,7 @@
       <link>https://humblebundle.com/books/ruby-rails-pragmatic-programmer-books</link>
       <description>Learn development with Ruby &amp; Rails</description>
       <content:encoded>Want to write powerful, easy-to-maintain code with the Ruby programming language? Looking to create great web apps quickly with Rails? This bundle of books from the experts at Pragmatic Programmers will get you on track! Explore topics like metaprogramming, optimization, testing, sustainable development, and much more, and help support Active Minds with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/e118795fcf28b4c9c64f58bb8c2eae7e27373fbb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ca94f6cf4cbb3979955730798792b76c" length="42172" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/e118795fcf28b4c9c64f58bb8c2eae7e27373fbb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ca94f6cf4cbb3979955730798792b76c" length="43775" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -103,7 +103,7 @@
       <link>https://humblebundle.com/books/get-ready-for-nanowrimo-2023-books</link>
       <description>NaNoWriMo inspiration, tools, and advice</description>
       <content:encoded>Getting creative for National Novel Writing Month this year? Discover inspiration. advice, and tools to help achieve your goals in our NaNoWriMo 2023 bundle! Get guides to building compelling science fiction and fantasy worlds. Pick up habits to keep you focused and help break blocks. Learn how to effectively outline, structure your plot, or craft a screenplay. Plus, unlock timely access to the creative writing software tools Novlr and Plottr, along with courses from Writing Mastery Academy. &lt;br&gt;&lt;br&gt; Your purchase helps support National Novel Writing Month, the nonprofit organization behind the movement, helping provide the structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds—on and off the page.</content:encoded>
-      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68686" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68405" type="image/jpeg"/>
       <pubDate>Sat, 21 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
