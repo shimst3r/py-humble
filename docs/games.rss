@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Nov 2023 08:10:58 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Nov 2023 09:10:58 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 08:10:31 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 09:10:31 +0100</pubDate>
+    <item>
+      <title>Fight T1D With JRPGs!</title>
+      <link>https://humblebundle.com/games/fight-t1d-with-jrpgs</link>
+      <description>Join the fight against type 1 diabetes</description>
+      <content:encoded>Help battle against type 1 diabetes (T1D) with this bundle of games for JRPG lovers! Bring peace to the land of Tahnra in &lt;em&gt;Symphony of War: The Nephilim Saga&lt;/em&gt;. Uncover the secrets of the Land of Bugaria in &lt;em&gt;Bug Fables: The Everlasting Sapling&lt;/em&gt;. Journey through the neo-futuristic metropolis of &lt;em&gt;Mato Anomalies&lt;/em&gt;.&lt;br&gt;&lt;br&gt;Get these and more games influenced by your favorite timeless JRPG sagas—and help JDRF on their mission to use the power of research, advocacy, and community engagement to advance life-changing breakthroughs for the millions of people living with T1D.</content:encoded>
+      <enclosure url="https://hb.imgix.net/576524151127f54c415d768ad49992750836c368.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=54c9f5d2b91e5ba842645d41f8e3fe5c" length="136080" type="image/jpeg"/>
+      <pubDate>Wed, 29 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Black Friday Score: The Walking Dead &amp; More from Skybound</title>
       <link>https://humblebundle.com/games/black-friday-score-walking-dead-more-from-skybound</link>
@@ -33,14 +41,6 @@
       <content:encoded>Discover a world of independent games crafted by developers across China in this bundle celebrating WePlay Expo, China’s largest gaming culture festival—taking place November 18 &amp; 19 in Shanghai! Enter an era of discovery in GY Games’ &lt;em&gt;Sailing Era&lt;/em&gt;, and conquer the sprawling deserts of Han-Squirrel Studio’s &lt;em&gt;Sands of Salzaar&lt;/em&gt;. Revitalize your alma mater or your father’s workshop in Pathea’s &lt;em&gt;Let’s School&lt;/em&gt; and &lt;em&gt;My Time at Portia&lt;/em&gt;. Be a part of the WePlay Expo from wherever you are, and help support World Central Kitchen with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/0bffebdd014931ec83bd7e123ad847c1a52dff53.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7af838300f1900d6251813f123803c64" length="113212" type="image/jpeg"/>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adventures in the 2nd Dimension: Positively Playful Platformers</title>
-      <link>https://humblebundle.com/games/adventures-in-2nd-dimension-positively-playful-platformers</link>
-      <description>Pure platforming joy</description>
-      <content:encoded>Leap, hop, and head up and to the right through the colorful worlds of these playful 2D platformers! Jump into a challenging journey through time and space as &lt;em&gt;Super Bunny Man&lt;/em&gt;. Master movement and momentum to climb a mountain in &lt;em&gt;Pogostuck: Rage With Your Friends&lt;/em&gt;. Speed through the wilderness as a silk-slinging spider in &lt;em&gt;Webbed&lt;/em&gt;. Get &lt;em&gt;Hoa&lt;/em&gt;, &lt;em&gt;One Hand Clapping&lt;/em&gt;, and more—and help support World Central Kitchen with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/ddf6359cb43c8bf96804337d704ce77602c5ee1d.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=bb798bc63eec87b59c443c585f5c1991" length="78617" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
