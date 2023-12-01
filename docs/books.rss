@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 08:10:29 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Nov 2023 09:10:29 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2023 08:10:41 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2023 09:10:41 +0100</pubDate>
+    <item>
+      <title>Mike Mignola's Hellboy by Dark Horse</title>
+      <link>https://humblebundle.com/books/mike-mignolas-hellboy-dark-horse-books</link>
+      <description>A modern (and hellish) comics classic</description>
+      <content:encoded>Follow &lt;em&gt;Hellboy&lt;/em&gt;, the beloved sardonic antihero, into the vilest infernal depths and beyond in this jam-packed bundle of comics from Dark Horse! Witness the occult madness that brought the Right Hand of Doom to our world in &lt;em&gt;Hellboy Volume 1: Seeds of Destruction&lt;/em&gt;. Go to the very depths of Hell alongside him in &lt;em&gt;Hellboy in Hell Volume 1: The Descent&lt;/em&gt;. Feast your eyes on his dark allure in &lt;em&gt;Hellboy: 25 Years of Covers&lt;/em&gt;. And more! Get your hands on over 30 books of &lt;em&gt;Hellboy&lt;/em&gt; and help support World Central Kitchen with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/9f270f1710b4d2992a6df2f19ed1fb3585653f0f.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=a5533571ee7a373c1721423b97a18a6f" length="56773" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hacking 2023 by No Starch</title>
       <link>https://humblebundle.com/books/hacking-2023-no-starch-books</link>
@@ -75,14 +83,6 @@
       <pubDate>Sat, 11 Nov 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oni Press Great Graphic Novel Bundle</title>
-      <link>https://humblebundle.com/books/oni-press-great-graphic-novel-bundle-books</link>
-      <description>Scott Pilgrim, Courtney Crumrin, and more</description>
-      <content:encoded>Discover awesome stories and unforgettable characters in this bundle of acclaimed graphic novels from Oni Press! Catch up with &lt;em&gt;Scott Pilgrim&lt;/em&gt; as he battles bands and evil ex-boyfriends in Bryan Lee O’Malley’s renowned series. Crawl under the covers with a creepy collection of Ted Naifeh’s &lt;em&gt;Courtney Crumrin&lt;/em&gt; tales. Get caught up in &lt;em&gt;The Tea Dragon Society&lt;/em&gt;, &lt;em&gt;Bad Machinery&lt;/em&gt;, and more—and help support BINC and The Hero Initiative with your purchase. </content:encoded>
-      <enclosure url="https://hb.imgix.net/8574bb3b1ebacc9547f8fdf4286605626d26c8b7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=3f4d40cdc0b1ff457b6b88e2fd1594df" length="142899" type="image/jpeg"/>
-      <pubDate>Thu, 09 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dragon Age and Mass Effect Comics by Dark Horse</title>
       <link>https://humblebundle.com/books/dragon-age-and-mass-effect-comics-dark-horse-books</link>
       <description>Explore worlds of Mass Effect &amp; Dragon Age comics</description>
@@ -97,14 +97,6 @@
       <content:encoded>The wonders of the Whoniverse are at your fingertips with this massive bundle of Doctor Who comic collections, tabletop role-playing games, and audio dramas! Take your gaming group on a trip to Gallifrey and beyond with the &lt;em&gt;Doctor Who Roleplaying Game Rulebook&lt;/em&gt; and a TARDIS-full of adventures and supplements. Travel to the swinging 60s with two different incarnations of the Doctor in the comic collection &lt;em&gt;Doctor Who: A Tale of Two Time Lords&lt;/em&gt;. Return to one of the most captivating settings from the TV show in the audio drama anthology &lt;em&gt;Tales from New Earth&lt;/em&gt;. Get all this and more than 30 other Whovian treats, and help BBC Children in Need with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/668832e9f84cb36ab604c36f7debe1fb47a88174.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=301bc9e6e809ec66a2639cc4b45d33c7" length="106614" type="image/jpeg"/>
       <pubDate>Thu, 26 Oct 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get Ready for NaNoWriMo 2023</title>
-      <link>https://humblebundle.com/books/get-ready-for-nanowrimo-2023-books</link>
-      <description>NaNoWriMo inspiration, tools, and advice</description>
-      <content:encoded>Getting creative for National Novel Writing Month this year? Discover inspiration. advice, and tools to help achieve your goals in our NaNoWriMo 2023 bundle! Get guides to building compelling science fiction and fantasy worlds. Pick up habits to keep you focused and help break blocks. Learn how to effectively outline, structure your plot, or craft a screenplay. Plus, unlock timely access to the creative writing software tools Novlr and Plottr, along with courses from Writing Mastery Academy. &lt;br&gt;&lt;br&gt; Your purchase helps support National Novel Writing Month, the nonprofit organization behind the movement, helping provide the structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds—on and off the page.</content:encoded>
-      <enclosure url="https://hb.imgix.net/c7e248b6694abe12ac03d73c214fddc0b4f60b55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4fe74b1a9481d66e30ea7f8dc3a3e1b6" length="68405" type="image/jpeg"/>
-      <pubDate>Sat, 21 Oct 2023 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

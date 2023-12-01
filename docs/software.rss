@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 08:10:32 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Nov 2023 09:10:32 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2023 08:10:43 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2023 09:10:43 +0100</pubDate>
+    <item>
+      <title>VEGAS Pro Creative Frontier Bundle</title>
+      <link>https://humblebundle.com/software/vegas-pro-creative-frontier-bundle-software</link>
+      <description>Total content creator’s package</description>
+      <content:encoded>Upgrade your video and audio creation capabilities with this comprehensive content creator’s toolkit, packed with world-class software and assets to make your output soar. Vegas Pro 19 Edit is a comprehensive video editing software package that’s easy to learn, and includes sophisticated compositing features as well as integrated audio and effects. You’ll also get Sound Forge Pro 15, a powerhouse audio editing suite with extensive plugin support, designed to deliver flawless masters. You’ll also get the easy-to-use Magix Music Maker 2022 as well as a boatload of loops, instruments, effects, and more! Pay what you want for this content creator’s treasure trove and help support Save the Children!</content:encoded>
+      <enclosure url="https://hb.imgix.net/260d2ceca663f65d3f5cbb0c8accfe46befd26be.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=464516e10f7ae505051c9f1af50c7bf7" length="96372" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>2D Game Creation Mega Bundle</title>
       <link>https://humblebundle.com/software/2d-game-creation-mega-bundle-software</link>
@@ -73,14 +81,6 @@
       <content:encoded>Expand your graphics palette with this mega-sized bundle of brushes, actions, effects, and other digital artists’ tools from Eldamar Studio! Take your photos to the next level with thousands of professional LUTs and overlays. Get specialized graphic design bundles for everything from comics to Christmastime. Get tools to create images that turn heads, and support Child's Play with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/a22575e746be012e55066267b724ef1486976cd5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8b00090841555879b20691d457ca0ade" length="98476" type="image/jpeg"/>
       <pubDate>Mon, 06 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Architect - Home &amp; Landscape Design</title>
-      <link>https://humblebundle.com/software/architect-home-landscape-design-software</link>
-      <description>Bring your home design ideas to life</description>
-      <content:encoded>Design your home with the help of &lt;em&gt;Personal Architect&lt;/em&gt;! This bundle of software contains everything you need to visualize the residence of your dreams, including interiors, landscapes, kitchens, baths, and more. Get 3D home design software that everyone can use, and help support charity with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/0de81e6d0bf20e802a8ab525025eea7adc4081d4.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=6f8909640e3a6ba76babf6cb47e2c440" length="138041" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Unreal Engine Asset Bonanza</title>
