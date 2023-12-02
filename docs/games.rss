@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Dec 2023 08:10:42 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Dec 2023 09:10:42 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Dec 2023 08:09:22 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Dec 2023 09:09:22 +0100</pubDate>
+    <item>
+      <title>Uplifting Adventures: A Wholesome Games Bundle</title>
+      <link>https://humblebundle.com/games/uplifting-adventures-wholesome-games-bundle</link>
+      <description>Get cozy with Wholesome Games</description>
+      <content:encoded>&lt;iframe width="400" height="315" src="https://www.youtube.com/embed/MJOLBlMKweI?si=jq2wx-rDoazFp-vz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;Let the feelings of comfort, compassion, and coziness wash over you with this bundle of stirring experiences, curated by our friends at &lt;a href="https://wholesomegames.com/"&gt;Wholesome Games&lt;/a&gt;! &lt;br&gt;&lt;br&gt;In the adorable 3D platformer &lt;em&gt;Tinykin&lt;/em&gt;, you’ll explore a 90’s era house from the perspective of a shrunken extraterrestrial scientist, with the help of some multi-talented critters. &lt;br&gt;&lt;em&gt;Wylde Flowers&lt;/em&gt; takes you on a witchy pastoral journey where you’ll farm by day, and weave magic by night. &lt;br&gt;The aptly titled &lt;em&gt;Bear and Breakfast&lt;/em&gt; is a laid-back management sim where you help the adorable ursine Hank run a successful B&amp;B in the woods. &lt;br&gt;&lt;br&gt;Fill your heart with these and four other soulful and wholesome games, and help support Save the Children with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/b31bd67f54c8d30d784f46d1bbe4a5bf1b6f77f2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8b5d584d4beb89cc8019f0b0f3e80e0e" length="95416" type="image/jpeg"/>
+      <pubDate>Fri, 01 Dec 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fight T1D With JRPGs!</title>
       <link>https://humblebundle.com/games/fight-t1d-with-jrpgs</link>
@@ -33,14 +41,6 @@
       <content:encoded>Failure is the only path to success in this bundle of action-packed roguelikes! Form a co-op party and delve into the dangerous dungeons of &lt;em&gt;Barony&lt;/em&gt;. Ascend a tower with an awesome arsenal in the thrilling &lt;em&gt;God of Weapons&lt;/em&gt;. Climb aboard your robospider and dig into the secrets of &lt;em&gt;Wall World&lt;/em&gt;. Get these games and more, and help support International Medical Corps &amp; World Central Kitchen with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/1db18c79039e9eddfb45b5721e47b900e4784bda.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cb5ac943e1ebfb1b4cd987d6aed5e30b" length="110341" type="image/jpeg"/>
       <pubDate>Wed, 15 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WePlay Expo - Discover China Indies</title>
-      <link>https://humblebundle.com/games/weplay-expo-discover-china-indies</link>
-      <description>Showcasing the games and devs of China</description>
-      <content:encoded>Discover a world of independent games crafted by developers across China in this bundle celebrating WePlay Expo, China’s largest gaming culture festival—taking place November 18 &amp; 19 in Shanghai! Enter an era of discovery in GY Games’ &lt;em&gt;Sailing Era&lt;/em&gt;, and conquer the sprawling deserts of Han-Squirrel Studio’s &lt;em&gt;Sands of Salzaar&lt;/em&gt;. Revitalize your alma mater or your father’s workshop in Pathea’s &lt;em&gt;Let’s School&lt;/em&gt; and &lt;em&gt;My Time at Portia&lt;/em&gt;. Be a part of the WePlay Expo from wherever you are, and help support World Central Kitchen with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/0bffebdd014931ec83bd7e123ad847c1a52dff53.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7af838300f1900d6251813f123803c64" length="113212" type="image/jpeg"/>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
