@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Dec 2023 08:10:46 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Dec 2023 09:10:46 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2023 08:10:36 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2023 09:10:36 +0100</pubDate>
+    <item>
+      <title>The Upload VR Showcase - Winter 2023</title>
+      <link>https://humblebundle.com/games/upload-vr-showcase-winter-2023</link>
+      <description>Get The Break-In, AMID EVIL VR, Cooking Simulator VR and more!</description>
+      <content:encoded>&lt;iframe width="400" height="315" src="https://www.youtube.com/embed/rBkaTOT8_-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;Don your headset and dive into some of the best VR games out there, in celebration of the UploadVR Showcase Winter 2023! This bundle is brimming with mind-blowing VR experiences across genres and themes, showcasing the medium in all its awe-inspiring variety:&lt;br&gt;&lt;br&gt; &lt;ul&gt; &lt;li&gt;Navigate a scorching zombie-infested hellscape with heart-pounding thrills in &lt;em&gt;Arizona Sunshine Deluxe Edition&lt;/em&gt;--packed with DLC and other bonus content!&lt;/li&gt; &lt;li&gt;Experience the thrill of the heist in the cooperative VR caper &lt;em&gt;The Break-In&lt;/em&gt;.&lt;/li&gt; &lt;li&gt;Whip up culinary masterpieces step-by-step in the virtual kitchen of &lt;em&gt;Cooking Simulator VR&lt;/em&gt;;.&lt;/li&gt; &lt;li&gt;Plus five other games in this bundle of VR delights, all in support of buildOn.&lt;/li&gt; &lt;/ul&gt;</content:encoded>
+      <enclosure url="https://hb.imgix.net/d0373593e811fb9d26fc59e64549e8d5e961b6c3.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b33a33c7f583d1ca60540ab6eb098d61" length="94110" type="image/jpeg"/>
+      <pubDate>Wed, 06 Dec 2023 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Uplifting Adventures: A Wholesome Games Bundle</title>
       <link>https://humblebundle.com/games/uplifting-adventures-wholesome-games-bundle</link>
@@ -33,14 +41,6 @@
       <content:encoded>Zombie scares, epic wrestling adventures, and lots more await in this Black Friday bundle featuring Skybound Games! Delve deep into the world of &lt;em&gt;The Walking Dead&lt;/em&gt; with the complete story of Telltale’s acclaimed narrative adventure series, and immerse yourself in the VR horror of &lt;em&gt;Saints &amp; Sinners&lt;/em&gt;, including the latest &lt;em&gt;Chapter 2: Retribution&lt;/em&gt;. Tag team with destiny in &lt;em&gt;WrestleQuest&lt;/em&gt;, where pro wrestling and RPGs collide. Get &lt;em&gt;Glitch Busters&lt;/em&gt;, &lt;em&gt;Renfield: Bring Your Own Blood&lt;/em&gt;, and more—and help support a charity of your choice with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/c8ec52f6b91e9cdc62a5c18763a94a85ae834a16.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=eb4ce6514b3393245bf2d2003ee4ca68" length="116528" type="image/jpeg"/>
       <pubDate>Fri, 24 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Action Roguelikes: What Kills You Makes You Stronger</title>
-      <link>https://humblebundle.com/games/action-roguelikes-what-kills-you-makes-you-stronger</link>
-      <description>Die, die again</description>
-      <content:encoded>Failure is the only path to success in this bundle of action-packed roguelikes! Form a co-op party and delve into the dangerous dungeons of &lt;em&gt;Barony&lt;/em&gt;. Ascend a tower with an awesome arsenal in the thrilling &lt;em&gt;God of Weapons&lt;/em&gt;. Climb aboard your robospider and dig into the secrets of &lt;em&gt;Wall World&lt;/em&gt;. Get these games and more, and help support International Medical Corps &amp; World Central Kitchen with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/1db18c79039e9eddfb45b5721e47b900e4784bda.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=cb5ac943e1ebfb1b4cd987d6aed5e30b" length="110341" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
