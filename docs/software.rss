@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Dec 2023 08:10:39 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Dec 2023 09:10:39 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 08:10:36 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 09:10:36 +0100</pubDate>
+    <item>
+      <title>The Ultimate Testing Bundle</title>
+      <link>https://humblebundle.com/software/ultimate-testing-bundle-software</link>
+      <description>Hack-proof skills in testing &amp; security</description>
+      <content:encoded>Level-up your understanding of cybersecurity and software testing with this bundle of video courses, covering a spectrum of critical skills in today’s IT landscape. Learn to test the security of websites and web applications using the same tools and techniques as the black hat hackers you’re trying to ward off. Achieve mastery of Selenium, the powerful open source set of tools and libraries that lets you automate critical browser tasks for testing web apps and enhancing efficiency and accuracy in your dev process. Get up to speed with testing WiFi security, REST APIs, Ruby, and much more! Pay what you want for this bundle of cutting edge instruction, and help support charity with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/8d0a9084fb75cb819ab5ffce54999849ae772790.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=a07423c27e8992a9c09cfcb0a9094243" length="61937" type="image/jpeg"/>
+      <pubDate>Thu, 14 Dec 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Best of Synty Game Dev Assets Remix Encore</title>
       <link>https://humblebundle.com/software/best-synty-game-dev-assets-remix-encore-software</link>
