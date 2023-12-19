@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Dec 2023 08:11:26 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Dec 2023 09:11:26 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 08:10:42 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 09:10:42 +0100</pubDate>
+    <item>
+      <title>CZEPEKU's Multiversal Maps &amp; Scenes for Alchemy VTT</title>
+      <link>https://humblebundle.com/software/czepekus-multiversal-maps-scenes-for-alchemy-vtt-software</link>
+      <description>Set the mood with awesome maps</description>
+      <content:encoded>Stock up on high-quality virtual tabletop assets for your RPG campaign with this bundle from beloved map creators CZEPEKU! From lush mangrove wilds teeming with life and danger, to thrumming city marketplaces, this collection of over 20 maps will help you set the stage for countless memorable adventures. Alongside the maps, you’ll also get Scenes, which are cinematic vignettes handcrafted by CZEPEKU to help you set the stage for your adventures. Pay what you want for this bundle of gorgeous game aids and help support One Tree Planted!</content:encoded>
+      <enclosure url="https://hb.imgix.net/56bc6d71002d5a3db62d03cf1c9dc478549c9a06.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=ec9a8ad3b5396664ee9cebe601865f09" length="144630" type="image/jpeg"/>
+      <pubDate>Mon, 18 Dec 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete Python Mega Bundle Encore</title>
       <link>https://humblebundle.com/software/complete-python-mega-bundle-encore-software</link>
@@ -89,22 +97,6 @@
       <content:encoded>Learn Blender with the help of the creators at GameDev.tv! This comprehensive bundle features everything you need to get started or level up your skills with the free, open-source 3D art software. Learn about animation, rigging, modeling, environmental art, and more with GameDev.tv’s courses. Pick up Alpha Brush Packs and materials to help carve out details in your creations. Get a complete kit for your Blender learning journey, and help support One Tree Planted with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/319a678a5223667ae6d688f6e15162fffb86f694.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c3ae73b85a5fc9090c139f579065c219" length="70955" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Cartographer's Vault: A Treasury of Expertly Crafted Maps</title>
-      <link>https://humblebundle.com/software/cartographers-vault-treasury-expertly-crafted-maps-software</link>
-      <description>Bring your RPG worlds to life</description>
-      <content:encoded>Calling all Game Masters! Elevate your RPGs with this versatile collection of more than 450 meticulously crafted maps by expert cartographers suitable for printing or for virtual tabletop adventures. Explore distant realms, navigate perilous dungeons, and journey through cosmic landscapes. These high resolution maps save you precious time, and immerse your players in your game world. Don't miss this opportunity to unlock an array of immersive maps that will take your RPG narratives to the next level, and support charity: water with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/ad6cfa106f256352e27a42445fa68305add422eb.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=1f3e32820e2cc3964ca6ae43664cf946" length="211211" type="image/jpeg"/>
-      <pubDate>Mon, 13 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday Python Generative AI Bundle</title>
-      <link>https://humblebundle.com/software/black-friday-python-generative-ai-bundle-software</link>
-      <description>Stay ahead on AI tech</description>
-      <content:encoded>Whether you’re a fledgling coder or a seasoned Python pro, this bundle of courses from Zenva will give you the skills you need to leverage the exponential growth of AI tech. A strong grasp of Python is critical in this thriving domain, and this bundle includes comprehensive courses on a variety of topics to get you ready to dive in. You’ll get instruction ranging from the very basics of Python programming, to cutting edge material like neural networks, large language models, numerous topics across data science, and much more. Pay what you want for this bundle of essential learning valued at almost $1,500, and help support NPower with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/9e0701e7cf536c841500cca30049f39dbc40adc5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8ce2e7804d290f8d7f6b5c71e0c6f801" length="50512" type="image/jpeg"/>
-      <pubDate>Sun, 12 Nov 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
