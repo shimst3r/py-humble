@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 08:10:17 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Dec 2023 09:10:17 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 08:10:11 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 09:10:11 +0100</pubDate>
+    <item>
+      <title>Fast and Easy Cooking by Callisto Publishing</title>
+      <link>https://humblebundle.com/books/fast-and-easy-cooking-callisto-publishing-books</link>
+      <description>Fast, east, and tasty meals</description>
+      <content:encoded>Whether you’re looking for fast and easy recipes to simplify your meal prep or need inspiration to mix up your weeknight menu, this bundle of cookbooks from Callisto is here to assist! Turn to the &lt;em&gt;30-Minute Mediterranean Diet Cookbook&lt;/em&gt; for quick, delicious, and healthy home-cooked meals you can throw together in a flash. &lt;em&gt;5-Ingredient Cooking for Two&lt;/em&gt; offers recipes for 100 delicious two-person meals as well as a wealth of tips for shopping, meal planning, and preparation. &lt;em&gt;Easy Charcuterie Boards&lt;/em&gt; will help you dazzle your guests with amazing spreads, including tips on pairing and presenting ingredients. Pay what you want for 30 books that’ll make meal prep a pleasure and help support the International Medical Corps with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/5d56ebb6c7461f5ecd2be3f54f01a2103e414eab.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0cb18cfece85e380b687450549496100" length="73321" type="image/jpeg"/>
+      <pubDate>Thu, 21 Dec 2023 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Become a Linux Master by Packt</title>
       <link>https://humblebundle.com/books/become-linux-master-packt-books</link>
