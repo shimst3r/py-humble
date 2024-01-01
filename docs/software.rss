@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 08:09:31 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Dec 2023 09:09:31 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 08:10:46 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 09:10:46 +0100</pubDate>
     <item>
       <title>The Unreal Engine Space &amp; Sci-Fi Mastery Kit: Assets, Tutorials &amp; More!</title>
       <link>https://humblebundle.com/software/unreal-engine-space-and-sci-fi-mastery-kit-software</link>
@@ -43,28 +43,12 @@
       <pubDate>Mon, 11 Dec 2023 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VEGAS Pro Creative Frontier Bundle</title>
-      <link>https://humblebundle.com/software/vegas-pro-creative-frontier-bundle-software</link>
-      <description>Total content creator’s package</description>
-      <content:encoded>Upgrade your video and audio creation capabilities with this comprehensive content creator’s toolkit, packed with world-class software and assets to make your output soar. VEGAS Pro 19 Edit is a comprehensive video editing software package that’s easy to learn, and includes sophisticated compositing features as well as integrated audio and effects. You’ll also get Sound Forge Pro 15, a powerhouse audio editing suite with extensive plugin support, designed to deliver flawless masters. You’ll also get the easy-to-use Magix Music Maker 2022 as well as a boatload of loops, instruments, effects, and more! Pay what you want for this content creator’s treasure trove and help support Save the Children!</content:encoded>
-      <enclosure url="https://hb.imgix.net/260d2ceca663f65d3f5cbb0c8accfe46befd26be.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=464516e10f7ae505051c9f1af50c7bf7" length="96372" type="image/jpeg"/>
-      <pubDate>Thu, 30 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Ultimate Game Development Bundle</title>
       <link>https://humblebundle.com/software/ultimate-game-development-bundle-software</link>
       <description>Build worlds beyond imagination</description>
       <content:encoded>Open the door to a dizzying universe of game development possibilities with this bundle of Unreal Engine and Unity assets. You’ll get a vast trove of ready-to-use game assets for the two most popular game engines in the world—everything from gritty cyberpunk sets and serene seaside vistas, to weapons from across history, high quality icons for your UI, and stunning special effects. Also included in the bundle are a host of tutorials to broaden your skillset, as well as handy plugins that you can quickly add to your workflow. Pay what you want for this vast toolbox of assets valued at over $3,000 and help support Direct Relief with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/f08c08afe9f9e692f1b21e6be2e9236f03e88a51.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=35f701299779a72b4587e23096b097d1" length="164247" type="image/jpeg"/>
       <pubDate>Mon, 20 Nov 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn to Create Game Art in Blender Bundle 2023</title>
-      <link>https://humblebundle.com/software/learn-to-create-game-art-in-blender-bundle-2023-software</link>
-      <description>Your complete Blender learning kit</description>
-      <content:encoded>Learn Blender with the help of the creators at GameDev.tv! This comprehensive bundle features everything you need to get started or level up your skills with the free, open-source 3D art software. Learn about animation, rigging, modeling, environmental art, and more with GameDev.tv’s courses. Pick up Alpha Brush Packs and materials to help carve out details in your creations. Get a complete kit for your Blender learning journey, and help support One Tree Planted with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/319a678a5223667ae6d688f6e15162fffb86f694.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c3ae73b85a5fc9090c139f579065c219" length="70955" type="image/jpeg"/>
-      <pubDate>Thu, 16 Nov 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
