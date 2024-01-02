@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 08:10:46 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jan 2024 09:10:46 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2024 08:10:40 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2024 09:10:40 +0100</pubDate>
     <item>
       <title>The Unreal Engine Space &amp; Sci-Fi Mastery Kit: Assets, Tutorials &amp; More!</title>
       <link>https://humblebundle.com/software/unreal-engine-space-and-sci-fi-mastery-kit-software</link>
@@ -33,22 +33,6 @@
       <content:encoded>Level-up your understanding of cybersecurity and software testing with this bundle of video courses, covering a spectrum of critical skills in today’s IT landscape. Learn to test the security of websites and web applications using the same tools and techniques as the black hat hackers you’re trying to ward off. Achieve mastery of Selenium, the powerful open source set of tools and libraries that lets you automate critical browser tasks for testing web apps and enhancing efficiency and accuracy in your dev process. Get up to speed with testing WiFi security, REST APIs, Ruby, and much more! Pay what you want for this bundle of cutting edge instruction, and help support charity with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/8d0a9084fb75cb819ab5ffce54999849ae772790.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=a07423c27e8992a9c09cfcb0a9094243" length="61937" type="image/jpeg"/>
       <pubDate>Thu, 14 Dec 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unity RPG Beginners Collection</title>
-      <link>https://humblebundle.com/software/unity-rpg-beginners-collection-software</link>
-      <description>Craft your dream RPG with Unity</description>
-      <content:encoded>Bring your RPG vision to life with this bundle of video courses from Zenva, conceived from the ground up for Unity beginners! Offering hours of instruction in addition to source code that you can adapt, you’ll learn critical skills via hands-on practice that’ll enable you to create 2D action RPGs, 3D turn-based RPGs, mouse-only micro-RPGs, and much more. Also included are courses covering topics invaluable to RPG development, like procedural terrain generation and Unity debugging fundamentals. There’s even a course on how to harness Dall-E to create NPC portraits for your game! Get started on your dream project today, and help support Girls Who Code with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/6f6b4515dffd89278c175614c3d5ec2bd2ca1b35.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=5e1a490ace34b08262a9153c8e021206" length="97376" type="image/jpeg"/>
-      <pubDate>Mon, 11 Dec 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ultimate Game Development Bundle</title>
-      <link>https://humblebundle.com/software/ultimate-game-development-bundle-software</link>
-      <description>Build worlds beyond imagination</description>
-      <content:encoded>Open the door to a dizzying universe of game development possibilities with this bundle of Unreal Engine and Unity assets. You’ll get a vast trove of ready-to-use game assets for the two most popular game engines in the world—everything from gritty cyberpunk sets and serene seaside vistas, to weapons from across history, high quality icons for your UI, and stunning special effects. Also included in the bundle are a host of tutorials to broaden your skillset, as well as handy plugins that you can quickly add to your workflow. Pay what you want for this vast toolbox of assets valued at over $3,000 and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/f08c08afe9f9e692f1b21e6be2e9236f03e88a51.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=35f701299779a72b4587e23096b097d1" length="164247" type="image/jpeg"/>
-      <pubDate>Mon, 20 Nov 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
