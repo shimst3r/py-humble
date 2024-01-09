@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jan 2024 08:11:19 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jan 2024 09:11:19 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 08:10:43 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 09:10:43 +0100</pubDate>
+    <item>
+      <title>Python Master 2024 by Packt</title>
+      <link>https://humblebundle.com/books/python-master-2024-packt-books</link>
+      <description>10X your Python skills</description>
+      <content:encoded>Deepen your knowledge of one of the world’s most widely used and in-demand programming languages with this bundle of Python books from Packt. &lt;em&gt;Mastering Python&lt;/em&gt; will teach you the advanced skills and techniques necessary to produce clean, readable, and production-ready code. &lt;em&gt;Python Real-World Projects&lt;/em&gt; will walk you through building a project portfolio that will wow potential employers using libraries and resources like Pydantic, JupyterLab, and more. &lt;em&gt;Open Source Projects - Beyond Code&lt;/em&gt; walks you through the steps to open source success, covering licensing, ecosystem management, and other critical dimensions. Pay what you want for over 20 books that’ll take your Python skills to the next level and help support One Tree Planted!</content:encoded>
+      <enclosure url="https://hb.imgix.net/f2eda5fc2fef24a2ad591763c1fc9857817b0f85.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c69cf5b1a1ee7528f11a1aa07043670a" length="109047" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Call of Cthulhu by Chaosium, Inc.</title>
       <link>https://humblebundle.com/books/call-cthulhu-chaosium-inc-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Whether you’re looking for fast and easy recipes to simplify your meal prep or need inspiration to mix up your weeknight menu, this bundle of cookbooks from Callisto is here to assist! Turn to the &lt;em&gt;30-Minute Mediterranean Diet Cookbook&lt;/em&gt; for quick, delicious, and healthy home-cooked meals you can throw together in a flash. &lt;em&gt;5-Ingredient Cooking for Two&lt;/em&gt; offers recipes for 100 delicious two-person meals as well as a wealth of tips for shopping, meal planning, and preparation. &lt;em&gt;Easy Charcuterie Boards&lt;/em&gt; will help you dazzle your guests with amazing spreads, including tips on pairing and presenting ingredients. Pay what you want for 30 books that’ll make meal prep a pleasure and help support the International Medical Corps with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/5d56ebb6c7461f5ecd2be3f54f01a2103e414eab.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0cb18cfece85e380b687450549496100" length="73321" type="image/jpeg"/>
       <pubDate>Thu, 21 Dec 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Become a Linux Master by Packt</title>
-      <link>https://humblebundle.com/books/become-linux-master-packt-books</link>
-      <description>Get comfortable with the command line</description>
-      <content:encoded>If you’re looking to advance your career in IT, security, and other thriving fields, a strong grasp of Linux is non-negotiable—this book bundle from Packt is here to help! Get a handle of the basics with &lt;em&gt;Linux for System Administrators&lt;/em&gt;, which provides a primer for aspiring pros, as well as skill-boosts for helpdesk staff, support engineers, and others. &lt;em&gt;The Linux DevOps Handbook&lt;/em&gt; will arm you with knowledge of essential tools like Docker and Git and upgrade your skills in command line and shell scripting. &lt;em&gt;Mastering Linux Security and Hardening&lt;/em&gt; will equip sysadmins with the knowledge to prevent and detect malware infections, detect unauthorized network access, and more! Pay what you want for more than 20 books to help you achieve Linux mastery and support charity:water with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/9bebef656b7ee7c97bc4260322ff7871b6fe75e1.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=20a9fbb503c21a3dd3bea5a9788af2cc" length="75489" type="image/jpeg"/>
-      <pubDate>Mon, 18 Dec 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
