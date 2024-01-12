@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 08:10:40 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jan 2024 09:10:40 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Jan 2024 08:10:35 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jan 2024 09:10:35 +0100</pubDate>
+    <item>
+      <title>Terry Pratchett's Discworld by HarperCollins</title>
+      <link>https://humblebundle.com/books/terry-pratchetts-discworld-harpercollins-books</link>
+      <description>Mighty and mundane magic</description>
+      <content:encoded>Discover Sir Terry Pratchett's &lt;em&gt;Discworld&lt;/em&gt;, the beloved comic fantasy universe that’s brimming with wit, wisdom, and wonder. Start where it all began in the seminal novel &lt;em&gt;The Color of Magic&lt;/em&gt;, which follows the misadventures of the inept wizard Rincewind as he serves as tour guide to Twoflower, Discworld's first-ever sightseer. The hapless duo’s journeys continue in &lt;em&gt;The Light Fantastic&lt;/em&gt; and &lt;em&gt;Sourcery&lt;/em&gt;, where the scale of world-threatening hazards (and accompanying absurdities) increase exponentially. You’ll get over 35 &lt;em&gt;Discworld&lt;/em&gt; novels in all, touching all corners of this whimsical realm and all manner of its denizens, and you’ll help Room to Read with your purchase! &lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account.&lt;br/&gt;&lt;br/&gt;This bundle is only available to those in the US.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</content:encoded>
+      <enclosure url="https://hb.imgix.net/2efaa22f4a33caf847c8e10d74b4b78e7963a5aa.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=2009e1cb2faa32443a9e0a59bbc6ad10" length="97340" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Python Master 2024 by Packt</title>
       <link>https://humblebundle.com/books/python-master-2024-packt-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Don’t forget to pack the popcorn for your next RPG night, because it’s time to bring the movies to your table! This bundle from Evil Genius is packed with games inspired by some of the silver screen's most exciting names. Get ready to walk in the shoes of elite special forces fighters and take on larger-than-life missions in &lt;em&gt;Rambo&lt;/em&gt;, based on the beloved films and fully compatible with 5e! Hop into your Jaeger and protect mankind from vicious kaiju in the 5e-compatible &lt;em&gt;Pacific Rim&lt;/em&gt;! And more! Get games based on &lt;em&gt;The Crow&lt;/em&gt;, &lt;em&gt;Kong Island&lt;/em&gt;, &lt;em&gt;Highlander&lt;/em&gt;, and other great films, and help support Gameheads with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/53f3c4c963f1541e520fd3e6d0263fd103a979c2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=709b9725922acb2d414580d9cc13e8e0" length="101703" type="image/jpeg"/>
       <pubDate>Sat, 23 Dec 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fast and Easy Cooking by Callisto Publishing</title>
-      <link>https://humblebundle.com/books/fast-and-easy-cooking-callisto-publishing-books</link>
-      <description>Fast, east, and tasty meals</description>
-      <content:encoded>Whether you’re looking for fast and easy recipes to simplify your meal prep or need inspiration to mix up your weeknight menu, this bundle of cookbooks from Callisto is here to assist! Turn to the &lt;em&gt;30-Minute Mediterranean Diet Cookbook&lt;/em&gt; for quick, delicious, and healthy home-cooked meals you can throw together in a flash. &lt;em&gt;5-Ingredient Cooking for Two&lt;/em&gt; offers recipes for 100 delicious two-person meals as well as a wealth of tips for shopping, meal planning, and preparation. &lt;em&gt;Easy Charcuterie Boards&lt;/em&gt; will help you dazzle your guests with amazing spreads, including tips on pairing and presenting ingredients. Pay what you want for 30 books that’ll make meal prep a pleasure and help support the International Medical Corps with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/5d56ebb6c7461f5ecd2be3f54f01a2103e414eab.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0cb18cfece85e380b687450549496100" length="73321" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
