@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jan 2024 08:09:38 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jan 2024 09:09:38 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2024 08:09:28 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2024 09:09:28 +0100</pubDate>
+    <item>
+      <title>All I Need to Know I Learned from Star Trek</title>
+      <link>https://humblebundle.com/books/all-i-need-to-know-i-learned-from-star-trek-books</link>
+      <description>Go boldly behind the scenes…</description>
+      <content:encoded>Explore strange new worlds, seek out new life and civilizations, and deepen your connection with all things Star Trek with this bundle full of galactic wonder! Join the crew of the Federation’s mighty flagship in a mission to prevent all-out war in the Alpha Quadrant in the novel &lt;em&gt;Star Trek Prometheus: Fire With Fire&lt;/em&gt;. Get a behind-the-scenes look at the hit show, including interviews with Sir Patrick Stewart and other Trek luminaries in &lt;em&gt;Star Trek: Picard - The Collector's Edition&lt;/em&gt;. You’ll get 18 books in total, including novels and intimate, behind the scenes coverage of your favorite Star Trek Shows and movies, and your purchase will support the EveryLibrary Institute and The Trevor Project!</content:encoded>
+      <enclosure url="https://hb.imgix.net/059a5d5678114634780e991c9f875ab58e7937e9.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b257aee755c488d5681d2faa59c0118e" length="116939" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Terry Pratchett's Discworld by HarperCollins</title>
       <link>https://humblebundle.com/books/terry-pratchetts-discworld-harpercollins-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Learn to capture, organize, and leverage the data that drives your business or workplace with this book bundle focused on advanced topics in Microsoft Access and Excel. Master the tasks related to the creation, use, and management of Access databases. Unlock the secrets of Excel with techniques like task automation and advanced shortcuts, and learn how to harness its potential for data analytics. You’ll also get books on in-demand skills like data mining, programming languages like SQL, R, and Python, plus much more! Pay what you want for this career-boosting bundle and help support charities like Code.org and Whale and Dolphin Conservation.</content:encoded>
       <enclosure url="https://hb.imgix.net/1a6cc37f29f3ed6b253e35ebe458e45c8bb631e4.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f4f2fa1a8ac29896535029da011be406" length="90133" type="image/jpeg"/>
       <pubDate>Mon, 25 Dec 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2023 Cinematic Adventure RPGs by Evil Genius Games</title>
-      <link>https://humblebundle.com/books/2023-cinematic-adventure-rpgs-evil-genius-games-books</link>
-      <description>Bring the movies to your game table</description>
-      <content:encoded>Don’t forget to pack the popcorn for your next RPG night, because it’s time to bring the movies to your table! This bundle from Evil Genius is packed with games inspired by some of the silver screen's most exciting names. Get ready to walk in the shoes of elite special forces fighters and take on larger-than-life missions in &lt;em&gt;Rambo&lt;/em&gt;, based on the beloved films and fully compatible with 5e! Hop into your Jaeger and protect mankind from vicious kaiju in the 5e-compatible &lt;em&gt;Pacific Rim&lt;/em&gt;! And more! Get games based on &lt;em&gt;The Crow&lt;/em&gt;, &lt;em&gt;Kong Island&lt;/em&gt;, &lt;em&gt;Highlander&lt;/em&gt;, and other great films, and help support Gameheads with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/53f3c4c963f1541e520fd3e6d0263fd103a979c2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=709b9725922acb2d414580d9cc13e8e0" length="101703" type="image/jpeg"/>
-      <pubDate>Sat, 23 Dec 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
