@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jan 2024 08:11:33 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jan 2024 09:11:33 +0100</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 08:11:01 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2024 09:11:01 +0100</pubDate>
+    <item>
+      <title>Software Architecture by Packt</title>
+      <link>https://humblebundle.com/books/software-architecture-packt-books</link>
+      <description>Comprehensive instruction on software architecture</description>
+      <content:encoded>Developers of all disciplines, it’s time to take the lead and start creating software that’s cleaner, highly scalable, and more performant with this bundle of books on software architecture from Packt. &lt;em&gt;The Software Architect's Handbook&lt;/em&gt; covers the design patterns, best practices, and paradigms for efficient software development, with an eye on performance, security, and big-picture decision making. &lt;em&gt;Modern Computer Architecture and Organization&lt;/em&gt; will give you a thorough understanding of hardware down to the circuit level, covering modern architectures like 86, x64, ARM, and RISC-V. Pay what you want for over 20 books on this essential topic and help support Hello World with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/9aa4013a6da72c087242395132da4d85be3fa33c.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f52b1891bb928f819e606f4afd98d3c9" length="77691" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>All I Need to Know I Learned from Star Trek</title>
       <link>https://humblebundle.com/books/all-i-need-to-know-i-learned-from-star-trek-books</link>
@@ -73,14 +81,6 @@
       <content:encoded>Need some help wrapping your head around complex subjects in math and physics? This bundle of books in the popular &lt;em&gt;For Dummies&lt;/em&gt; series is here to help with fun and approachable lessons across a number of tricky topics! &lt;em&gt;Statistics All-in-One For Dummies&lt;/em&gt; will teach you how to interpret graphs, determine probability, critique data and more! Bone up on the fundamentals and move onto the advanced stuff like graphing functions and approximating area with &lt;em&gt;Calculus For Dummies&lt;/em&gt;. &lt;em&gt;Thermodynamics For Dummies&lt;/em&gt; will help you wrap your head around complex concepts like entropy and the laws of thermodynamics in an easily digestible and approachable manner. Pay what you want for all these and more—a total of 16 books—and help support buildOn with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/2ec34f4d0636ab3442fcd04d71bd68996b4937c6.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=17a19b95c81bf8e0c6c3438f0e8bdf86" length="118539" type="image/jpeg"/>
       <pubDate>Thu, 28 Dec 2023 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Become an Access and Excel Expert by Mercury Learning</title>
-      <link>https://humblebundle.com/books/become-an-access-and-excel-expert-mercury-learning-books</link>
-      <description>Become a spreadsheet and database master</description>
-      <content:encoded>Learn to capture, organize, and leverage the data that drives your business or workplace with this book bundle focused on advanced topics in Microsoft Access and Excel. Master the tasks related to the creation, use, and management of Access databases. Unlock the secrets of Excel with techniques like task automation and advanced shortcuts, and learn how to harness its potential for data analytics. You’ll also get books on in-demand skills like data mining, programming languages like SQL, R, and Python, plus much more! Pay what you want for this career-boosting bundle and help support charities like Code.org and Whale and Dolphin Conservation.</content:encoded>
-      <enclosure url="https://hb.imgix.net/1a6cc37f29f3ed6b253e35ebe458e45c8bb631e4.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=f4f2fa1a8ac29896535029da011be406" length="90133" type="image/jpeg"/>
-      <pubDate>Mon, 25 Dec 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
