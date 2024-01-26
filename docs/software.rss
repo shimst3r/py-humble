@@ -8,8 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 08:11:06 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jan 2024 09:11:06 +0100</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2024 08:09:53 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2024 09:09:53 +0100</pubDate>
+    <item>
+      <title>The Fantasy Realms Bundle by Dragonsan</title>
+      <link>https://humblebundle.com/software/fantasy-realms-bundle-dragonsan-software</link>
+      <description>Pro-quality MMO assets for Unity</description>
+      <content:encoded>Get the expertly crafted character models that’ll bring your Unity MMO to life with this jam-packed bundle from the master artisans at Dragonsan Studios! Included are an array of separate asset packs that include distinct character models for dwarves, elves, humans, orcs, and more, as well as multiple awesome armor sets each. You’ll also get a vast selection of icon packs that’ll bring some pro-level polish to your UI, ranging from skill icons, to loot, crafting resources, consumables, and more! Pay what you want for over $1,200 worth of assets that’ll make your MMO ready for primetime, and help support One Tree Planted with your purchase! </content:encoded>
+      <enclosure url="https://hb.imgix.net/50ec288e0594ed817a3d09c8e180d7f9421703b2.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=778f8bd06954d5e0040ac1d97e7ff72c" length="47972" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Unreal Apocalypse Essentials Reloaded</title>
+      <link>https://humblebundle.com/software/unreal-apocalypse-essentials-reloaded-software</link>
+      <description>A wonderland of Unreal Engine assets</description>
+      <content:encoded>Game makers, give your Unreal Engine project a facelift with this bundle of assets covering all spectrums of the development process! Included are loads of high-quality character models, environments, music, animations, and more! Whether you’re creating a shattered post-apocalyptic dystopia, a soaring heroic fantasy, or anything in between, you’ll get a vast repository of ready-to-use assets to make your prototype ready for primetime. Pay what you want for over $1,200 worth of assets and help support Alzheimer's Research UK with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/b352e58513a25559dcdb2db110c32d7078e89f5e.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c970348a79a733a77c83ad6135a5e9db" length="88485" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Linux for Everyone</title>
       <link>https://humblebundle.com/software/linux-for-everyone-software</link>
@@ -31,7 +47,7 @@
       <link>https://humblebundle.com/software/ai-photography-with-anthropics-software</link>
       <description>Cutting edge photo editing software</description>
       <content:encoded>Whether you’re trying to capture the perfect moment for social media or need to produce high quality images for your business, this bundle of cutting edge editing software from Anthropics is your shortcut to swoon-worthy images. &lt;em&gt;PortraitPro 23&lt;/em&gt; will help you put your best face(s) forward, with sophisticated features to smooth skin, adjust lighting, add makeup and effects, and much more! With &lt;em&gt;PortraitPro Body 3&lt;/em&gt;, you can retouch photos in addition to adjusting the height, proportions, and even the poses and postures of your photo subjects. &lt;em&gt;LandscapePro 2&lt;/em&gt; helps you create stunning vistas, with tools to alter an image’s weather, sky, atmosphere, and more. Get all these indispensable editing tools and more, and help support the Prevent Cancer Foundation with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/e0a113f809c6337f19c8900c974c217163d80967.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=514a940b5ced60b02f0bc6d58091ddd2" length="35045" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/e0a113f809c6337f19c8900c974c217163d80967.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=514a940b5ced60b02f0bc6d58091ddd2" length="35121" type="image/jpeg"/>
       <pubDate>Mon, 15 Jan 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -57,14 +73,6 @@
       <content:encoded>Interested in learning about the intersection of game development and the rapidly advancing technologies driving AI? This bundle of video courses from Mammoth Interactive will get you up to speed! Learn how to implement, manage, and optimize large language models like GPT with the cutting edge toolkit Ollama. Drill down on the basics of popular game engines like Unity, Unreal, and Godot, hone your programming skills in languages like JavaScript and Python, and much more! Pay what you want for this bundle of over 40 comprehensive courses and help support charity with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/673a1e57c482f28ec6d4bccdd23caa384ed90b5e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8f2dd10bdbfd685f1632282325673f2e" length="56407" type="image/jpeg"/>
       <pubDate>Thu, 04 Jan 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unreal Engine Space &amp; Sci-Fi Mastery Kit: Assets, Tutorials &amp; More!</title>
-      <link>https://humblebundle.com/software/unreal-engine-space-and-sci-fi-mastery-kit-software</link>
-      <description>Unreal assets on a cosmic scale</description>
-      <content:encoded>Bring the majesty of the cosmos to your Unreal Engine project with Arghanion’s Puzzle Box! This bundle of stunning assets will help you implement all manner of awe-inspiring outer space phenomena into your project. At your disposal are the tools to craft rich asteroid fields and mesmerizing nebulas, generate space stations, planets, and colossal Dyson spheres, and even ready-to-use Unreal Engine blueprints to build functioning space ships. Pay what you want for this galactic treasure trove and help support Code.org with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/1ca66ac12f247206e06f108f845d7d6cbebb8308.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0756f247bf4f6f24ff95b2691410aaaa" length="97934" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
