@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jan 2024 08:09:46 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jan 2024 09:09:46 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2024 08:10:06 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2024 09:10:06 +0100</pubDate>
     <item>
       <title>The Fantasy Realms Bundle by Dragonsan</title>
       <link>https://humblebundle.com/software/fantasy-realms-bundle-dragonsan-software</link>
@@ -47,7 +47,7 @@
       <link>https://humblebundle.com/software/ai-photography-with-anthropics-software</link>
       <description>Cutting edge photo editing software</description>
       <content:encoded>Whether you’re trying to capture the perfect moment for social media or need to produce high quality images for your business, this bundle of cutting edge editing software from Anthropics is your shortcut to swoon-worthy images. &lt;em&gt;PortraitPro 23&lt;/em&gt; will help you put your best face(s) forward, with sophisticated features to smooth skin, adjust lighting, add makeup and effects, and much more! With &lt;em&gt;PortraitPro Body 3&lt;/em&gt;, you can retouch photos in addition to adjusting the height, proportions, and even the poses and postures of your photo subjects. &lt;em&gt;LandscapePro 2&lt;/em&gt; helps you create stunning vistas, with tools to alter an image’s weather, sky, atmosphere, and more. Get all these indispensable editing tools and more, and help support the Prevent Cancer Foundation with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/e0a113f809c6337f19c8900c974c217163d80967.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=514a940b5ced60b02f0bc6d58091ddd2" length="35045" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/e0a113f809c6337f19c8900c974c217163d80967.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=514a940b5ced60b02f0bc6d58091ddd2" length="35121" type="image/jpeg"/>
       <pubDate>Mon, 15 Jan 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -71,7 +71,7 @@
       <link>https://humblebundle.com/software/complete-learn-to-code-bundle-2024-software</link>
       <description>Coding for AI, games &amp; more</description>
       <content:encoded>Interested in learning about the intersection of game development and the rapidly advancing technologies driving AI? This bundle of video courses from Mammoth Interactive will get you up to speed! Learn how to implement, manage, and optimize large language models like GPT with the cutting edge toolkit Ollama. Drill down on the basics of popular game engines like Unity, Unreal, and Godot, hone your programming skills in languages like JavaScript and Python, and much more! Pay what you want for this bundle of over 40 comprehensive courses and help support charity with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/673a1e57c482f28ec6d4bccdd23caa384ed90b5e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8f2dd10bdbfd685f1632282325673f2e" length="56407" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/673a1e57c482f28ec6d4bccdd23caa384ed90b5e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8f2dd10bdbfd685f1632282325673f2e" length="59037" type="image/jpeg"/>
       <pubDate>Thu, 04 Jan 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
