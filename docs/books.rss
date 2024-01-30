@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 08:10:04 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jan 2024 09:10:04 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2024 08:10:00 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jan 2024 09:10:00 +0100</pubDate>
+    <item>
+      <title>AWS, Azure, and Google Cloud Development by O'Reilly</title>
+      <link>https://humblebundle.com/books/aws-azure-and-google-cloud-development-oreilly-books</link>
+      <description>Cloud skills for data, IoT &amp; more!</description>
+      <content:encoded>Learn how to leverage leading cloud platforms for mission critical tasks—from data science to smart device control—with this book bundle from O’Reilly! &lt;em&gt;Architecting IoT Solutions on Azure&lt;/em&gt; will teach you about device management at scale and get you up to speed on Azure’s tools for building globally distributed systems. &lt;em&gt;Data Science on the Google Cloud Platform&lt;/em&gt; shows you how to implement end-to-end data pipelines with cloud native tools through a series of hands-on projects. Pay what you want for these and more—a total of 15 books valued at almost $1,000—and helps support Code for America with your purchase.</content:encoded>
+      <enclosure url="https://hb.imgix.net/7046227edfbc07bd818855c4eba298236cd64d23.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e47ae3b724264be74edb016645b0b60b" length="74634" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jan 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Better Your Finances For Dummies</title>
       <link>https://humblebundle.com/books/better-your-finances-for-dummies-books</link>
@@ -47,7 +55,7 @@
       <link>https://humblebundle.com/books/python-master-2024-packt-books</link>
       <description>10X your Python skills</description>
       <content:encoded>Deepen your knowledge of one of the world’s most widely used and in-demand programming languages with this bundle of Python books from Packt. &lt;em&gt;Mastering Python&lt;/em&gt; will teach you the advanced skills and techniques necessary to produce clean, readable, and production-ready code. &lt;em&gt;Python Real-World Projects&lt;/em&gt; will walk you through building a project portfolio that will wow potential employers using libraries and resources like Pydantic, JupyterLab, and more. &lt;em&gt;Open Source Projects - Beyond Code&lt;/em&gt; walks you through the steps to open source success, covering licensing, ecosystem management, and other critical dimensions. Pay what you want for over 20 books that’ll take your Python skills to the next level and help support One Tree Planted!</content:encoded>
-      <enclosure url="https://hb.imgix.net/f2eda5fc2fef24a2ad591763c1fc9857817b0f85.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c69cf5b1a1ee7528f11a1aa07043670a" length="112421" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/f2eda5fc2fef24a2ad591763c1fc9857817b0f85.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c69cf5b1a1ee7528f11a1aa07043670a" length="109047" type="image/jpeg"/>
       <pubDate>Mon, 08 Jan 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
