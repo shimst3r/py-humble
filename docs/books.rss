@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 08:10:14 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Feb 2024 09:10:14 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Feb 2024 08:09:30 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Feb 2024 09:09:30 +0100</pubDate>
+    <item>
+      <title>Spice Up Your Love Life by Chronicle</title>
+      <link>https://humblebundle.com/books/spice-up-your-love-life-chronicle-books</link>
+      <description>Find fulfillment in love and intimacy</description>
+      <content:encoded>Enrich your most intimate relationships in the spirit of Valentine’s Day with this bundle of books full of tips, stories, and candid guidance on the topics of love and intimacy. In &lt;em&gt;My Pleasure&lt;/em&gt;, sexual wellness expert Laura Delarato provides a guide to cultivate an enriching sex life regardless of your relationship status. &lt;em&gt;Me Without You&lt;/em&gt; will help you celebrate enduring love with heartwarming cartoons by famed illustrators Lisa Swerling and Ralph Lazar. Get these and more—over 20 books in total covering a range of topics related to the heart and the bedroom—and help support the Book Industry Charitable Foundation.</content:encoded>
+      <enclosure url="https://hb.imgix.net/1f4e805eb9ec572112d7bf4a9a92517588619d46.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d0e1394bf89a2a4477c015cbdc015808" length="95156" type="image/jpeg"/>
+      <pubDate>Thu, 08 Feb 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cybersecurity 2024 from Packt</title>
       <link>https://humblebundle.com/books/cybersecurity-2024-from-packt-books</link>
@@ -43,19 +51,19 @@
       <pubDate>Fri, 02 Feb 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kodansha Award-Winning (&amp; Nominated) Manga</title>
-      <link>https://humblebundle.com/books/kodansha-awardwinning-nominated-manga-books</link>
-      <description>Acclaimed manga across the genres</description>
-      <content:encoded>Get ready to discover your new favorite manga with this amazing bundle from Kodansha, full of fan-favorite titles that span the genres! In &lt;em&gt;The Drops of God&lt;/em&gt;, you’ll witness the gripping human drama surrounding an inheritance battle over a wine collection worth millions. &lt;em&gt;Nina the Starry Bride&lt;/em&gt; tells the captivating tale of an orphan turned princess navigating royal deceit and unexpected love. In &lt;em&gt;Shangri-la Frontier&lt;/em&gt;, you’ll join a seasoned gamer as he faces formidable foes and mysterious figures in a captivating and deadly virtual world. Pay what you want for this incredible bundle packed with dozens of volumes and help support the Book Industry Charitable Foundation!</content:encoded>
-      <enclosure url="https://hb.imgix.net/54d19ecf6487daa0c6ac8d9af0bb226357cd6506.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d1db71372de9ddc326b8fe76870ad1fd" length="93229" type="image/jpeg"/>
-      <pubDate>Thu, 01 Feb 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Game Design and Programming by Pearson</title>
       <link>https://humblebundle.com/books/game-design-and-programming-pearson-books</link>
       <description>Game development skills within reach</description>
       <content:encoded>Start your journey into game development today with this bundle of books from Pearson, full of critical instruction for beginners and invaluable skill-up material for seasoned devs! Learn how to create compelling and profitable content for one of the hottest games around in &lt;em&gt;Roblox Game Development in 24 Hours: The Official Roblox Guide&lt;/em&gt;. Bone up on the basics required to truly understand the craft in &lt;em&gt;Fundamentals of Game Design&lt;/em&gt;. Empower yourself with the skills to create your own bespoke art assets with &lt;em&gt;Learning Blender&lt;/em&gt;. Get all these books and more—a value of over $800—and help support Women Who Code with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/293583a36db5d65c0e5de37281651d5ad8f93599.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=256b91ea9820c090f5feaadbfcb8729e" length="95057" type="image/jpeg"/>
+      <pubDate>Thu, 01 Feb 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kodansha Award-Winning (&amp; Nominated) Manga</title>
+      <link>https://humblebundle.com/books/kodansha-awardwinning-nominated-manga-books</link>
+      <description>Acclaimed manga across the genres</description>
+      <content:encoded>Get ready to discover your new favorite manga with this amazing bundle from Kodansha, full of fan-favorite titles that span the genres! In &lt;em&gt;The Drops of God&lt;/em&gt;, you’ll witness the gripping human drama surrounding an inheritance battle over a wine collection worth millions. &lt;em&gt;Nina the Starry Bride&lt;/em&gt; tells the captivating tale of an orphan turned princess navigating royal deceit and unexpected love. In &lt;em&gt;Shangri-la Frontier&lt;/em&gt;, you’ll join a seasoned gamer as he faces formidable foes and mysterious figures in a captivating and deadly virtual world. Pay what you want for this incredible bundle packed with dozens of volumes and help support the Book Industry Charitable Foundation!</content:encoded>
+      <enclosure url="https://hb.imgix.net/54d19ecf6487daa0c6ac8d9af0bb226357cd6506.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d1db71372de9ddc326b8fe76870ad1fd" length="93229" type="image/jpeg"/>
       <pubDate>Thu, 01 Feb 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -65,22 +73,6 @@
       <content:encoded>Learn how to leverage leading cloud platforms for mission critical tasks—from data science to smart device control—with this book bundle from O’Reilly! &lt;em&gt;Architecting IoT Solutions on Azure&lt;/em&gt; will teach you about device management at scale and get you up to speed on Azure’s tools for building globally distributed systems. &lt;em&gt;Data Science on the Google Cloud Platform&lt;/em&gt; shows you how to implement end-to-end data pipelines with cloud native tools through a series of hands-on projects. Pay what you want for these and more—a total of 15 books valued at almost $1,000—and helps support Code for America with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/7046227edfbc07bd818855c4eba298236cd64d23.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e47ae3b724264be74edb016645b0b60b" length="74634" type="image/jpeg"/>
       <pubDate>Mon, 29 Jan 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Better Your Finances For Dummies</title>
-      <link>https://humblebundle.com/books/better-your-finances-for-dummies-books</link>
-      <description>Dummy-proof guidance on personal finance</description>
-      <content:encoded>Need help getting your finances in order, building wealth, and setting yourself up for a secure future? These books in the popular &lt;em&gt;For Dummies&lt;/em&gt; series are ready to come to the rescue! &lt;em&gt;Investing in your 20s &amp; 30s For Dummies&lt;/em&gt; is full of targeted investment advice for people early in their careers, designed to set you up for future success. &lt;em&gt;Budgeting For Dummies&lt;/em&gt; takes the pain out of day-to-day finance, sharing the tools you’ll need to manage debt, improve your credit, and live your best life within your means. &lt;em&gt;Investing in Stocks For Dummies&lt;/em&gt; demystifies this complex world, covering everything you need to to know invest wisely and grow your wealth. Pay what you want for this bundle full of expert-backed financial guidance and help support Direct Relief with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/7f0ab3e89aaaefc0d37b94118e5ad87916f5ce44.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=736dcfbe6d109d5055206bf15903b7aa" length="71676" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terry Pratchett's Discworld by HarperCollins</title>
-      <link>https://humblebundle.com/books/terry-pratchetts-discworld-harpercollins-books</link>
-      <description>Mighty and mundane magic</description>
-      <content:encoded>Discover Sir Terry Pratchett's &lt;em&gt;Discworld&lt;/em&gt;, the beloved comic fantasy universe that’s brimming with wit, wisdom, and wonder. Start where it all began in the seminal novel &lt;em&gt;The Color of Magic&lt;/em&gt;, which follows the misadventures of the inept wizard Rincewind as he serves as tour guide to Twoflower, Discworld's first-ever sightseer. The hapless duo’s journeys continue in &lt;em&gt;The Light Fantastic&lt;/em&gt; and &lt;em&gt;Sourcery&lt;/em&gt;, where the scale of world-threatening hazards (and accompanying absurdities) increase exponentially. You’ll get over 35 &lt;em&gt;Discworld&lt;/em&gt; novels in all, touching all corners of this whimsical realm and all manner of its denizens, and you’ll help Room to Read with your purchase! &lt;br&gt;&lt;br&gt; &lt;a style="color:#EF9741"&gt;&lt;strong&gt;&lt;em&gt;The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account.&lt;br/&gt;&lt;br/&gt;This bundle is only available to those in the US.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;</content:encoded>
-      <enclosure url="https://hb.imgix.net/2efaa22f4a33caf847c8e10d74b4b78e7963a5aa.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=2009e1cb2faa32443a9e0a59bbc6ad10" length="97340" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jan 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
