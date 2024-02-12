@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Feb 2024 08:09:07 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Feb 2024 09:09:07 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2024 08:10:49 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2024 09:10:49 +0100</pubDate>
     <item>
       <title>Melodic Mayhem: A Comprehensive Audio and Music Bundle</title>
       <link>https://humblebundle.com/software/melodic-mayhem-comprehensive-audio-and-music-bundle-software</link>
       <description>Your audio needs are met</description>
       <content:encoded>Upgrade your next project with pro-level audio with this mind-bogglingly huge bundle, packed with all the music, sound effects, and engine-specific plugins you’ll ever need. You’ll get royalty-free tracks that span the genres, both musical and thematic—from atmospheric synthpop and hard-driving industrial, to tunes perfect for fantasy, sci-fi, and more. Also included is a vast library of sound effects suitable for all manner of genres and settings, as well as jingles and UI sounds, plus essential sound plugins for Unreal, Unity, and Godot. Pay what you want for a library that will cover your audio needs forever and help support the Children's Miracle Network with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/d20dd9975e578125b632be5beefff8ae3cc260f5.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9becd60290e58206e4a5020e444a6b89" length="103258" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/d20dd9975e578125b632be5beefff8ae3cc260f5.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=9becd60290e58206e4a5020e444a6b89" length="100517" type="image/jpeg"/>
       <pubDate>Thu, 08 Feb 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -89,14 +89,6 @@
       <content:encoded>Equip yourself with the local knowledge and linguistic confidence to visit some of the world’s most exciting locales with this bundle from Lonely Planet and uTalk! Included are over 30 Lonely Planet guidebooks packed with up-to-date maps, travel tips, and itineraries for some of the globe’s most memorable destinations, including Japan, France, Italy, and much more. To help you brush up before your travels, you’ll also get 12 months of access to the popular uTalk’s app, designed by scientists, researchers and linguists to make the process of language acquisition fun and effective. Pay what you want for this indispensable traveler’s toolkit and help support One Tree Planted with your purchase!</content:encoded>
       <enclosure url="https://hb.imgix.net/edb4827b262fdd3bf113813dd2acd50bb97308cd.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=27cf6d09e33cb571798f53b8a98e8caa" length="164525" type="image/jpeg"/>
       <pubDate>Mon, 08 Jan 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complete Learn to Code Bundle 2024</title>
-      <link>https://humblebundle.com/software/complete-learn-to-code-bundle-2024-software</link>
-      <description>Coding for AI, games &amp; more</description>
-      <content:encoded>Interested in learning about the intersection of game development and the rapidly advancing technologies driving AI? This bundle of video courses from Mammoth Interactive will get you up to speed! Learn how to implement, manage, and optimize large language models like GPT with the cutting edge toolkit Ollama. Drill down on the basics of popular game engines like Unity, Unreal, and Godot, hone your programming skills in languages like JavaScript and Python, and much more! Pay what you want for this bundle of over 40 comprehensive courses and help support charity with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/673a1e57c482f28ec6d4bccdd23caa384ed90b5e.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=8f2dd10bdbfd685f1632282325673f2e" length="59037" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jan 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
