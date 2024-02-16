@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 08:10:07 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Feb 2024 09:10:07 +0100</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:10:06 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 09:10:06 +0100</pubDate>
+    <item>
+      <title>Be a Graphic Designer &amp; Visual Artist by Chronicle Books</title>
+      <link>https://humblebundle.com/books/be-graphic-designer-visual-artist-chronicle-books-books</link>
+      <description>Unleash your visual brilliance</description>
+      <content:encoded>Chart your course through the worlds of art and design with this bundle of books, full of indispensable instruction, guidance, and inspiration. The acclaimed &lt;em&gt;How to Be A Graphic Designer Without Losing Your Soul&lt;/em&gt; provides practical advice and philosophical guidance to help you kick off and maintain a successful career in the field. The &lt;em&gt;Creative Business Handbook&lt;/em&gt; gives you concrete, actionable advice about making a living from your creative work. If you want to dive deep in typographic design, &lt;em&gt;Grid Systems&lt;/em&gt; teaches you the ins-and-outs of compositions via extensive examples from top design houses and ad firms. Pay what you want for an invaluable education in art and design and help support the Book Industry Charitable Foundation!</content:encoded>
+      <enclosure url="https://hb.imgix.net/d479ee442796d3df14e5d9825422522617181295.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=2e3b77781ccefd22e9b19ea6f061a4ec" length="87587" type="image/jpeg"/>
+      <pubDate>Thu, 15 Feb 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Java 2024 by O'Reilly</title>
       <link>https://humblebundle.com/books/java-2024-oreilly-books</link>
@@ -87,7 +95,7 @@
       <link>https://humblebundle.com/books/aws-azure-and-google-cloud-development-oreilly-books</link>
       <description>Cloud skills for data, IoT &amp; more!</description>
       <content:encoded>Learn how to leverage leading cloud platforms for mission critical tasks—from data science to smart device control—with this book bundle from O’Reilly! &lt;em&gt;Architecting IoT Solutions on Azure&lt;/em&gt; will teach you about device management at scale and get you up to speed on Azure’s tools for building globally distributed systems. &lt;em&gt;Data Science on the Google Cloud Platform&lt;/em&gt; shows you how to implement end-to-end data pipelines with cloud native tools through a series of hands-on projects. Pay what you want for these and more—a total of 15 books valued at almost $1,000—and helps support Code for America with your purchase.</content:encoded>
-      <enclosure url="https://hb.imgix.net/7046227edfbc07bd818855c4eba298236cd64d23.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e47ae3b724264be74edb016645b0b60b" length="74634" type="image/jpeg"/>
+      <enclosure url="https://hb.imgix.net/7046227edfbc07bd818855c4eba298236cd64d23.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e47ae3b724264be74edb016645b0b60b" length="74629" type="image/jpeg"/>
       <pubDate>Mon, 29 Jan 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
