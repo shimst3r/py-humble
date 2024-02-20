@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 08:10:39 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Feb 2024 09:10:39 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2024 08:09:58 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2024 09:09:58 +0100</pubDate>
     <item>
       <title>Data Engineering 101</title>
       <link>https://humblebundle.com/software/packt-data-engineering-software</link>
@@ -73,14 +73,6 @@
       <content:encoded>Game makers, give your Unreal Engine project a facelift with this bundle of assets covering all spectrums of the development process! Included are loads of high-quality character models, environments, music, animations, and more! Whether you’re creating a shattered post-apocalyptic dystopia, a soaring heroic fantasy, or anything in between, you’ll get a vast repository of ready-to-use assets to make your prototype ready for primetime. Pay what you want for over $1,200 worth of assets and help support Alzheimer's Research UK with your purchase.</content:encoded>
       <enclosure url="https://hb.imgix.net/51e5577e3d7b6b55b8a1c44895732db222de2a7d.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=bbfd0b30a68e259461eeda3d6725a193" length="119622" type="image/jpeg"/>
       <pubDate>Thu, 25 Jan 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux for Everyone</title>
-      <link>https://humblebundle.com/software/linux-for-everyone-software</link>
-      <description>Linux mastery for everyone</description>
-      <content:encoded>Master Linux, the open-source operating system behind much of the software that drives our world with this bundle of video courses from Packt! Whether you’re a complete newcomer or seasoned Bash-master, you’ll get all the instruction you need to leverage everything Linux offers. Establish your footing with the &lt;em&gt;Complete Linux Training Course to Get Your Dream IT Job&lt;/em&gt;. Refine your knowledge of the fundamentals with &lt;em&gt;Mastering Linux Command Line&lt;/em&gt;. Skill-up into an in-demand field with &lt;em&gt;Linux for Cloud and DevOps Engineers&lt;/em&gt;. Pay what you want for 15+ courses in all, valued at over $1,400, and help support Alzheimer's Research UK with your purchase!</content:encoded>
-      <enclosure url="https://hb.imgix.net/1b6386a29d3a3c6a2b47cbcc2affdeb075c27823.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d89f88835b69269c57c359ff966bc20c" length="76264" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jan 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
