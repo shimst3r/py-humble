@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Feb 2024 08:09:58 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Feb 2024 09:09:58 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 08:10:51 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 09:10:51 +0100</pubDate>
+    <item>
+      <title>Epic Game Worlds in Unity Bundle</title>
+      <link>https://humblebundle.com/software/epic-game-worlds-in-unity-bundle-software</link>
+      <description>Amazing assets, audio &amp; more for Unity</description>
+      <content:encoded>Bolster your game-maker’s toolkit with this Unity bundle, full of visual assets, plugins, audio, and more! You’ll get the &lt;em&gt;Nature Renderer&lt;/em&gt; plugin to level up your game’s scenery with advanced features  and custom shader support. The &lt;em&gt;Big Fantasy RPG Music Bundle&lt;/em&gt; is packed with over 443 tracks of orchestral tunes to score all aspects of your epic adventure. If you’re going for retro vibes, the &lt;em&gt;Low Poly Nature Pack&lt;/em&gt; puts 800 high-quality game-ready 3D nature assets at reach, crafted with botanical accuracy and low poly charm. Pay what you want for all this and more, and help support Girls Who Code with your purchase!</content:encoded>
+      <enclosure url="https://hb.imgix.net/85a25f8282445c9b1175b58e95edd4e4455314c6.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=009ed7d2c99b5f24bd806acae951dda1" length="187199" type="image/jpeg"/>
+      <pubDate>Tue, 20 Feb 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Data Engineering 101</title>
       <link>https://humblebundle.com/software/packt-data-engineering-software</link>
